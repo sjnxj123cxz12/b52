@@ -1,0 +1,153 @@
+
+huJackpot.png
+size: 1140,1127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 504
+  size: 731, 621
+  orig: 731, 621
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 329, 5
+  size: 315, 194
+  orig: 315, 194
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 201
+  size: 807, 301
+  orig: 841, 329
+  offset: 16, 16
+  index: -1
+bantay
+  rotate: false
+  xy: 1051, 570
+  size: 83, 45
+  orig: 85, 47
+  offset: 1, 1
+  index: -1
+baotay
+  rotate: false
+  xy: 1072, 617
+  size: 66, 86
+  orig: 68, 88
+  offset: 1, 1
+  index: -1
+bavai
+  rotate: false
+  xy: 1072, 380
+  size: 62, 67
+  orig: 64, 69
+  offset: 1, 1
+  index: -1
+cangtay
+  rotate: false
+  xy: 933, 6
+  size: 69, 87
+  orig: 71, 89
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: false
+  xy: 998, 861
+  size: 120, 264
+  orig: 122, 266
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: false
+  xy: 855, 8
+  size: 76, 257
+  orig: 78, 259
+  offset: 1, 1
+  index: -1
+dailung
+  rotate: true
+  xy: 976, 562
+  size: 125, 73
+  orig: 127, 75
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 1004, 2
+  size: 105, 120
+  orig: 107, 122
+  offset: 1, 1
+  index: -1
+giapvai
+  rotate: true
+  xy: 1072, 449
+  size: 119, 63
+  orig: 121, 65
+  offset: 1, 1
+  index: -1
+matset
+  rotate: false
+  xy: 1072, 328
+  size: 59, 50
+  orig: 61, 52
+  offset: 1, 1
+  index: -1
+quan
+  rotate: true
+  xy: 811, 267
+  size: 265, 259
+  orig: 267, 261
+  offset: 1, 1
+  index: -1
+set1
+  rotate: true
+  xy: 735, 689
+  size: 436, 261
+  orig: 436, 261
+  offset: 0, 0
+  index: -1
+set2
+  rotate: false
+  xy: 646, 9
+  size: 207, 190
+  orig: 207, 190
+  offset: 0, 0
+  index: -1
+taysau
+  rotate: false
+  xy: 933, 95
+  size: 68, 170
+  orig: 70, 172
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 998, 705
+  size: 154, 138
+  orig: 156, 140
+  offset: 1, 1
+  index: -1
+tiaset
+  rotate: false
+  xy: 2, 4
+  size: 325, 195
+  orig: 327, 197
+  offset: 1, 1
+  index: -1
+tuarua
+  rotate: false
+  xy: 1003, 124
+  size: 82, 141
+  orig: 84, 143
+  offset: 1, 1
+  index: -1
+vatquan
+  rotate: false
+  xy: 735, 534
+  size: 239, 153
+  orig: 241, 155
+  offset: 1, 1
+  index: -1

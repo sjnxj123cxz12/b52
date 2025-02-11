@@ -1,0 +1,20 @@
+
+ButtonQuay.png
+size: 244,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 102
+  size: 242, 99
+  orig: 242, 99
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 1
+  size: 242, 99
+  orig: 242, 99
+  offset: 0, 0
+  index: -1

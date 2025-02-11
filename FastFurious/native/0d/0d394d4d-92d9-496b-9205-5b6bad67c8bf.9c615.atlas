@@ -1,0 +1,34 @@
+
+HUBONUS.png
+size: 1296,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 977, 111
+  size: 317, 340
+  orig: 317, 340
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 614, 97
+  size: 354, 361
+  orig: 354, 361
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 610, 449
+  orig: 650, 472
+  offset: 18, 21
+  index: -1
+4
+  rotate: false
+  xy: 614, 2
+  size: 365, 93
+  orig: 370, 97
+  offset: 2, 3
+  index: -1

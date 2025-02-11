@@ -1,0 +1,76 @@
+
+Quaynhanh.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back Claw
+  rotate: false
+  xy: 148, 189
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 181, 11
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+F2
+  rotate: false
+  xy: 128, 5
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+Front Claw
+  rotate: true
+  xy: 2, 2
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Front Claw 2
+  rotate: false
+  xy: 94, 24
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+Front Claw 3
+  rotate: false
+  xy: 53, 2
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+Nhanh
+  rotate: false
+  xy: 2, 221
+  size: 144, 32
+  orig: 144, 32
+  offset: 0, 0
+  index: -1
+Orb
+  rotate: true
+  xy: 132, 106
+  size: 81, 118
+  orig: 81, 118
+  offset: 0, 0
+  index: -1
+Quay
+  rotate: false
+  xy: 132, 66
+  size: 107, 38
+  orig: 107, 38
+  offset: 0, 0
+  index: -1
+flames_flash_blue
+  rotate: false
+  xy: 2, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Quay.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 57, 4
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+Core
+  rotate: false
+  xy: 401, 9
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+Core Back
+  rotate: false
+  xy: 2, 53
+  size: 181, 198
+  orig: 181, 198
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 2, 7
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Side Metal
+  rotate: false
+  xy: 193, 2
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+Side Metal 2
+  rotate: false
+  xy: 297, 2
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+Thunder
+  rotate: true
+  xy: 185, 59
+  size: 192, 177
+  orig: 192, 177
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 103, 7
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+Y
+  rotate: false
+  xy: 148, 7
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+lightning_new_glow2_
+  rotate: false
+  xy: 364, 123
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

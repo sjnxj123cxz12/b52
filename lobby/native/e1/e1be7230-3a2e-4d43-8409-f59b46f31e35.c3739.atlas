@@ -1,0 +1,195 @@
+
+AnimIconMetalGear.png
+size: 1416,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: true
+  xy: 1035, 269
+  size: 137, 293
+  orig: 137, 293
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 872, 2
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+g3
+  rotate: true
+  xy: 995, 138
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+icon metalgear3
+  rotate: true
+  xy: 422, 177
+  size: 229, 365
+  orig: 229, 365
+  offset: 0, 0
+  index: -1
+icon metalgear7
+  rotate: true
+  xy: 2, 153
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+icon metalgear8
+  rotate: false
+  xy: 789, 186
+  size: 244, 220
+  orig: 244, 220
+  offset: 0, 0
+  index: -1
+k1
+  rotate: true
+  xy: 599, 3
+  size: 29, 83
+  orig: 29, 83
+  offset: 0, 0
+  index: -1
+k2
+  rotate: true
+  xy: 1035, 132
+  size: 135, 279
+  orig: 135, 279
+  offset: 0, 0
+  index: -1
+k3
+  rotate: true
+  xy: 1374, 237
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+k4
+  rotate: true
+  xy: 1227, 26
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+mtgeartext0
+  rotate: true
+  xy: 789, 133
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+mtgeartext1
+  rotate: true
+  xy: 1325, 20
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+mtgeartext10
+  rotate: true
+  xy: 1330, 285
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+mtgeartext11
+  rotate: true
+  xy: 1325, 92
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+mtgeartext12
+  rotate: false
+  xy: 1374, 181
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+mtgeartext2
+  rotate: true
+  xy: 1316, 173
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+mtgeartext3
+  rotate: false
+  xy: 599, 34
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+mtgeartext4
+  rotate: false
+  xy: 599, 92
+  size: 170, 83
+  orig: 170, 83
+  offset: 0, 0
+  index: -1
+mtgeartext5
+  rotate: false
+  xy: 872, 85
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+mtgeartext6
+  rotate: false
+  xy: 1118, 31
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+mtgeartext7
+  rotate: false
+  xy: 995, 31
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+mtgeartext8
+  rotate: true
+  xy: 330, 11
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+mtgeartext9
+  rotate: true
+  xy: 771, 2
+  size: 128, 99
+  orig: 128, 99
+  offset: 0, 0
+  index: -1
+snake1
+  rotate: true
+  xy: 2, 2
+  size: 149, 326
+  orig: 149, 326
+  offset: 0, 0
+  index: -1
+snake2
+  rotate: false
+  xy: 872, 39
+  size: 113, 44
+  orig: 113, 44
+  offset: 0, 0
+  index: -1
+snake3
+  rotate: false
+  xy: 730, 39
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+snake4
+  rotate: false
+  xy: 431, 15
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1

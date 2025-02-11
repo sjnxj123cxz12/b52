@@ -1,0 +1,97 @@
+
+Effect_TrenDuoi.png
+size: 943,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 741, 4
+  size: 72, 73
+  orig: 72, 85
+  offset: 0, 3
+  index: -1
+10
+  rotate: false
+  xy: 519, 2
+  size: 72, 75
+  orig: 72, 85
+  offset: 0, 2
+  index: -1
+11
+  rotate: false
+  xy: 667, 3
+  size: 72, 74
+  orig: 72, 85
+  offset: 0, 3
+  index: -1
+12
+  rotate: false
+  xy: 815, 4
+  size: 72, 73
+  orig: 72, 85
+  offset: 0, 3
+  index: -1
+2
+  rotate: false
+  xy: 1, 1
+  size: 72, 76
+  orig: 72, 85
+  offset: 0, 2
+  index: -1
+3
+  rotate: false
+  xy: 593, 3
+  size: 72, 74
+  orig: 72, 85
+  offset: 0, 2
+  index: -1
+4
+  rotate: false
+  xy: 75, 1
+  size: 72, 76
+  orig: 72, 85
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 149, 1
+  size: 72, 76
+  orig: 72, 85
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 223, 1
+  size: 72, 76
+  orig: 72, 85
+  offset: 0, 1
+  index: -1
+7
+  rotate: false
+  xy: 297, 1
+  size: 72, 76
+  orig: 72, 85
+  offset: 0, 1
+  index: -1
+8
+  rotate: false
+  xy: 371, 1
+  size: 72, 76
+  orig: 72, 85
+  offset: 0, 1
+  index: -1
+9
+  rotate: false
+  xy: 445, 2
+  size: 72, 75
+  orig: 72, 85
+  offset: 0, 2
+  index: -1
+CHuSang
+  rotate: false
+  xy: 889, 8
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1

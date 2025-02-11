@@ -1,0 +1,104 @@
+
+10000.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10.000
+  rotate: true
+  xy: 189, 81
+  size: 186, 54
+  orig: 186, 54
+  offset: 0, 0
+  index: -1
+10000 Base
+  rotate: false
+  xy: 352, 861
+  size: 246, 151
+  orig: 246, 151
+  offset: 0, 0
+  index: -1
+10000 Blue Flame
+  rotate: false
+  xy: 2, 555
+  size: 348, 457
+  orig: 348, 457
+  offset: 0, 0
+  index: -1
+10000 Body
+  rotate: false
+  xy: 824, 808
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+10000 Cape
+  rotate: false
+  xy: 2, 68
+  size: 185, 199
+  orig: 185, 199
+  offset: 0, 0
+  index: -1
+10000 Hammer
+  rotate: false
+  xy: 351, 415
+  size: 132, 128
+  orig: 132, 128
+  offset: 0, 0
+  index: -1
+10000 Head
+  rotate: true
+  xy: 352, 545
+  size: 112, 153
+  orig: 112, 153
+  offset: 0, 0
+  index: -1
+10000 L Arm
+  rotate: false
+  xy: 268, 402
+  size: 81, 151
+  orig: 81, 151
+  offset: 0, 0
+  index: -1
+10000 L Arm Back
+  rotate: false
+  xy: 524, 834
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+10000 Legs
+  rotate: false
+  xy: 352, 659
+  size: 170, 200
+  orig: 170, 200
+  offset: 0, 0
+  index: -1
+10000 R Arm
+  rotate: true
+  xy: 600, 871
+  size: 141, 222
+  orig: 141, 222
+  offset: 0, 0
+  index: -1
+10000 Thunder L
+  rotate: true
+  xy: 268, 264
+  size: 136, 114
+  orig: 136, 114
+  offset: 0, 0
+  index: -1
+10000 Thunder S
+  rotate: false
+  xy: 2, 2
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+10000 Thunderball
+  rotate: false
+  xy: 2, 269
+  size: 264, 284
+  orig: 264, 284
+  offset: 0, 0
+  index: -1

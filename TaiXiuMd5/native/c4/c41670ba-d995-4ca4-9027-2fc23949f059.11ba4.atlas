@@ -1,0 +1,55 @@
+
+anim_txmd5_bomtan.png
+size: 382,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-TÀI
+  rotate: false
+  xy: 177, 16
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+-e-XỈU
+  rotate: false
+  xy: 207, 176
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+-e-cai chen nap day
+  rotate: false
+  xy: 2, 177
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+-e-cai chen nap day copy
+  rotate: false
+  xy: 2, 2
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+Group 40
+  rotate: true
+  xy: 346, 313
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+aura_tx_1 copy
+  rotate: false
+  xy: 177, 86
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+aura_tx_3
+  rotate: false
+  xy: 207, 248
+  size: 137, 132
+  orig: 160, 160
+  offset: 12, 12
+  index: -1

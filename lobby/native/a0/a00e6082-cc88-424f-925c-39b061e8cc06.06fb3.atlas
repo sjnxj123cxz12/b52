@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: MipMapNearestNearest,MipMapNearestNearest
+repeat: none
+arr
+  rotate: true
+  xy: 689, 18
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+arr_on
+  rotate: false
+  xy: 566, 2
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+bt_phishing
+  rotate: false
+  xy: 746, 50
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+bt_phishing1
+  rotate: false
+  xy: 791, 50
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+bt_phishing2
+  rotate: false
+  xy: 836, 50
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+bt_phishing3
+  rotate: false
+  xy: 881, 55
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+bt_x
+  rotate: false
+  xy: 689, 38
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+doran's_shield1
+  rotate: true
+  xy: 601, 8
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+pp1
+  rotate: false
+  xy: 427, 43
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+pp11
+  rotate: false
+  xy: 421, 2
+  size: 143, 25
+  orig: 143, 25
+  offset: 0, 0
+  index: -1
+pp111
+  rotate: false
+  xy: 852, 100
+  size: 141, 26
+  orig: 141, 26
+  offset: 0, 0
+  index: -1
+txtA
+  rotate: false
+  xy: 2, 95
+  size: 423, 31
+  orig: 423, 31
+  offset: 0, 0
+  index: -1
+txtFull
+  rotate: false
+  xy: 2, 2
+  size: 417, 25
+  orig: 417, 25
+  offset: 0, 0
+  index: -1
+txtFull1
+  rotate: false
+  xy: 2, 62
+  size: 423, 31
+  orig: 423, 31
+  offset: 0, 0
+  index: -1
+txtL
+  rotate: false
+  xy: 427, 95
+  size: 423, 31
+  orig: 423, 31
+  offset: 0, 0
+  index: -1
+txtR
+  rotate: false
+  xy: 2, 29
+  size: 423, 31
+  orig: 423, 31
+  offset: 0, 0
+  index: -1

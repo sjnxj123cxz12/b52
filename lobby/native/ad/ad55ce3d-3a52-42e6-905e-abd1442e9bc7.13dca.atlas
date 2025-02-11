@@ -1,0 +1,111 @@
+
+FastandfuriousIcon.png
+size: 644,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rock1
+  rotate: false
+  xy: 257, 403
+  size: 200, 239
+  orig: 200, 239
+  offset: 0, 0
+  index: -1
+black1
+  rotate: true
+  xy: 556, 214
+  size: 174, 66
+  orig: 174, 66
+  offset: 0, 0
+  index: -1
+black2
+  rotate: true
+  xy: 479, 210
+  size: 178, 75
+  orig: 178, 75
+  offset: 0, 0
+  index: -1
+black3
+  rotate: false
+  xy: 479, 162
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+iconfast1
+  rotate: true
+  xy: 459, 390
+  size: 252, 173
+  orig: 252, 173
+  offset: 0, 0
+  index: -1
+iconfast2
+  rotate: true
+  xy: 413, 151
+  size: 237, 64
+  orig: 237, 64
+  offset: 0, 0
+  index: -1
+iconfast3
+  rotate: false
+  xy: 2, 6
+  size: 245, 216
+  orig: 245, 216
+  offset: 0, 0
+  index: -1
+iconfast5
+  rotate: false
+  xy: 396, 62
+  size: 150, 87
+  orig: 150, 87
+  offset: 0, 0
+  index: -1
+khungiconmoi
+  rotate: false
+  xy: 2, 224
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+red1
+  rotate: true
+  xy: 548, 74
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+red2
+  rotate: false
+  xy: 396, 6
+  size: 137, 54
+  orig: 137, 54
+  offset: 0, 0
+  index: -1
+red3
+  rotate: false
+  xy: 575, 179
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 249, 55
+  size: 145, 135
+  orig: 145, 135
+  offset: 0, 0
+  index: -1
+shaw1
+  rotate: false
+  xy: 257, 192
+  size: 154, 209
+  orig: 154, 209
+  offset: 0, 0
+  index: -1
+shaw2
+  rotate: true
+  xy: 249, 2
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1

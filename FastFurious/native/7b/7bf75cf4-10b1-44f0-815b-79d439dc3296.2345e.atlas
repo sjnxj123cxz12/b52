@@ -1,0 +1,125 @@
+
+nhanvat10K.png
+size: 1002,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantay
+  rotate: false
+  xy: 656, 360
+  size: 83, 45
+  orig: 85, 47
+  offset: 1, 1
+  index: -1
+baotay
+  rotate: false
+  xy: 332, 11
+  size: 66, 86
+  orig: 68, 88
+  offset: 1, 1
+  index: -1
+bavai
+  rotate: false
+  xy: 656, 148
+  size: 62, 67
+  orig: 64, 69
+  offset: 1, 1
+  index: -1
+cangtay
+  rotate: false
+  xy: 261, 10
+  size: 69, 87
+  orig: 71, 89
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: true
+  xy: 475, 18
+  size: 120, 264
+  orig: 122, 266
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: true
+  xy: 2, 2
+  size: 76, 257
+  orig: 78, 259
+  offset: 1, 1
+  index: -1
+dailung
+  rotate: true
+  xy: 400, 13
+  size: 125, 73
+  orig: 127, 75
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 740, 145
+  size: 105, 120
+  orig: 107, 122
+  offset: 1, 1
+  index: -1
+giapvai
+  rotate: false
+  xy: 741, 80
+  size: 119, 63
+  orig: 121, 65
+  offset: 1, 1
+  index: -1
+matset
+  rotate: false
+  xy: 913, 44
+  size: 59, 50
+  orig: 61, 52
+  offset: 1, 1
+  index: -1
+quan
+  rotate: true
+  xy: 395, 140
+  size: 265, 259
+  orig: 267, 261
+  offset: 1, 1
+  index: -1
+stone
+  rotate: true
+  xy: 199, 99
+  size: 306, 194
+  orig: 315, 194
+  offset: 9, 0
+  index: -1
+taysau
+  rotate: true
+  xy: 741, 10
+  size: 68, 170
+  orig: 70, 172
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 862, 96
+  size: 154, 138
+  orig: 156, 140
+  offset: 1, 1
+  index: -1
+tiaset
+  rotate: true
+  xy: 2, 80
+  size: 325, 195
+  orig: 327, 197
+  offset: 1, 1
+  index: -1
+tuarua
+  rotate: false
+  xy: 656, 217
+  size: 82, 141
+  orig: 84, 143
+  offset: 1, 1
+  index: -1
+vatquan
+  rotate: false
+  xy: 741, 252
+  size: 239, 153
+  orig: 241, 155
+  offset: 1, 1
+  index: -1

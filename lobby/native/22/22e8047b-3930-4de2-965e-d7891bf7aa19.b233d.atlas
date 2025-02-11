@@ -1,0 +1,202 @@
+
+DaiHaiTrinhIcon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangmuromlogo
+  rotate: false
+  xy: 491, 315
+  size: 264, 191
+  orig: 264, 191
+  offset: 0, 0
+  index: -1
+bb1
+  rotate: true
+  xy: 568, 140
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+bb2
+  rotate: false
+  xy: 491, 152
+  size: 16, 15
+  orig: 27, 25
+  offset: 5, 5
+  index: -1
+bb3
+  rotate: false
+  xy: 568, 123
+  size: 16, 15
+  orig: 27, 25
+  offset: 5, 5
+  index: -1
+bb4
+  rotate: false
+  xy: 1004, 313
+  size: 18, 17
+  orig: 27, 25
+  offset: 4, 4
+  index: -1
+bb5
+  rotate: false
+  xy: 982, 312
+  size: 20, 18
+  orig: 27, 25
+  offset: 3, 4
+  index: -1
+bb6
+  rotate: false
+  xy: 725, 294
+  size: 20, 19
+  orig: 27, 25
+  offset: 3, 3
+  index: -1
+bb7
+  rotate: false
+  xy: 328, 57
+  size: 22, 21
+  orig: 27, 25
+  offset: 2, 2
+  index: -1
+bb8
+  rotate: false
+  xy: 2, 6
+  size: 24, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+daihaitrinh10
+  rotate: false
+  xy: 509, 119
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+daihaitrinh13
+  rotate: false
+  xy: 982, 332
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+daihaitrinh14
+  rotate: false
+  xy: 457, 75
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+daihaitrinh15
+  rotate: true
+  xy: 360, 68
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+daihaitrinh16
+  rotate: false
+  xy: 595, 122
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+daihaitrinh17
+  rotate: false
+  xy: 257, 173
+  size: 232, 333
+  orig: 232, 333
+  offset: 0, 0
+  index: -1
+daihaitrinh18
+  rotate: false
+  xy: 257, 138
+  size: 232, 33
+  orig: 232, 33
+  offset: 0, 0
+  index: -1
+daihaitrinh19
+  rotate: false
+  xy: 982, 376
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+daihaitrinh20
+  rotate: true
+  xy: 509, 70
+  size: 47, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+daihaitrinh21
+  rotate: true
+  xy: 240, 2
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+daihaitrinh3
+  rotate: false
+  xy: 2, 31
+  size: 236, 55
+  orig: 236, 55
+  offset: 0, 0
+  index: -1
+daihaitrinh4
+  rotate: true
+  xy: 757, 297
+  size: 209, 223
+  orig: 225, 223
+  offset: 0, 0
+  index: -1
+daihaitrinh5
+  rotate: true
+  xy: 683, 115
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+daihaitrinh6
+  rotate: false
+  xy: 491, 169
+  size: 102, 110
+  orig: 106, 110
+  offset: 4, 0
+  index: -1
+daihaitrinh8
+  rotate: true
+  xy: 982, 421
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+daihaitrinh9
+  rotate: false
+  xy: 257, 80
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+khungiconmoi
+  rotate: false
+  xy: 2, 88
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+miengtoi
+  rotate: false
+  xy: 595, 201
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+mnuoc
+  rotate: false
+  xy: 491, 281
+  size: 232, 32
+  orig: 232, 32
+  offset: 0, 0
+  index: -1

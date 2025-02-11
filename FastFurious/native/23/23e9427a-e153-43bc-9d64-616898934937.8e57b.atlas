@@ -1,0 +1,160 @@
+
+itwwild.png
+size: 1478,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 81
+  size: 184, 536
+  orig: 184, 536
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1321, 24
+  size: 183, 124
+  orig: 183, 124
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1136, 2
+  size: 183, 205
+  orig: 183, 216
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 267
+  size: 184, 538
+  orig: 184, 538
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 560, 54
+  size: 122, 45
+  orig: 122, 45
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1136, 331
+  size: 275, 120
+  orig: 275, 120
+  offset: 0, 0
+  index: -1
+bantay
+  rotate: true
+  xy: 1402, 246
+  size: 83, 45
+  orig: 85, 47
+  offset: 1, 1
+  index: -1
+baotay
+  rotate: true
+  xy: 1021, 2
+  size: 66, 86
+  orig: 68, 88
+  offset: 1, 1
+  index: -1
+bavai
+  rotate: true
+  xy: 781, 49
+  size: 62, 67
+  orig: 64, 69
+  offset: 1, 1
+  index: -1
+cangtay
+  rotate: true
+  xy: 684, 30
+  size: 69, 87
+  orig: 71, 89
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: true
+  xy: 1136, 209
+  size: 120, 264
+  orig: 122, 266
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: true
+  xy: 2, 3
+  size: 76, 257
+  orig: 78, 259
+  offset: 1, 1
+  index: -1
+dailung
+  rotate: false
+  xy: 433, 6
+  size: 125, 73
+  orig: 127, 75
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 1021, 70
+  size: 105, 120
+  orig: 107, 122
+  offset: 1, 1
+  index: -1
+giapvai
+  rotate: true
+  xy: 1413, 332
+  size: 119, 63
+  orig: 121, 65
+  offset: 1, 1
+  index: -1
+matset
+  rotate: false
+  xy: 560, 2
+  size: 59, 50
+  orig: 61, 52
+  offset: 1, 1
+  index: -1
+quan
+  rotate: false
+  xy: 869, 192
+  size: 265, 259
+  orig: 267, 261
+  offset: 1, 1
+  index: -1
+taysau
+  rotate: true
+  xy: 261, 11
+  size: 68, 170
+  orig: 70, 172
+  offset: 1, 1
+  index: -1
+than
+  rotate: false
+  xy: 865, 52
+  size: 154, 138
+  orig: 156, 140
+  offset: 1, 1
+  index: -1
+tiaset
+  rotate: false
+  xy: 542, 256
+  size: 325, 195
+  orig: 327, 197
+  offset: 1, 1
+  index: -1
+tuarua
+  rotate: false
+  xy: 781, 113
+  size: 82, 141
+  orig: 84, 143
+  offset: 1, 1
+  index: -1
+vatquan
+  rotate: false
+  xy: 540, 101
+  size: 239, 153
+  orig: 241, 155
+  offset: 1, 1
+  index: -1

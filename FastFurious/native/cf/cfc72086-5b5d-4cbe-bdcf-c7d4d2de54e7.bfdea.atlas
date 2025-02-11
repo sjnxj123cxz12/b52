@@ -1,0 +1,83 @@
+
+1000.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1.000
+  rotate: false
+  xy: 738, 307
+  size: 118, 43
+  orig: 118, 43
+  offset: 0, 0
+  index: -1
+1000 Base
+  rotate: false
+  xy: 325, 107
+  size: 246, 151
+  orig: 246, 151
+  offset: 0, 0
+  index: -1
+1000 Cape Back
+  rotate: false
+  xy: 214, 9
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+1000 Cape Back 2
+  rotate: false
+  xy: 738, 352
+  size: 150, 123
+  orig: 150, 123
+  offset: 0, 0
+  index: -1
+1000 Cape Front
+  rotate: true
+  xy: 2, 2
+  size: 85, 210
+  orig: 85, 210
+  offset: 0, 0
+  index: -1
+1000 Clock
+  rotate: true
+  xy: 738, 263
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+1000 Head
+  rotate: false
+  xy: 263, 23
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+1000 Legs
+  rotate: false
+  xy: 573, 128
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+1000 Scroll
+  rotate: false
+  xy: 2, 89
+  size: 321, 386
+  orig: 321, 386
+  offset: 0, 0
+  index: -1
+1000 Upper Body
+  rotate: true
+  xy: 325, 260
+  size: 215, 411
+  orig: 215, 411
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 890, 379
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

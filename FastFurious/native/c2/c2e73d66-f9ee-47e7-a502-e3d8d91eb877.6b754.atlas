@@ -1,0 +1,146 @@
+
+linevang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yl_00000
+  rotate: false
+  xy: 2, 402
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00001
+  rotate: false
+  xy: 355, 452
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00002
+  rotate: false
+  xy: 2, 352
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00003
+  rotate: false
+  xy: 355, 402
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00004
+  rotate: false
+  xy: 2, 302
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00005
+  rotate: false
+  xy: 355, 352
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00006
+  rotate: false
+  xy: 2, 252
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00007
+  rotate: false
+  xy: 355, 302
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00008
+  rotate: false
+  xy: 2, 202
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00009
+  rotate: false
+  xy: 355, 252
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00010
+  rotate: false
+  xy: 2, 152
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00011
+  rotate: false
+  xy: 355, 202
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00012
+  rotate: false
+  xy: 2, 102
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00013
+  rotate: false
+  xy: 355, 152
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00014
+  rotate: false
+  xy: 2, 52
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00015
+  rotate: false
+  xy: 355, 102
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00016
+  rotate: true
+  xy: 708, 149
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00017
+  rotate: false
+  xy: 2, 2
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00018
+  rotate: false
+  xy: 355, 52
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
+yl_00019
+  rotate: false
+  xy: 2, 452
+  size: 351, 48
+  orig: 351, 48
+  offset: 0, 0
+  index: -1
