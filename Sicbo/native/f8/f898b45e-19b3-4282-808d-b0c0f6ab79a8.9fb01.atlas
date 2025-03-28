@@ -1,0 +1,524 @@
+
+JackpotMilitary.png
+size: 1512,1552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor Body
+  rotate: false
+  xy: 79, 261
+  size: 75, 180
+  orig: 75, 180
+  offset: 0, 0
+  index: -1
+Armor Head
+  rotate: false
+  xy: 79, 839
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+Board Fire
+  rotate: true
+  xy: 1365, 565
+  size: 129, 140
+  orig: 129, 140
+  offset: 0, 0
+  index: -1
+Board Smoke
+  rotate: false
+  xy: 1194, 1182
+  size: 289, 224
+  orig: 289, 224
+  offset: 0, 0
+  index: -1
+Body Fire
+  rotate: false
+  xy: 1192, 955
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Dust Fire
+  rotate: false
+  xy: 1192, 763
+  size: 216, 190
+  orig: 216, 190
+  offset: 0, 0
+  index: -1
+Frame_WinMoney
+  rotate: true
+  xy: 156, 44
+  size: 394, 115
+  orig: 394, 115
+  offset: 0, 0
+  index: -1
+Lightning
+  rotate: false
+  xy: 1194, 1408
+  size: 315, 142
+  orig: 315, 142
+  offset: 0, 0
+  index: -1
+Phoenix
+  rotate: false
+  xy: 748, 923
+  size: 442, 439
+  orig: 442, 439
+  offset: 0, 0
+  index: -1
+Phoenix Bevel
+  rotate: false
+  xy: 748, 482
+  size: 442, 439
+  orig: 442, 439
+  offset: 0, 0
+  index: -1
+Phoenix Glow
+  rotate: true
+  xy: 2, 1182
+  size: 180, 157
+  orig: 180, 157
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 01
+  rotate: true
+  xy: 79, 2
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 02
+  rotate: false
+  xy: 456, 17
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 03
+  rotate: false
+  xy: 583, 17
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 04
+  rotate: false
+  xy: 710, 17
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 05
+  rotate: false
+  xy: 837, 417
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 06
+  rotate: true
+  xy: 772, 355
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 07
+  rotate: false
+  xy: 964, 417
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 08
+  rotate: false
+  xy: 837, 352
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 09
+  rotate: true
+  xy: 772, 228
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 10
+  rotate: false
+  xy: 964, 352
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 11
+  rotate: true
+  xy: 772, 101
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 12
+  rotate: true
+  xy: 1091, 270
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 13
+  rotate: false
+  xy: 837, 287
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 14
+  rotate: false
+  xy: 964, 287
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 15
+  rotate: false
+  xy: 837, 222
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 18
+  rotate: false
+  xy: 964, 222
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 19
+  rotate: true
+  xy: 1091, 143
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 20
+  rotate: true
+  xy: 837, 16
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 21
+  rotate: false
+  xy: 837, 157
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 22
+  rotate: false
+  xy: 964, 157
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 23
+  rotate: true
+  xy: 902, 16
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 24
+  rotate: true
+  xy: 967, 16
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 25
+  rotate: true
+  xy: 1032, 16
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Side Fire/Side Fire 26
+  rotate: true
+  xy: 1097, 16
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+Tail Long
+  rotate: false
+  xy: 1192, 595
+  size: 171, 166
+  orig: 171, 166
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 01
+  rotate: true
+  xy: 2, 595
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 02
+  rotate: true
+  xy: 2, 8
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 03
+  rotate: false
+  xy: 161, 1287
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 04
+  rotate: false
+  xy: 161, 1210
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 05
+  rotate: false
+  xy: 161, 1133
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 06
+  rotate: false
+  xy: 161, 1056
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 07
+  rotate: false
+  xy: 161, 979
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 08
+  rotate: false
+  xy: 161, 902
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 09
+  rotate: false
+  xy: 161, 825
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 10
+  rotate: false
+  xy: 159, 748
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 11
+  rotate: false
+  xy: 159, 671
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 12
+  rotate: false
+  xy: 158, 594
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 13
+  rotate: false
+  xy: 158, 517
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 14
+  rotate: false
+  xy: 157, 440
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 15
+  rotate: true
+  xy: 1192, 8
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text Electric/Text Electric 16
+  rotate: true
+  xy: 1269, 8
+  size: 585, 75
+  orig: 585, 75
+  offset: 0, 0
+  index: -1
+Text_HuPhuongHoang
+  rotate: false
+  xy: 2, 1364
+  size: 1190, 186
+  orig: 1190, 186
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: true
+  xy: 273, 82
+  size: 356, 497
+  orig: 356, 497
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 01
+  rotate: false
+  xy: 273, 8
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 02
+  rotate: true
+  xy: 1091, 397
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 03
+  rotate: true
+  xy: 1410, 828
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 04
+  rotate: false
+  xy: 1419, 1050
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 05
+  rotate: false
+  xy: 1419, 918
+  size: 89, 130
+  orig: 89, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 06
+  rotate: false
+  xy: 1410, 696
+  size: 88, 130
+  orig: 88, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 07
+  rotate: true
+  xy: 1346, 477
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 08
+  rotate: true
+  xy: 1346, 390
+  size: 85, 130
+  orig: 85, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 09
+  rotate: true
+  xy: 1346, 305
+  size: 83, 130
+  orig: 83, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 10
+  rotate: true
+  xy: 1346, 222
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 11
+  rotate: true
+  xy: 1346, 139
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 12
+  rotate: false
+  xy: 79, 1050
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 13
+  rotate: false
+  xy: 79, 918
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 14
+  rotate: false
+  xy: 79, 707
+  size: 78, 130
+  orig: 78, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 15
+  rotate: false
+  xy: 79, 575
+  size: 77, 130
+  orig: 77, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 16
+  rotate: false
+  xy: 79, 443
+  size: 76, 130
+  orig: 76, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 17
+  rotate: false
+  xy: 79, 129
+  size: 74, 130
+  orig: 74, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 18
+  rotate: false
+  xy: 1346, 7
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 19
+  rotate: false
+  xy: 1421, 7
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 20
+  rotate: true
+  xy: 324, 12
+  size: 68, 130
+  orig: 68, 130
+  offset: 0, 0
+  index: -1

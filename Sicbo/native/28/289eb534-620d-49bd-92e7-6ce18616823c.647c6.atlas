@@ -1,0 +1,118 @@
+
+Explosion_Fake.png
+size: 437,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ex_01
+  rotate: false
+  xy: 2, 210
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_02
+  rotate: false
+  xy: 106, 314
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_03
+  rotate: false
+  xy: 2, 106
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_04
+  rotate: false
+  xy: 106, 210
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_05
+  rotate: false
+  xy: 210, 314
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_06
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_07
+  rotate: false
+  xy: 106, 106
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_08
+  rotate: false
+  xy: 210, 210
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_09
+  rotate: false
+  xy: 314, 314
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_10
+  rotate: false
+  xy: 106, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_11
+  rotate: false
+  xy: 210, 106
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_12
+  rotate: false
+  xy: 314, 210
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_13
+  rotate: false
+  xy: 210, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_14
+  rotate: false
+  xy: 314, 106
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+ex_15
+  rotate: false
+  xy: 2, 314
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+vetnam
+  rotate: false
+  xy: 314, 52
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1

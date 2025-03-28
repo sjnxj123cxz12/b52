@@ -1,0 +1,356 @@
+
+JackpotMilitary.png
+size: 1009,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electric Explosion/Electric Explosion 01
+  rotate: true
+  xy: 185, 2
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 02
+  rotate: false
+  xy: 794, 214
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 03
+  rotate: false
+  xy: 180, 188
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 04
+  rotate: false
+  xy: 708, 432
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 05
+  rotate: false
+  xy: 180, 304
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 06
+  rotate: false
+  xy: 342, 432
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 07
+  rotate: false
+  xy: 464, 432
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 08
+  rotate: false
+  xy: 586, 432
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 09
+  rotate: false
+  xy: 826, 438
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+Electric Explosion/Electric Explosion 10
+  rotate: false
+  xy: 296, 192
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 257, 19
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+Light 1
+  rotate: false
+  xy: 2, 379
+  size: 176, 173
+  orig: 176, 173
+  offset: 0, 0
+  index: -1
+Light 2
+  rotate: false
+  xy: 2, 204
+  size: 176, 173
+  orig: 176, 173
+  offset: 0, 0
+  index: -1
+Light 3
+  rotate: false
+  xy: 180, 426
+  size: 160, 126
+  orig: 160, 126
+  offset: 0, 0
+  index: -1
+Light Horizontal
+  rotate: false
+  xy: 398, 61
+  size: 126, 22
+  orig: 126, 22
+  offset: 0, 0
+  index: -1
+Light Verticle
+  rotate: false
+  xy: 238, 70
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+Machine
+  rotate: true
+  xy: 409, 2
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+Phoenix
+  rotate: false
+  xy: 129, 76
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+Phoenix Glow
+  rotate: false
+  xy: 2, 76
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 01
+  rotate: true
+  xy: 311, 28
+  size: 30, 96
+  orig: 30, 96
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 02
+  rotate: false
+  xy: 948, 454
+  size: 42, 98
+  orig: 42, 98
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 03
+  rotate: false
+  xy: 858, 112
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 04
+  rotate: false
+  xy: 861, 10
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 05
+  rotate: false
+  xy: 920, 153
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 06
+  rotate: false
+  xy: 776, 112
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 07
+  rotate: true
+  xy: 555, 2
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 08
+  rotate: true
+  xy: 657, 2
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 09
+  rotate: true
+  xy: 759, 2
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 10
+  rotate: false
+  xy: 992, 452
+  size: 13, 100
+  orig: 13, 100
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 11
+  rotate: true
+  xy: 311, 17
+  size: 9, 96
+  orig: 9, 96
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 01
+  rotate: false
+  xy: 134, 2
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 02
+  rotate: true
+  xy: 919, 255
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 03
+  rotate: false
+  xy: 919, 340
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 04
+  rotate: false
+  xy: 302, 294
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 05
+  rotate: false
+  xy: 395, 300
+  size: 89, 130
+  orig: 89, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 06
+  rotate: false
+  xy: 486, 300
+  size: 88, 130
+  orig: 88, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 07
+  rotate: false
+  xy: 576, 300
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 08
+  rotate: false
+  xy: 664, 300
+  size: 85, 130
+  orig: 85, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 09
+  rotate: false
+  xy: 751, 300
+  size: 83, 130
+  orig: 83, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 10
+  rotate: false
+  xy: 836, 306
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 11
+  rotate: true
+  xy: 398, 217
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 12
+  rotate: true
+  xy: 530, 218
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 13
+  rotate: true
+  xy: 662, 218
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 14
+  rotate: false
+  xy: 318, 60
+  size: 78, 130
+  orig: 78, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 15
+  rotate: false
+  xy: 398, 85
+  size: 77, 130
+  orig: 77, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 16
+  rotate: false
+  xy: 477, 85
+  size: 76, 130
+  orig: 76, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 17
+  rotate: false
+  xy: 555, 86
+  size: 74, 130
+  orig: 74, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 18
+  rotate: false
+  xy: 631, 86
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 19
+  rotate: true
+  xy: 2, 3
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1
+Wing Fire/Wing Fire 20
+  rotate: false
+  xy: 706, 86
+  size: 68, 130
+  orig: 68, 130
+  offset: 0, 0
+  index: -1
