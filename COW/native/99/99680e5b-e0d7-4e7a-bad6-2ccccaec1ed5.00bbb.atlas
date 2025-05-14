@@ -1,0 +1,62 @@
+
+COW_Symbol_Scatter.png
+size: 424,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 41
+  size: 65, 126
+  orig: 65, 126
+  offset: 0, 0
+  index: -1
+BGLight
+  rotate: true
+  xy: 130, 41
+  size: 65, 126
+  orig: 65, 126
+  offset: 0, 0
+  index: -1
+BG_Duoi
+  rotate: false
+  xy: 354, 40
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 354, 2
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 262, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Scatter
+  rotate: false
+  xy: 2, 2
+  size: 128, 37
+  orig: 128, 37
+  offset: 0, 0
+  index: -1
+scatterlingt
+  rotate: false
+  xy: 132, 2
+  size: 128, 37
+  orig: 128, 37
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 405, 23
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1

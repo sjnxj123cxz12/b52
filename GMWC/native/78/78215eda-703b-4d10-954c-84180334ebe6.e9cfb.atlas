@@ -1,0 +1,111 @@
+
+VFX_Btn_Spin_Fire.png
+size: 998,998
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball_Fire_00
+  rotate: false
+  xy: 2, 768
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_01
+  rotate: true
+  xy: 270, 730
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_02
+  rotate: true
+  xy: 2, 500
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_03
+  rotate: false
+  xy: 232, 500
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_04
+  rotate: true
+  xy: 500, 730
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_05
+  rotate: true
+  xy: 500, 462
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_06
+  rotate: true
+  xy: 2, 232
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_07
+  rotate: true
+  xy: 232, 232
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_08
+  rotate: false
+  xy: 462, 232
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_09
+  rotate: false
+  xy: 2, 2
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_10
+  rotate: false
+  xy: 270, 2
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_11
+  rotate: false
+  xy: 538, 2
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_12
+  rotate: true
+  xy: 730, 730
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_13
+  rotate: true
+  xy: 730, 462
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1
+Ball_Fire_14
+  rotate: false
+  xy: 730, 232
+  size: 266, 228
+  orig: 266, 228
+  offset: 0, 0
+  index: -1

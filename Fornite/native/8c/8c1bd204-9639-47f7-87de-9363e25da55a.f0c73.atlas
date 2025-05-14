@@ -1,0 +1,146 @@
+
+VFX_NearWin.png
+size: 1992,1038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cube_Runes_1
+  rotate: false
+  xy: 661, 494
+  size: 144, 67
+  orig: 150, 75
+  offset: 4, 4
+  index: -1
+Cube_Runes_2
+  rotate: false
+  xy: 518, 493
+  size: 141, 68
+  orig: 150, 74
+  offset: 4, 3
+  index: -1
+Frame_00
+  rotate: false
+  xy: 2, 488
+  size: 256, 548
+  orig: 256, 548
+  offset: 0, 0
+  index: -1
+Frame_Halo
+  rotate: false
+  xy: 260, 488
+  size: 256, 548
+  orig: 256, 548
+  offset: 0, 0
+  index: -1
+Glow_Yeallow
+  rotate: false
+  xy: 1259, 2
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+Particle_Glyth/Particle_Glyph_00
+  rotate: true
+  xy: 1525, 538
+  size: 248, 464
+  orig: 260, 520
+  offset: 10, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_01
+  rotate: false
+  xy: 1275, 571
+  size: 248, 465
+  orig: 260, 520
+  offset: 10, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_02
+  rotate: true
+  xy: 1514, 22
+  size: 254, 462
+  orig: 260, 520
+  offset: 6, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_03
+  rotate: false
+  xy: 1009, 94
+  size: 248, 468
+  orig: 260, 520
+  offset: 10, 18
+  index: -1
+Particle_Glyth/Particle_Glyph_04
+  rotate: true
+  xy: 1514, 278
+  size: 258, 462
+  orig: 260, 520
+  offset: 1, 20
+  index: -1
+Particle_Glyth/Particle_Glyph_05
+  rotate: false
+  xy: 1015, 571
+  size: 258, 465
+  orig: 260, 520
+  offset: 0, 25
+  index: -1
+Particle_Glyth/Particle_Glyph_06
+  rotate: false
+  xy: 2, 11
+  size: 256, 475
+  orig: 260, 520
+  offset: 2, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_07
+  rotate: false
+  xy: 260, 11
+  size: 238, 475
+  orig: 260, 520
+  offset: 10, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_08
+  rotate: false
+  xy: 518, 563
+  size: 241, 473
+  orig: 260, 520
+  offset: 10, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_09
+  rotate: false
+  xy: 500, 13
+  size: 248, 473
+  orig: 260, 520
+  offset: 2, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_10
+  rotate: false
+  xy: 750, 22
+  size: 257, 470
+  orig: 260, 520
+  offset: 1, 28
+  index: -1
+Particle_Glyth/Particle_Glyph_11
+  rotate: false
+  xy: 1259, 104
+  size: 253, 465
+  orig: 260, 520
+  offset: 2, 33
+  index: -1
+Particle_Glyth/Particle_Glyph_12
+  rotate: false
+  xy: 761, 564
+  size: 252, 472
+  orig: 260, 520
+  offset: 2, 26
+  index: -1
+Particle_Glyth/Particle_Glyph_13
+  rotate: true
+  xy: 1525, 788
+  size: 248, 465
+  orig: 260, 520
+  offset: 6, 26
+  index: -1
+White
+  rotate: false
+  xy: 807, 530
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

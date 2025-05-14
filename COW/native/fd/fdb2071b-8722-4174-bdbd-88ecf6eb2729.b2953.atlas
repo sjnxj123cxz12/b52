@@ -1,0 +1,76 @@
+
+COW_Symbol_Pilot.png
+size: 336,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 247, 70
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 115, 31
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+Frame Highlight
+  rotate: true
+  xy: 115, 5
+  size: 6, 133
+  orig: 6, 133
+  offset: 0, 0
+  index: -1
+Frame Horizontal
+  rotate: true
+  xy: 314, 28
+  size: 107, 9
+  orig: 107, 9
+  offset: 0, 0
+  index: -1
+Frame Horizontal Bright
+  rotate: true
+  xy: 325, 28
+  size: 107, 9
+  orig: 107, 9
+  offset: 0, 0
+  index: -1
+Frame Vertical
+  rotate: true
+  xy: 115, 13
+  size: 16, 133
+  orig: 16, 133
+  offset: 0, 0
+  index: -1
+Frame Vertical Bright
+  rotate: false
+  xy: 296, 2
+  size: 16, 133
+  orig: 16, 133
+  offset: 0, 0
+  index: -1
+Hair Left
+  rotate: false
+  xy: 314, 6
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+Hair Right
+  rotate: true
+  xy: 247, 54
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2, 2
+  size: 111, 133
+  orig: 111, 133
+  offset: 0, 0
+  index: -1

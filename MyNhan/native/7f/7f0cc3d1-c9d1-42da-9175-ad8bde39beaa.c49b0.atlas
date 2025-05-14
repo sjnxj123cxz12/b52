@@ -1,0 +1,104 @@
+
+Symbol_2.png
+size: 482,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snowflakes
+  rotate: false
+  xy: 420, 71
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+aophaisau
+  rotate: false
+  xy: 319, 54
+  size: 59, 156
+  orig: 59, 156
+  offset: 0, 0
+  index: -1
+aotraitruoc1
+  rotate: false
+  xy: 380, 53
+  size: 38, 177
+  orig: 38, 177
+  offset: 0, 0
+  index: -1
+aotraitruoc2
+  rotate: true
+  xy: 2, 2
+  size: 56, 142
+  orig: 56, 142
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 177, 79
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 177, 212
+  size: 82, 191
+  orig: 82, 191
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 132
+  size: 173, 162
+  orig: 173, 162
+  offset: 0, 0
+  index: -1
+mu
+  rotate: false
+  xy: 157, 14
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+musau
+  rotate: true
+  xy: 262, 58
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+tayphai1
+  rotate: false
+  xy: 420, 97
+  size: 40, 133
+  orig: 40, 133
+  offset: 0, 0
+  index: -1
+tayphai2
+  rotate: false
+  xy: 370, 232
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 2, 60
+  size: 70, 153
+  orig: 70, 153
+  offset: 0, 0
+  index: -1
+tocphai
+  rotate: true
+  xy: 367, 5
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+toctrai
+  rotate: true
+  xy: 262, 5
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1

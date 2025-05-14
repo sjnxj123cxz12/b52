@@ -1,0 +1,69 @@
+
+Symbol_4.png
+size: 911,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_3
+  rotate: false
+  xy: 764, 300
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: true
+  xy: 141, 185
+  size: 334, 559
+  orig: 334, 559
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: true
+  xy: 141, 10
+  size: 173, 162
+  orig: 173, 162
+  offset: 0, 0
+  index: -1
+Snowflakes
+  rotate: true
+  xy: 881, 498
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+TayPhai
+  rotate: false
+  xy: 2, 2
+  size: 137, 517
+  orig: 137, 517
+  offset: 0, 0
+  index: -1
+TayTrai
+  rotate: true
+  xy: 305, 17
+  size: 166, 574
+  orig: 166, 574
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 764, 209
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+Toc
+  rotate: false
+  xy: 702, 190
+  size: 60, 247
+  orig: 60, 247
+  offset: 0, 0
+  index: -1
+TocMai
+  rotate: false
+  xy: 702, 439
+  size: 161, 80
+  orig: 161, 80
+  offset: 0, 0
+  index: -1

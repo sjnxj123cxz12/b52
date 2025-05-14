@@ -1,0 +1,125 @@
+
+9926_Winline_K.png
+size: 1730,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fr_singer_normal/fr_singer_normal_00
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_02
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_04
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_06
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_08
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_10
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_12
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_14
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_16
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_18
+  rotate: false
+  xy: 908, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_20
+  rotate: false
+  xy: 1210, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_22
+  rotate: false
+  xy: 908, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_24
+  rotate: false
+  xy: 1210, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_26
+  rotate: false
+  xy: 1210, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fr_singer_normal/fr_singer_normal_28
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+particle_00
+  rotate: false
+  xy: 1512, 483
+  size: 202, 181
+  orig: 213, 191
+  offset: 5, 7
+  index: -1
+spark_big
+  rotate: true
+  xy: 1512, 666
+  size: 240, 216
+  orig: 241, 218
+  offset: 0, 1
+  index: -1

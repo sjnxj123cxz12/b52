@@ -1,0 +1,97 @@
+
+COW_Symbol_Bomb.png
+size: 478,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirplaneFan
+  rotate: true
+  xy: 424, 14
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 218, 51
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+EffNo/a
+  rotate: false
+  xy: 284, 65
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+EffNo/b
+  rotate: false
+  xy: 409, 65
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+EffNo/c
+  rotate: false
+  xy: 2, 10
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+EffectGio
+  rotate: true
+  xy: 353, 18
+  size: 20, 69
+  orig: 20, 69
+  offset: 0, 0
+  index: -1
+Frame Highlight
+  rotate: true
+  xy: 2, 2
+  size: 6, 133
+  orig: 6, 133
+  offset: 0, 0
+  index: -1
+Frame Horizontal
+  rotate: false
+  xy: 137, 3
+  size: 107, 9
+  orig: 107, 9
+  offset: 0, 0
+  index: -1
+Frame Horizontal Bright
+  rotate: false
+  xy: 246, 4
+  size: 107, 9
+  orig: 107, 9
+  offset: 0, 0
+  index: -1
+Frame Vertical
+  rotate: true
+  xy: 218, 33
+  size: 16, 133
+  orig: 16, 133
+  offset: 0, 0
+  index: -1
+Frame Vertical Bright
+  rotate: true
+  xy: 218, 15
+  size: 16, 133
+  orig: 16, 133
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: true
+  xy: 113, 14
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: true
+  xy: 353, 40
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+baucua_live.png
+size: 888,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 266, 60
+  size: 229, 397
+  orig: 229, 397
+  offset: 0, 0
+  index: -1
+Group 5
+  rotate: false
+  xy: 1, 132
+  size: 263, 414
+  orig: 263, 414
+  offset: 0, 0
+  index: -1
+Group 64
+  rotate: false
+  xy: 686, 378
+  size: 166, 168
+  orig: 166, 168
+  offset: 0, 0
+  index: -1
+baucua
+  rotate: false
+  xy: 1, 54
+  size: 234, 76
+  orig: 234, 76
+  offset: 0, 0
+  index: -1
+khungicon
+  rotate: true
+  xy: 266, 291
+  size: 255, 418
+  orig: 255, 418
+  offset: 0, 0
+  index: -1
+miengche
+  rotate: false
+  xy: 1, 1
+  size: 264, 51
+  orig: 264, 51
+  offset: 0, 0
+  index: -1
+qsang_00
+  rotate: false
+  xy: 267, 4
+  size: 220, 54
+  orig: 220, 54
+  offset: 0, 0
+  index: -1
+qsang_01
+  rotate: true
+  xy: 665, 69
+  size: 220, 54
+  orig: 220, 54
+  offset: 0, 0
+  index: -1
+qsang_02
+  rotate: false
+  xy: 489, 4
+  size: 220, 54
+  orig: 220, 54
+  offset: 0, 0
+  index: -1
+qsang_03
+  rotate: true
+  xy: 721, 156
+  size: 220, 54
+  orig: 220, 54
+  offset: 0, 0
+  index: -1
+qsang_04
+  rotate: true
+  xy: 777, 156
+  size: 220, 54
+  orig: 220, 54
+  offset: 0, 0
+  index: -1
+qsang_05
+  rotate: true
+  xy: 833, 156
+  size: 220, 54
+  orig: 220, 54
+  offset: 0, 0
+  index: -1
+xngau1
+  rotate: false
+  xy: 721, 80
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+xngau2
+  rotate: false
+  xy: 793, 103
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1

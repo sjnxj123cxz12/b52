@@ -1,0 +1,188 @@
+
+Effect_Covid_3.png
+size: 1016,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bluesaochoi0
+  rotate: true
+  xy: 662, 139
+  size: 52, 266
+  orig: 89, 287
+  offset: 19, 7
+  index: -1
+bluesaochoi1
+  rotate: true
+  xy: 662, 193
+  size: 54, 266
+  orig: 89, 287
+  offset: 20, 7
+  index: -1
+bluesaochoi2
+  rotate: true
+  xy: 662, 249
+  size: 55, 267
+  orig: 89, 287
+  offset: 20, 7
+  index: -1
+bluesaochoi3
+  rotate: true
+  xy: 681, 371
+  size: 63, 269
+  orig: 89, 287
+  offset: 13, 7
+  index: -1
+bluesaochoi4
+  rotate: true
+  xy: 662, 306
+  size: 63, 271
+  orig: 89, 287
+  offset: 14, 7
+  index: -1
+bluesaochoi5
+  rotate: true
+  xy: 681, 504
+  size: 67, 274
+  orig: 89, 287
+  offset: 13, 5
+  index: -1
+bluesaochoi6
+  rotate: false
+  xy: 930, 738
+  size: 69, 274
+  orig: 89, 287
+  offset: 12, 5
+  index: -1
+bluesaochoi7
+  rotate: true
+  xy: 2, 24
+  size: 68, 261
+  orig: 89, 287
+  offset: 12, 6
+  index: -1
+bluesaochoi8
+  rotate: true
+  xy: 681, 436
+  size: 66, 269
+  orig: 89, 287
+  offset: 15, 10
+  index: -1
+border
+  rotate: false
+  xy: 2, 94
+  size: 233, 492
+  orig: 233, 492
+  offset: 0, 0
+  index: -1
+buttondung
+  rotate: false
+  xy: 470, 190
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+buttonquay
+  rotate: false
+  xy: 237, 198
+  size: 231, 184
+  orig: 231, 184
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 470, 382
+  size: 209, 204
+  orig: 209, 204
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 237, 384
+  size: 231, 202
+  orig: 231, 202
+  offset: 0, 0
+  index: -1
+dung
+  rotate: false
+  xy: 635, 92
+  size: 106, 45
+  orig: 106, 45
+  offset: 0, 0
+  index: -1
+lightbutton
+  rotate: false
+  xy: 417, 42
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+plane0
+  rotate: false
+  xy: 743, 83
+  size: 87, 54
+  orig: 87, 54
+  offset: 0, 0
+  index: -1
+plane1
+  rotate: false
+  xy: 2, 704
+  size: 926, 308
+  orig: 926, 308
+  offset: 0, 0
+  index: -1
+plane2
+  rotate: false
+  xy: 2, 588
+  size: 744, 114
+  orig: 744, 114
+  offset: 0, 0
+  index: -1
+plane3
+  rotate: false
+  xy: 930, 712
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+plane4
+  rotate: false
+  xy: 265, 10
+  size: 150, 107
+  orig: 150, 107
+  offset: 0, 0
+  index: -1
+plane5
+  rotate: true
+  xy: 748, 573
+  size: 129, 246
+  orig: 129, 246
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 957, 447
+  size: 57, 124
+  orig: 57, 124
+  offset: 0, 0
+  index: -1
+quay
+  rotate: true
+  xy: 565, 68
+  size: 120, 68
+  orig: 120, 68
+  offset: 0, 0
+  index: -1
+vetsang
+  rotate: false
+  xy: 237, 119
+  size: 176, 77
+  orig: 176, 77
+  offset: 0, 0
+  index: -1
+whitepoint
+  rotate: false
+  xy: 930, 704
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1

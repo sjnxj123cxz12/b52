@@ -1,0 +1,76 @@
+
+UI_TotalWin.png
+size: 1084,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur
+  rotate: false
+  xy: 2, 557
+  size: 530, 525
+  orig: 530, 525
+  offset: 0, 0
+  index: -1
+Board_1
+  rotate: false
+  xy: 2, 119
+  size: 665, 104
+  orig: 665, 104
+  offset: 0, 0
+  index: -1
+Board_2
+  rotate: false
+  xy: 2, 2
+  size: 608, 115
+  orig: 608, 115
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 534, 699
+  size: 383, 383
+  orig: 383, 383
+  offset: 0, 0
+  index: -1
+Eff_Ellipse
+  rotate: false
+  xy: 694, 9
+  size: 237, 237
+  orig: 237, 237
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 534, 582
+  size: 115, 196
+  orig: 115, 196
+  offset: 0, 0
+  index: -1
+Sparkle_Piece
+  rotate: false
+  xy: 919, 519
+  size: 146, 563
+  orig: 146, 563
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 964, 458
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Tsubasa_Char
+  rotate: false
+  xy: 694, 248
+  size: 268, 269
+  orig: 268, 269
+  offset: 0, 0
+  index: -1
+bg_light
+  rotate: false
+  xy: 2, 225
+  size: 690, 330
+  orig: 690, 330
+  offset: 0, 0
+  index: -1

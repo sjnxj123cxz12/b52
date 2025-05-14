@@ -1,0 +1,454 @@
+
+Symbol_2.png
+size: 640,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_torin_BG_2
+  rotate: false
+  xy: 466, 172
+  size: 135, 85
+  orig: 135, 85
+  offset: 0, 0
+  index: -1
+F_torin_BG_1
+  rotate: false
+  xy: 296, 51
+  size: 145, 23
+  orig: 145, 23
+  offset: 0, 0
+  index: -1
+F_torin_BG_1_glow
+  rotate: false
+  xy: 449, 147
+  size: 145, 23
+  orig: 145, 23
+  offset: 0, 0
+  index: -1
+F_torin_BG_2
+  rotate: false
+  xy: 467, 542
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+F_torin_BG_2_glow
+  rotate: false
+  xy: 296, 76
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+cube1
+  rotate: false
+  xy: 610, 511
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+cube1_glow
+  rotate: false
+  xy: 610, 480
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+cube2
+  rotate: false
+  xy: 544, 99
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+cube2_glow
+  rotate: false
+  xy: 592, 99
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+cube3
+  rotate: false
+  xy: 569, 265
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+cube3_glow
+  rotate: false
+  xy: 610, 451
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+cube_glow
+  rotate: true
+  xy: 126, 803
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_00
+  rotate: false
+  xy: 544, 62
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_01
+  rotate: false
+  xy: 544, 62
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_02
+  rotate: false
+  xy: 544, 62
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_00_add
+  rotate: false
+  xy: 562, 504
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_01_add
+  rotate: false
+  xy: 562, 504
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_02_add
+  rotate: false
+  xy: 562, 504
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_03
+  rotate: true
+  xy: 229, 2
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_03_add
+  rotate: false
+  xy: 562, 466
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_04
+  rotate: true
+  xy: 265, 2
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_04_add
+  rotate: false
+  xy: 562, 428
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_05
+  rotate: false
+  xy: 591, 63
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_05_add
+  rotate: false
+  xy: 562, 390
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_06
+  rotate: false
+  xy: 449, 42
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_06_add
+  rotate: true
+  xy: 569, 342
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_07
+  rotate: false
+  xy: 495, 42
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_07_add
+  rotate: true
+  xy: 569, 294
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_08
+  rotate: false
+  xy: 445, 6
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_08_add
+  rotate: false
+  xy: 301, 13
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_09
+  rotate: false
+  xy: 491, 6
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_09_add
+  rotate: false
+  xy: 349, 13
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_10
+  rotate: false
+  xy: 541, 26
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+hand_torin_glitch_10_add
+  rotate: false
+  xy: 397, 13
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+tor_L_forearm
+  rotate: true
+  xy: 126, 2
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+tor_R_forearm
+  rotate: false
+  xy: 607, 298
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+tor_R_hand
+  rotate: true
+  xy: 607, 348
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+tor_body
+  rotate: false
+  xy: 507, 761
+  size: 127, 101
+  orig: 127, 101
+  offset: 0, 0
+  index: -1
+tor_cap
+  rotate: true
+  xy: 466, 259
+  size: 127, 101
+  orig: 127, 101
+  offset: 0, 0
+  index: -1
+tor_glow
+  rotate: false
+  xy: 2, 865
+  size: 161, 168
+  orig: 161, 168
+  offset: 0, 0
+  index: -1
+tor_head
+  rotate: true
+  xy: 449, 78
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+torin_BG
+  rotate: true
+  xy: 466, 388
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+torin_glitch_00
+  rotate: false
+  xy: 126, 540
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_00_add
+  rotate: true
+  xy: 2, 694
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_01
+  rotate: false
+  xy: 297, 664
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_01_add
+  rotate: false
+  xy: 165, 911
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_02
+  rotate: false
+  xy: 126, 417
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_02_add
+  rotate: true
+  xy: 2, 523
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_03
+  rotate: false
+  xy: 126, 294
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_03_add
+  rotate: false
+  xy: 336, 911
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_04
+  rotate: false
+  xy: 126, 171
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_04_add
+  rotate: true
+  xy: 2, 352
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_05
+  rotate: false
+  xy: 126, 48
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_05_add
+  rotate: true
+  xy: 2, 181
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_06
+  rotate: false
+  xy: 467, 638
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_06_add
+  rotate: true
+  xy: 2, 10
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_07
+  rotate: false
+  xy: 297, 541
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_07_add
+  rotate: true
+  xy: 507, 864
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_08
+  rotate: false
+  xy: 296, 418
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_08_add
+  rotate: false
+  xy: 165, 787
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_09
+  rotate: false
+  xy: 296, 295
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_09_add
+  rotate: false
+  xy: 336, 787
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1
+torin_glitch_10
+  rotate: false
+  xy: 296, 172
+  size: 168, 121
+  orig: 168, 121
+  offset: 0, 0
+  index: -1
+torin_glitch_10_add
+  rotate: false
+  xy: 126, 663
+  size: 169, 122
+  orig: 169, 122
+  offset: 0, 0
+  index: -1

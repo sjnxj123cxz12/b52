@@ -1,0 +1,97 @@
+
+icon taixiu.png
+size: 1403,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 421, 34
+  size: 229, 370
+  orig: 229, 370
+  offset: 0, 0
+  index: -1
+boxhu
+  rotate: false
+  xy: 1046, 208
+  size: 253, 55
+  orig: 253, 55
+  offset: 0, 0
+  index: -1
+boxtai
+  rotate: false
+  xy: 1046, 169
+  size: 226, 37
+  orig: 226, 37
+  offset: 0, 0
+  index: -1
+boxxiu
+  rotate: false
+  xy: 1046, 130
+  size: 226, 37
+  orig: 226, 37
+  offset: 0, 0
+  index: -1
+dongxu
+  rotate: false
+  xy: 1365, 120
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 793, 12
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+hatsang
+  rotate: false
+  xy: 421, 21
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+khungicon
+  rotate: true
+  xy: 1, 10
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 1303, 62
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 1303, 104
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+xngau1
+  rotate: true
+  xy: 1046, 1
+  size: 127, 135
+  orig: 127, 135
+  offset: 0, 0
+  index: -1
+xngau2
+  rotate: false
+  xy: 1183, 4
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+xngau3
+  rotate: false
+  xy: 1301, 148
+  size: 101, 115
+  orig: 101, 115
+  offset: 0, 0
+  index: -1

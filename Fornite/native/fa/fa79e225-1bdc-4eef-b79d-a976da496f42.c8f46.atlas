@@ -1,0 +1,41 @@
+
+UI_Jackpot_Frame.png
+size: 223,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame_Light_Grand
+  rotate: false
+  xy: 2, 170
+  size: 219, 49
+  orig: 230, 81
+  offset: 6, 2
+  index: -1
+Frame_Light_Major
+  rotate: false
+  xy: 2, 112
+  size: 184, 56
+  orig: 192, 81
+  offset: 4, 4
+  index: -1
+Frame_Light_Mini
+  rotate: false
+  xy: 2, 2
+  size: 167, 51
+  orig: 175, 75
+  offset: 4, 4
+  index: -1
+Frame_Light_Minor
+  rotate: false
+  xy: 2, 55
+  size: 177, 55
+  orig: 185, 75
+  offset: 4, 4
+  index: -1
+Light
+  rotate: false
+  xy: 188, 146
+  size: 22, 22
+  orig: 26, 26
+  offset: 2, 2
+  index: -1

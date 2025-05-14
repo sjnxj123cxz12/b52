@@ -1,0 +1,209 @@
+
+Symbol_A_Mega.png
+size: 1064,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 867, 157
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 552, 6
+  size: 85, 110
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 2, 7
+  size: 482, 458
+  orig: 482, 458
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 462, 118
+  size: 371, 322
+  orig: 371, 322
+  offset: 0, 0
+  index: -1
+Bullet
+  rotate: false
+  xy: 1035, 243
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 786, 255
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+C2
+  rotate: false
+  xy: 462, 2
+  size: 88, 114
+  orig: 88, 114
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 876, 96
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 802, 19
+  size: 72, 110
+  orig: 72, 110
+  offset: 0, 0
+  index: -1
+HatL
+  rotate: false
+  xy: 1010, 391
+  size: 52, 98
+  orig: 52, 98
+  offset: 0, 0
+  index: -1
+HatR
+  rotate: true
+  xy: 974, 48
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 786, 358
+  size: 131, 222
+  orig: 131, 222
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 869, 260
+  size: 70, 96
+  orig: 70, 96
+  offset: 0, 0
+  index: -1
+R2
+  rotate: false
+  xy: 639, 6
+  size: 82, 110
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+RauL
+  rotate: false
+  xy: 1010, 187
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+RauR
+  rotate: false
+  xy: 974, 117
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Rope
+  rotate: false
+  xy: 1035, 262
+  size: 22, 127
+  orig: 22, 127
+  offset: 0, 0
+  index: -1
+Rope_Shadow
+  rotate: false
+  xy: 1010, 260
+  size: 23, 129
+  orig: 23, 129
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 941, 255
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 723, 2
+  size: 77, 114
+  orig: 77, 114
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 942, 157
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 786, 131
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+VFX_Money_Santa/Dollar_00
+  rotate: false
+  xy: 1010, 142
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+VFX_Money_Santa/Dollar_01
+  rotate: false
+  xy: 876, 3
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+VFX_Money_Santa/Dollar_02
+  rotate: false
+  xy: 876, 51
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+VFX_Money_Santa/Dollar_03
+  rotate: false
+  xy: 921, 51
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+VFX_Money_Santa/Dollar_04
+  rotate: false
+  xy: 921, 6
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+VFX_Money_Santa/Dollar_05
+  rotate: false
+  xy: 966, 3
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+VFX_Money_Santa/Dollar_06
+  rotate: false
+  xy: 1011, 3
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

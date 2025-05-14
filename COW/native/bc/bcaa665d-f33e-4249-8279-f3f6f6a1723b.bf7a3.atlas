@@ -1,0 +1,97 @@
+
+COW_FireInTheHole.png
+size: 498,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explosion/Explosion 01
+  rotate: true
+  xy: 418, 2
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 02
+  rotate: true
+  xy: 338, 148
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 03
+  rotate: true
+  xy: 254, 62
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 04
+  rotate: true
+  xy: 336, 62
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 05
+  rotate: false
+  xy: 170, 61
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 06
+  rotate: false
+  xy: 254, 146
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 07
+  rotate: true
+  xy: 2, 145
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 08
+  rotate: true
+  xy: 2, 60
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 09
+  rotate: true
+  xy: 86, 145
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 10
+  rotate: true
+  xy: 86, 60
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 11
+  rotate: true
+  xy: 170, 145
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 12
+  rotate: false
+  xy: 418, 150
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 13
+  rotate: false
+  xy: 418, 70
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

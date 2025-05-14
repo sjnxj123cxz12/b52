@@ -1,0 +1,339 @@
+
+9926_Transition_Topup.png
+size: 1496,1540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border_in
+  rotate: false
+  xy: 564, 717
+  size: 417, 42
+  orig: 417, 42
+  offset: 0, 0
+  index: -1
+border_out
+  rotate: true
+  xy: 1146, 1094
+  size: 430, 54
+  orig: 430, 54
+  offset: 0, 0
+  index: -1
+bottle1
+  rotate: true
+  xy: 1036, 1044
+  size: 15, 51
+  orig: 15, 51
+  offset: 0, 0
+  index: -1
+bottle2
+  rotate: false
+  xy: 440, 320
+  size: 13, 45
+  orig: 13, 45
+  offset: 0, 0
+  index: -1
+bottle3
+  rotate: true
+  xy: 1036, 1030
+  size: 12, 51
+  orig: 12, 51
+  offset: 0, 0
+  index: -1
+ceilinglight
+  rotate: true
+  xy: 936, 1061
+  size: 52, 151
+  orig: 52, 151
+  offset: 0, 0
+  index: -1
+disco_ball_00
+  rotate: false
+  xy: 2, 26
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_01
+  rotate: false
+  xy: 1202, 1246
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_02
+  rotate: false
+  xy: 1202, 952
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_03
+  rotate: false
+  xy: 296, 26
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_04
+  rotate: false
+  xy: 440, 371
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_05
+  rotate: false
+  xy: 734, 423
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_06
+  rotate: false
+  xy: 590, 77
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_07
+  rotate: false
+  xy: 884, 129
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_08
+  rotate: false
+  xy: 1178, 658
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+disco_ball_09
+  rotate: false
+  xy: 1178, 364
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 590, 36
+  size: 415, 39
+  orig: 415, 39
+  offset: 0, 0
+  index: -1
+lightdot
+  rotate: false
+  xy: 936, 820
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 440, 367
+  size: 2, 148
+  orig: 2, 148
+  offset: 0, 0
+  index: -1
+lolo_16
+  rotate: false
+  xy: 2, 320
+  size: 436, 343
+  orig: 560, 560
+  offset: 62, 61
+  index: -1
+lolo_20
+  rotate: false
+  xy: 564, 1115
+  size: 523, 409
+  orig: 560, 560
+  offset: 18, 15
+  index: -1
+lolo_24
+  rotate: false
+  xy: 2, 1095
+  size: 560, 429
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+lolo_28
+  rotate: false
+  xy: 2, 665
+  size: 560, 428
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+people
+  rotate: false
+  xy: 936, 909
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+person1
+  rotate: true
+  xy: 1268, 203
+  size: 76, 155
+  orig: 76, 155
+  offset: 0, 0
+  index: -1
+person2
+  rotate: false
+  xy: 1178, 200
+  size: 88, 162
+  orig: 88, 162
+  offset: 0, 0
+  index: -1
+person3
+  rotate: true
+  xy: 1268, 281
+  size: 81, 163
+  orig: 81, 163
+  offset: 0, 0
+  index: -1
+person4
+  rotate: true
+  xy: 564, 668
+  size: 47, 150
+  orig: 47, 150
+  offset: 0, 0
+  index: -1
+person5
+  rotate: true
+  xy: 1007, 60
+  size: 67, 162
+  orig: 67, 162
+  offset: 0, 0
+  index: -1
+reflection_light
+  rotate: false
+  xy: 564, 761
+  size: 370, 352
+  orig: 370, 354
+  offset: 0, 2
+  index: -1
+smoke2
+  rotate: true
+  xy: 2, 2
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+table_line_up
+  rotate: false
+  xy: 2, 1526
+  size: 1176, 12
+  orig: 1176, 12
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 1089, 950
+  size: 574, 55
+  orig: 574, 55
+  offset: 0, 0
+  index: -1
+wine_liquid
+  rotate: true
+  xy: 716, 698
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+
+9926_Transition_Topup2.png
+size: 427,1059
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add/ball_tia_gl
+  rotate: false
+  xy: 2, 711
+  size: 269, 269
+  orig: 333, 333
+  offset: 32, 32
+  index: -1
+add/border_in_gl
+  rotate: true
+  xy: 339, 591
+  size: 466, 86
+  orig: 500, 90
+  offset: 17, 2
+  index: -1
+add/border_out_gl
+  rotate: true
+  xy: 324, 109
+  size: 480, 100
+  orig: 500, 100
+  offset: 10, 0
+  index: -1
+add/glow_circle
+  rotate: true
+  xy: 2, 390
+  size: 319, 320
+  orig: 321, 322
+  offset: 1, 1
+  index: -1
+add/spotlightbase
+  rotate: false
+  xy: 2, 2
+  size: 282, 386
+  orig: 282, 386
+  offset: 0, 0
+  index: -1
+add/text_gl
+  rotate: false
+  xy: 2, 982
+  size: 335, 75
+  orig: 390, 80
+  offset: 28, 3
+  index: -1
+
+9926_Transition_Topup3.png
+size: 1860,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grad/bar_wall
+  rotate: false
+  xy: 2, 47
+  size: 624, 198
+  orig: 624, 202
+  offset: 0, 0
+  index: -1
+grad/table_dark
+  rotate: false
+  xy: 1214, 2
+  size: 644, 96
+  orig: 644, 97
+  offset: 0, 1
+  index: -1
+grad/table_glow_bot
+  rotate: false
+  xy: 628, 56
+  size: 584, 189
+  orig: 584, 189
+  offset: 0, 0
+  index: -1
+grad/table_glow_up
+  rotate: false
+  xy: 1214, 100
+  size: 596, 145
+  orig: 596, 149
+  offset: 0, 4
+  index: -1
+
+9926_Transition_Topup4.png
+size: 247,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+solo/flarebase
+  rotate: false
+  xy: 2, 2
+  size: 243, 244
+  orig: 243, 244
+  offset: 0, 0
+  index: -1

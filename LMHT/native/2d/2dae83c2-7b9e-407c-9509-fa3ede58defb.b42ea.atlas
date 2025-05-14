@@ -1,0 +1,146 @@
+
+icon tx md5.png
+size: 649,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 257, 243
+  size: 229, 402
+  orig: 229, 402
+  offset: 0, 0
+  index: -1
+Energy 21_00006
+  rotate: true
+  xy: 425, 141
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+Group 20
+  rotate: true
+  xy: 303, 3
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+Group 21
+  rotate: false
+  xy: 303, 121
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Group 22
+  rotate: false
+  xy: 478, 121
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+Group 63
+  rotate: true
+  xy: 488, 392
+  size: 253, 91
+  orig: 253, 91
+  offset: 0, 0
+  index: -1
+aura1
+  rotate: true
+  xy: 2, 8
+  size: 217, 229
+  orig: 217, 229
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: true
+  xy: 488, 229
+  size: 161, 157
+  orig: 161, 157
+  offset: 0, 0
+  index: -1
+khungmoi
+  rotate: false
+  xy: 2, 227
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+md5
+  rotate: true
+  xy: 233, 15
+  size: 210, 68
+  orig: 210, 68
+  offset: 0, 0
+  index: -1
+md5_hightlight
+  rotate: true
+  xy: 581, 436
+  size: 209, 66
+  orig: 209, 66
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 423, 5
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+tai_highlight
+  rotate: false
+  xy: 513, 67
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: true
+  xy: 586, 139
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+xiu_highlight
+  rotate: false
+  xy: 423, 64
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+xu1
+  rotate: false
+  xy: 618, 410
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+xu2
+  rotate: false
+  xy: 425, 121
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+xu3
+  rotate: false
+  xy: 581, 402
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+xu4
+  rotate: false
+  xy: 586, 125
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+xu5
+  rotate: false
+  xy: 257, 229
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1

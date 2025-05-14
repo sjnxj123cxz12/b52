@@ -1,0 +1,27 @@
+
+BG_StadiumLight.png
+size: 576,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FlashLight
+  rotate: false
+  xy: 303, 403
+  size: 145, 171
+  orig: 145, 171
+  offset: 0, 0
+  index: -1
+Stage_Light
+  rotate: false
+  xy: 2, 2
+  size: 299, 572
+  orig: 299, 572
+  offset: 0, 0
+  index: -1
+Stick
+  rotate: false
+  xy: 303, 213
+  size: 15, 188
+  orig: 15, 188
+  offset: 0, 0
+  index: -1

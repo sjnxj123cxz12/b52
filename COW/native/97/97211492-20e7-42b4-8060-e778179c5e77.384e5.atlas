@@ -1,0 +1,62 @@
+
+COW_Symbol_Ball_Gun.png
+size: 197,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame1
+  rotate: false
+  xy: 109, 57
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Frame2
+  rotate: false
+  xy: 109, 14
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+NongSung1
+  rotate: true
+  xy: 153, 18
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+NongSung2
+  rotate: true
+  xy: 161, 64
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+OngSung
+  rotate: true
+  xy: 175, 35
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+OngSung2
+  rotate: true
+  xy: 109, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+ThanSung
+  rotate: false
+  xy: 2, 2
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+VoDan
+  rotate: false
+  xy: 153, 2
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1

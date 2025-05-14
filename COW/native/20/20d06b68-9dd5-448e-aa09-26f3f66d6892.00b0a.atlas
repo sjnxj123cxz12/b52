@@ -1,0 +1,90 @@
+
+COW_Symbol_Lewis_Gun.png
+size: 248,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bullet
+  rotate: true
+  xy: 2, 3
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Cartridge Case
+  rotate: false
+  xy: 210, 2
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 2, 13
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+Gun Behind
+  rotate: true
+  xy: 149, 16
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+Gun Highlight
+  rotate: true
+  xy: 149, 2
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+Gun Spark
+  rotate: false
+  xy: 193, 9
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Leg Left
+  rotate: false
+  xy: 231, 4
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+Leg Right
+  rotate: false
+  xy: 210, 14
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Magazine 1
+  rotate: false
+  xy: 30, 3
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+Magazine 2
+  rotate: false
+  xy: 55, 3
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+Smoke 1
+  rotate: true
+  xy: 149, 34
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+Smoke 2
+  rotate: false
+  xy: 121, 2
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1

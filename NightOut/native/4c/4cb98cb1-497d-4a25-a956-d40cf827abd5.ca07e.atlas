@@ -1,0 +1,41 @@
+
+Fx_Impact.png
+size: 643,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Core
+  rotate: false
+  xy: 578, 49
+  size: 63, 63
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 465, 114
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+heart_core
+  rotate: false
+  xy: 465, 14
+  size: 111, 98
+  orig: 128, 128
+  offset: 9, 15
+  index: -1
+texture1
+  rotate: false
+  xy: 237, 7
+  size: 226, 235
+  orig: 256, 256
+  offset: 15, 9
+  index: -1
+texture2
+  rotate: false
+  xy: 2, 2
+  size: 233, 240
+  orig: 256, 256
+  offset: 12, 7
+  index: -1

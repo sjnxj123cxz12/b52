@@ -1,0 +1,20 @@
+
+BG_BonusG_Helicopter.png
+size: 359,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Helicopter2
+  rotate: true
+  xy: 267, 59
+  size: 197, 90
+  orig: 197, 90
+  offset: 0, 0
+  index: -1
+Propeller
+  rotate: false
+  xy: 2, 2
+  size: 263, 254
+  orig: 263, 254
+  offset: 0, 0
+  index: -1

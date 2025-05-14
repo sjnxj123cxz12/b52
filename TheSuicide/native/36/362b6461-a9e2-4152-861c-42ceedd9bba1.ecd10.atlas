@@ -1,0 +1,13 @@
+
+BG_FreeG_Cloud.png
+size: 159,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloud
+  rotate: false
+  xy: 2, 2
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: -1

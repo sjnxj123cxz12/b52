@@ -1,0 +1,20 @@
+
+Text_dangchoithu.png
+size: 76,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 2
+  size: 35, 173
+  orig: 35, 173
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 39, 2
+  size: 35, 173
+  orig: 35, 173
+  offset: 0, 0
+  index: -1

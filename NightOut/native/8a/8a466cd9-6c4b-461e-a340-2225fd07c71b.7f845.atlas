@@ -1,0 +1,251 @@
+
+9926_Mode_Game.png
+size: 1662,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 404, 363
+  size: 412, 405
+  orig: 412, 405
+  offset: 0, 0
+  index: -1
+BGtopArrow
+  rotate: false
+  xy: 1433, 13
+  size: 145, 51
+  orig: 145, 51
+  offset: 0, 0
+  index: -1
+Dibar2
+  rotate: true
+  xy: 2, 339
+  size: 436, 400
+  orig: 436, 400
+  offset: 0, 0
+  index: -1
+Dibar3
+  rotate: false
+  xy: 463, 353
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Dibar4
+  rotate: true
+  xy: 1289, 361
+  size: 198, 126
+  orig: 198, 126
+  offset: 0, 0
+  index: -1
+Dibar5
+  rotate: false
+  xy: 1417, 443
+  size: 237, 106
+  orig: 237, 106
+  offset: 0, 0
+  index: -1
+Dibar6
+  rotate: false
+  xy: 1500, 228
+  size: 155, 73
+  orig: 155, 73
+  offset: 0, 0
+  index: -1
+Dibar7
+  rotate: false
+  xy: 1433, 303
+  size: 212, 72
+  orig: 212, 72
+  offset: 0, 0
+  index: -1
+Karaoke1
+  rotate: false
+  xy: 2, 7
+  size: 339, 330
+  orig: 339, 330
+  offset: 0, 0
+  index: -1
+Karaoke2
+  rotate: false
+  xy: 1433, 377
+  size: 216, 64
+  orig: 216, 64
+  offset: 0, 0
+  index: -1
+Karaoke3
+  rotate: true
+  xy: 998, 467
+  size: 308, 289
+  orig: 308, 289
+  offset: 0, 0
+  index: -1
+Karaoke4
+  rotate: true
+  xy: 1246, 100
+  size: 259, 72
+  orig: 259, 72
+  offset: 0, 0
+  index: -1
+canhsang
+  rotate: false
+  xy: 404, 348
+  size: 57, 13
+  orig: 57, 13
+  offset: 0, 0
+  index: -1
+d_chan
+  rotate: false
+  xy: 1320, 111
+  size: 178, 190
+  orig: 178, 190
+  offset: 0, 0
+  index: -1
+d_ghe
+  rotate: true
+  xy: 1008, 369
+  size: 96, 203
+  orig: 96, 203
+  offset: 0, 0
+  index: -1
+d_glow
+  rotate: false
+  xy: 1289, 624
+  size: 129, 151
+  orig: 129, 151
+  offset: 0, 0
+  index: -1
+d_moi
+  rotate: false
+  xy: 1213, 370
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+d_open
+  rotate: true
+  xy: 811, 366
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1
+d_pop
+  rotate: false
+  xy: 1433, 551
+  size: 227, 224
+  orig: 227, 224
+  offset: 0, 0
+  index: -1
+d_text_dem
+  rotate: false
+  xy: 1320, 307
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+d_text_dem_fx
+  rotate: true
+  xy: 924, 369
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+d_text_dm
+  rotate: false
+  xy: 1289, 561
+  size: 127, 61
+  orig: 127, 61
+  offset: 0, 0
+  index: -1
+d_text_dm_fx
+  rotate: false
+  xy: 976, 2
+  size: 167, 87
+  orig: 167, 87
+  offset: 0, 0
+  index: -1
+d_ticket
+  rotate: true
+  xy: 811, 459
+  size: 316, 185
+  orig: 316, 185
+  offset: 0, 0
+  index: -1
+d_tticket
+  rotate: true
+  xy: 682, 3
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 1500, 77
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+k_money
+  rotate: false
+  xy: 1145, 13
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+k_money2
+  rotate: false
+  xy: 1580, 28
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+k_muiten
+  rotate: true
+  xy: 654, 2
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+mode_bar_dis
+  rotate: true
+  xy: 343, 10
+  size: 327, 309
+  orig: 327, 309
+  offset: 0, 0
+  index: -1
+mode_demdeme_dis
+  rotate: false
+  xy: 654, 40
+  size: 320, 321
+  orig: 320, 321
+  offset: 0, 0
+  index: -1
+mode_karaoke_dis
+  rotate: true
+  xy: 976, 91
+  size: 276, 268
+  orig: 276, 268
+  offset: 0, 0
+  index: -1
+redhighlightBar
+  rotate: false
+  xy: 1433, 66
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+starGlow
+  rotate: false
+  xy: 1246, 426
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+tim
+  rotate: false
+  xy: 1210, 14
+  size: 221, 75
+  orig: 221, 75
+  offset: 0, 0
+  index: -1

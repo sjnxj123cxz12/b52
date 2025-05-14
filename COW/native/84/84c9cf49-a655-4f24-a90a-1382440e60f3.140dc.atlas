@@ -1,0 +1,48 @@
+
+COW_ChoiThuChoiThat.png
+size: 437,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChienSi
+  rotate: false
+  xy: 2, 2
+  size: 133, 255
+  orig: 133, 255
+  offset: 0, 0
+  index: -1
+SiQuan
+  rotate: true
+  xy: 137, 119
+  size: 138, 264
+  orig: 138, 264
+  offset: 0, 0
+  index: -1
+Text_ChoiThat
+  rotate: true
+  xy: 137, 29
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+Text_ChoiThat_light
+  rotate: true
+  xy: 216, 29
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+Text_ChoiThu
+  rotate: true
+  xy: 295, 38
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+Text_ChoiThu_light
+  rotate: true
+  xy: 366, 38
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,363 @@
+
+COW_Symbol_Wild.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aim Corner
+  rotate: false
+  xy: 714, 108
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Aim Icon
+  rotate: false
+  xy: 651, 65
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Airplane
+  rotate: true
+  xy: 693, 356
+  size: 76, 115
+  orig: 76, 115
+  offset: 0, 0
+  index: -1
+Airplane Fan
+  rotate: false
+  xy: 869, 162
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+Airplane Trail
+  rotate: true
+  xy: 2, 10
+  size: 4, 89
+  orig: 4, 89
+  offset: 0, 0
+  index: -1
+Airplane Wing Left
+  rotate: false
+  xy: 714, 139
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+Airplane Wing Right
+  rotate: false
+  xy: 498, 311
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+BG Metal
+  rotate: true
+  xy: 693, 434
+  size: 76, 143
+  orig: 76, 143
+  offset: 0, 0
+  index: -1
+BG Sky
+  rotate: false
+  xy: 382, 139
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+Bullet Hole
+  rotate: false
+  xy: 557, 314
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 01
+  rotate: false
+  xy: 810, 356
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 02
+  rotate: true
+  xy: 498, 52
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 03
+  rotate: true
+  xy: 302, 38
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 04
+  rotate: true
+  xy: 483, 212
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 05
+  rotate: false
+  xy: 780, 257
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 06
+  rotate: false
+  xy: 879, 256
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 07
+  rotate: false
+  xy: 201, 38
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 08
+  rotate: false
+  xy: 382, 212
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 09
+  rotate: true
+  xy: 399, 38
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 10
+  rotate: true
+  xy: 580, 233
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 11
+  rotate: false
+  xy: 679, 257
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 12
+  rotate: false
+  xy: 679, 162
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 13
+  rotate: false
+  xy: 774, 162
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+Focus
+  rotate: false
+  xy: 425, 21
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+Frame Horizontal
+  rotate: false
+  xy: 201, 18
+  size: 110, 18
+  orig: 110, 18
+  offset: 0, 0
+  index: -1
+Frame Horizontal Bright
+  rotate: false
+  xy: 313, 18
+  size: 110, 18
+  orig: 110, 18
+  offset: 0, 0
+  index: -1
+Frame Vertical
+  rotate: true
+  xy: 838, 477
+  size: 33, 162
+  orig: 33, 162
+  offset: 0, 0
+  index: -1
+Frame Vertical Bright
+  rotate: true
+  xy: 838, 442
+  size: 33, 162
+  orig: 33, 162
+  offset: 0, 0
+  index: -1
+Gold Airplane
+  rotate: false
+  xy: 458, 149
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+Gold Sword
+  rotate: false
+  xy: 978, 281
+  size: 10, 72
+  orig: 10, 72
+  offset: 0, 0
+  index: -1
+Impact/Impact 01
+  rotate: false
+  xy: 2, 16
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Impact/Impact 02
+  rotate: false
+  xy: 550, 375
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+Impact/Impact 03
+  rotate: false
+  xy: 386, 352
+  size: 162, 158
+  orig: 162, 158
+  offset: 0, 0
+  index: -1
+Impact/Impact 04
+  rotate: false
+  xy: 194, 137
+  size: 186, 181
+  orig: 186, 181
+  offset: 0, 0
+  index: -1
+Impact/Impact 05
+  rotate: false
+  xy: 2, 320
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+Impact/Impact 06
+  rotate: false
+  xy: 2, 128
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+Impact/Impact 07
+  rotate: false
+  xy: 194, 320
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+Medal
+  rotate: false
+  xy: 114, 10
+  size: 85, 116
+  orig: 85, 116
+  offset: 0, 0
+  index: -1
+Medal Bright
+  rotate: true
+  xy: 890, 355
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 596, 2
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 1
+  rotate: false
+  xy: 594, 109
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 2
+  rotate: false
+  xy: 532, 150
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 3
+  rotate: false
+  xy: 594, 169
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 4
+  rotate: false
+  xy: 959, 192
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 5
+  rotate: false
+  xy: 959, 130
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 6
+  rotate: false
+  xy: 654, 104
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 7
+  rotate: false
+  xy: 593, 53
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 8
+  rotate: false
+  xy: 498, 2
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Sparks/Sparks 9
+  rotate: false
+  xy: 547, 3
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: false
+  xy: 386, 311
+  size: 110, 39
+  orig: 110, 39
+  offset: 0, 0
+  index: -1
+Wild Bright
+  rotate: false
+  xy: 550, 334
+  size: 110, 39
+  orig: 110, 39
+  offset: 0, 0
+  index: -1

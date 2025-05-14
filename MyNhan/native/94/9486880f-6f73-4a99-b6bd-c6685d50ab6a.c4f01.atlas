@@ -1,0 +1,62 @@
+
+Free_Spin_Donna.png
+size: 953,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChanTrai
+  rotate: true
+  xy: 281, 7
+  size: 80, 237
+  orig: 80, 237
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: true
+  xy: 520, 2
+  size: 85, 155
+  orig: 85, 155
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 281, 89
+  size: 407, 133
+  orig: 407, 133
+  offset: 0, 0
+  index: -1
+Tay
+  rotate: false
+  xy: 907, 49
+  size: 44, 173
+  orig: 44, 173
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 690, 150
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+Tui
+  rotate: false
+  xy: 2, 23
+  size: 277, 199
+  orig: 277, 199
+  offset: 0, 0
+  index: -1
+Vay
+  rotate: false
+  xy: 677, 7
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+chanPhai
+  rotate: false
+  xy: 802, 38
+  size: 103, 184
+  orig: 103, 184
+  offset: 0, 0
+  index: -1

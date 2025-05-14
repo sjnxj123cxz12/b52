@@ -1,0 +1,125 @@
+
+9926_Btn_FakePlay.png
+size: 189,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choithat
+  rotate: false
+  xy: 2, 77
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+choithat1
+  rotate: false
+  xy: 149, 42
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+choithat2
+  rotate: false
+  xy: 149, 64
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+choithat6
+  rotate: false
+  xy: 149, 64
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+choithat3
+  rotate: true
+  xy: 165, 112
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+choithat4
+  rotate: false
+  xy: 180, 90
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+choithat5
+  rotate: false
+  xy: 149, 20
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+choithat7
+  rotate: false
+  xy: 149, 86
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+choithu
+  rotate: false
+  xy: 2, 11
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+choithu1
+  rotate: true
+  xy: 165, 76
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+choithu2
+  rotate: false
+  xy: 165, 90
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+choithu6
+  rotate: false
+  xy: 165, 90
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+choithu3
+  rotate: true
+  xy: 165, 127
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+choithu4
+  rotate: true
+  xy: 2, 2
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+choithu5
+  rotate: true
+  xy: 164, 62
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+choithu8
+  rotate: true
+  xy: 164, 62
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+choithu7
+  rotate: false
+  xy: 149, 114
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1

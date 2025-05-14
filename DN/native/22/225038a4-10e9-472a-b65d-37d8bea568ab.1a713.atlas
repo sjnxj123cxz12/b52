@@ -1,0 +1,62 @@
+
+9863_UI_Sticky_Plus.png
+size: 224,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++
+  rotate: false
+  xy: 127, 69
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 112, 56
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+detail
+  rotate: false
+  xy: 186, 186
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 114, 88
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+fx_OuterGlow
+  rotate: false
+  xy: 2, 112
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+fx_outerglow_ef
+  rotate: false
+  xy: 2, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+shape
+  rotate: false
+  xy: 114, 152
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+triangle
+  rotate: false
+  xy: 186, 159
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1

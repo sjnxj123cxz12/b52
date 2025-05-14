@@ -1,0 +1,76 @@
+
+Symbol_4_Mega.png
+size: 561,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChanPhai2
+  rotate: true
+  xy: 193, 17
+  size: 66, 123
+  orig: 66, 123
+  offset: 0, 0
+  index: -1
+ChanTrai
+  rotate: true
+  xy: 259, 135
+  size: 137, 244
+  orig: 137, 244
+  offset: 0, 0
+  index: -1
+ChyanPhai1
+  rotate: false
+  xy: 318, 18
+  size: 124, 65
+  orig: 124, 65
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: true
+  xy: 2, 13
+  size: 114, 189
+  orig: 114, 189
+  offset: 0, 0
+  index: -1
+Sung
+  rotate: false
+  xy: 2, 129
+  size: 255, 143
+  orig: 255, 143
+  offset: 0, 0
+  index: -1
+TayPhai
+  rotate: true
+  xy: 259, 85
+  size: 48, 175
+  orig: 48, 175
+  offset: 0, 0
+  index: -1
+TayTrai
+  rotate: false
+  xy: 505, 88
+  size: 54, 184
+  orig: 54, 184
+  offset: 0, 0
+  index: -1
+Than
+  rotate: false
+  xy: 444, 6
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+Toc
+  rotate: false
+  xy: 535, 2
+  size: 22, 84
+  orig: 22, 84
+  offset: 0, 0
+  index: -1
+TocMai
+  rotate: false
+  xy: 193, 98
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1

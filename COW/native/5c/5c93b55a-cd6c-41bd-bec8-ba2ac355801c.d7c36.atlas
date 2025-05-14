@@ -1,0 +1,174 @@
+
+IconTheThao.png
+size: 1216,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BallRolling1
+  rotate: false
+  xy: 1168, 248
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling10
+  rotate: false
+  xy: 1157, 18
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling2
+  rotate: false
+  xy: 1168, 202
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling3
+  rotate: false
+  xy: 1168, 156
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling4
+  rotate: false
+  xy: 1168, 110
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling5
+  rotate: false
+  xy: 1168, 64
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling6
+  rotate: false
+  xy: 973, 30
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling7
+  rotate: false
+  xy: 1019, 18
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling8
+  rotate: false
+  xy: 1065, 18
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+BallRolling9
+  rotate: false
+  xy: 1111, 63
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+icon callwar1
+  rotate: true
+  xy: 2, 39
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+icon thethao2
+  rotate: true
+  xy: 939, 76
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+icon thethao3
+  rotate: true
+  xy: 831, 72
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+icon thethao6
+  rotate: true
+  xy: 897, 2
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+icon thethao7
+  rotate: true
+  xy: 885, 72
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+icon thethao8
+  rotate: true
+  xy: 899, 37
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+iconSportCup4
+  rotate: true
+  xy: 674, 35
+  size: 29, 223
+  orig: 29, 223
+  offset: 0, 0
+  index: -1
+iconSportCup5
+  rotate: true
+  xy: 831, 109
+  size: 183, 335
+  orig: 183, 335
+  offset: 0, 0
+  index: -1
+iconSportCup6
+  rotate: true
+  xy: 422, 66
+  size: 226, 407
+  orig: 226, 407
+  offset: 0, 0
+  index: -1
+rb1
+  rotate: true
+  xy: 674, 4
+  size: 29, 221
+  orig: 29, 221
+  offset: 0, 0
+  index: -1
+rb2
+  rotate: true
+  xy: 2, 3
+  size: 34, 223
+  orig: 34, 223
+  offset: 0, 0
+  index: -1
+rb3
+  rotate: true
+  xy: 452, 34
+  size: 30, 220
+  orig: 30, 220
+  offset: 0, 0
+  index: -1
+rb4
+  rotate: true
+  xy: 452, 2
+  size: 30, 220
+  orig: 30, 220
+  offset: 0, 0
+  index: -1
+rb5
+  rotate: true
+  xy: 227, 3
+  size: 34, 223
+  orig: 34, 223
+  offset: 0, 0
+  index: -1

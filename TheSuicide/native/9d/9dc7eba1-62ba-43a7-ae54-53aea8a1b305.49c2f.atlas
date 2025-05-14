@@ -1,0 +1,188 @@
+
+VFX_TotalWin_Frame.png
+size: 912,890
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gradient_FFA
+  rotate: false
+  xy: 678, 23
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+L_Light_On
+  rotate: false
+  xy: 900, 595
+  size: 10, 54
+  orig: 10, 54
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: false
+  xy: 678, 80
+  size: 104, 132
+  orig: 104, 132
+  offset: 0, 0
+  index: -1
+Light3
+  rotate: false
+  xy: 784, 61
+  size: 21, 151
+  orig: 21, 151
+  offset: 0, 0
+  index: -1
+Under_Light_On
+  rotate: true
+  xy: 900, 651
+  size: 237, 10
+  orig: 237, 10
+  offset: 0, 0
+  index: -1
+VFX/VFX_00
+  rotate: false
+  xy: 2, 779
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_20
+  rotate: false
+  xy: 2, 779
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_01
+  rotate: false
+  xy: 2, 668
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_02
+  rotate: false
+  xy: 340, 779
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_03
+  rotate: false
+  xy: 2, 557
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_04
+  rotate: false
+  xy: 340, 668
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_05
+  rotate: false
+  xy: 2, 446
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_06
+  rotate: false
+  xy: 340, 557
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_07
+  rotate: false
+  xy: 2, 335
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_08
+  rotate: false
+  xy: 340, 446
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_09
+  rotate: true
+  xy: 678, 552
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_10
+  rotate: false
+  xy: 2, 224
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_11
+  rotate: false
+  xy: 340, 335
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_12
+  rotate: true
+  xy: 789, 552
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_13
+  rotate: false
+  xy: 2, 113
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_14
+  rotate: false
+  xy: 340, 224
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_15
+  rotate: false
+  xy: 2, 2
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_16
+  rotate: false
+  xy: 340, 113
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_17
+  rotate: true
+  xy: 678, 214
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_18
+  rotate: false
+  xy: 340, 2
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1
+VFX/VFX_19
+  rotate: true
+  xy: 789, 214
+  size: 336, 109
+  orig: 336, 109
+  offset: 0, 0
+  index: -1

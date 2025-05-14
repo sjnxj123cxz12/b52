@@ -1,0 +1,146 @@
+
+Symbol_All.png
+size: 574,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_01
+  rotate: false
+  xy: 2, 436
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_03
+  rotate: false
+  xy: 2, 300
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_05
+  rotate: false
+  xy: 2, 164
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_07
+  rotate: false
+  xy: 2, 28
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_09
+  rotate: false
+  xy: 138, 436
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_11
+  rotate: false
+  xy: 274, 436
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_13
+  rotate: false
+  xy: 410, 436
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_15
+  rotate: false
+  xy: 138, 300
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_17
+  rotate: false
+  xy: 138, 164
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Fire_19
+  rotate: false
+  xy: 138, 28
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Glove_Left
+  rotate: true
+  xy: 274, 217
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+Glove_Right
+  rotate: true
+  xy: 381, 133
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+Glove_Right_Shadow
+  rotate: false
+  xy: 488, 112
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 381, 20
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+Shoe_Back
+  rotate: false
+  xy: 274, 58
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+Shoe_Front
+  rotate: false
+  xy: 459, 34
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+TShirt
+  rotate: true
+  xy: 410, 315
+  size: 119, 125
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+TShirt_Shine
+  rotate: true
+  xy: 274, 303
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+Whistle
+  rotate: false
+  xy: 274, 131
+  size: 105, 84
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 410, 219
+  size: 121, 94
+  orig: 121, 94
+  offset: 0, 0
+  index: -1

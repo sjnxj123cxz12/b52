@@ -1,0 +1,83 @@
+
+Symbol_6.png
+size: 224,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanhLeft
+  rotate: false
+  xy: 162, 11
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+BanhRight
+  rotate: false
+  xy: 162, 11
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Buom
+  rotate: false
+  xy: 117, 65
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 2
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+Glow_Bright
+  rotate: false
+  xy: 117, 118
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 109, 8
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 108
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+Sung
+  rotate: true
+  xy: 162, 30
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+Tai
+  rotate: false
+  xy: 177, 34
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+Than
+  rotate: false
+  xy: 177, 75
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 177, 44
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

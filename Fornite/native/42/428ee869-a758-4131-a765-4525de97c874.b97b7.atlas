@@ -1,0 +1,41 @@
+
+Symbol_7.png
+size: 238,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+Body_Glow
+  rotate: true
+  xy: 86, 2
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+Lug
+  rotate: false
+  xy: 201, 19
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+SafePin
+  rotate: true
+  xy: 170, 4
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+SafetyLever
+  rotate: true
+  xy: 170, 31
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1

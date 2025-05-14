@@ -1,0 +1,111 @@
+
+VFX_StarFish_Multiply.png
+size: 477,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Blood_1
+  rotate: false
+  xy: 408, 16
+  size: 47, 22
+  orig: 134, 60
+  offset: 13, 20
+  index: -1
+FX/Blood_2
+  rotate: false
+  xy: 241, 14
+  size: 66, 32
+  orig: 134, 60
+  offset: 29, 14
+  index: -1
+FX/Blood_3
+  rotate: true
+  xy: 141, 63
+  size: 76, 50
+  orig: 134, 60
+  offset: 40, 6
+  index: -1
+FX/Blood_4
+  rotate: true
+  xy: 409, 73
+  size: 69, 56
+  orig: 134, 60
+  offset: 50, 4
+  index: -1
+FX/Blood_5
+  rotate: false
+  xy: 335, 23
+  size: 71, 58
+  orig: 134, 60
+  offset: 55, 2
+  index: -1
+FX/Blood_6
+  rotate: false
+  xy: 335, 83
+  size: 72, 59
+  orig: 134, 60
+  offset: 58, 1
+  index: -1
+FX/Blood_7
+  rotate: false
+  xy: 177, 2
+  size: 62, 44
+  orig: 134, 60
+  offset: 70, 9
+  index: -1
+FX/Blood_8
+  rotate: true
+  xy: 141, 2
+  size: 59, 34
+  orig: 134, 60
+  offset: 73, 8
+  index: -1
+FX/Blood_9
+  rotate: false
+  xy: 408, 40
+  size: 57, 31
+  orig: 134, 60
+  offset: 75, 8
+  index: -1
+Glow
+  rotate: false
+  xy: 335, 144
+  size: 107, 42
+  orig: 107, 43
+  offset: 0, 1
+  index: -1
+Hole
+  rotate: false
+  xy: 193, 188
+  size: 140, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+Hole_Light
+  rotate: false
+  xy: 335, 188
+  size: 140, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 141
+  size: 189, 185
+  orig: 192, 188
+  offset: 1, 1
+  index: -1
+Sound_Wave
+  rotate: false
+  xy: 2, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Starfish
+  rotate: false
+  xy: 193, 48
+  size: 140, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1

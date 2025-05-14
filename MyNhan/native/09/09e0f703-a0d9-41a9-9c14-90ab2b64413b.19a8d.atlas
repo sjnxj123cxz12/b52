@@ -1,0 +1,174 @@
+
+iconLIVEsicbo.png
+size: 1540,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1e7c67cd058b3d85bb6b1a78f7c15c8504d2c3de71a6-Yz6gRJ_fw1200
+  rotate: false
+  xy: 883, 102
+  size: 265, 196
+  orig: 265, 196
+  offset: 0, 0
+  index: -1
+arrowlive
+  rotate: false
+  xy: 1376, 7
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+bannerLIVEsicbo10
+  rotate: true
+  xy: 481, 33
+  size: 265, 400
+  orig: 265, 400
+  offset: 0, 0
+  index: -1
+button live
+  rotate: false
+  xy: 1151, 18
+  size: 97, 39
+  orig: 97, 39
+  offset: 0, 0
+  index: -1
+icon_sicboLIVE1
+  rotate: false
+  xy: 883, 39
+  size: 266, 61
+  orig: 266, 61
+  offset: 0, 0
+  index: -1
+icon_sicboLIVE2
+  rotate: false
+  xy: 1250, 11
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+icon_sicboLIVE3
+  rotate: true
+  xy: 481, 15
+  size: 16, 53
+  orig: 16, 53
+  offset: 0, 0
+  index: -1
+icon_sicboLIVE4
+  rotate: false
+  xy: 1437, 32
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+icon_sicboLIVE5
+  rotate: false
+  xy: 1315, 11
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+icon_sicboLIVE6
+  rotate: false
+  xy: 1376, 32
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+khung
+  rotate: true
+  xy: 2, 13
+  size: 285, 477
+  orig: 285, 477
+  offset: 0, 0
+  index: -1
+longxx
+  rotate: true
+  xy: 1150, 104
+  size: 194, 229
+  orig: 194, 229
+  offset: 0, 0
+  index: -1
+miengkinh
+  rotate: false
+  xy: 1151, 59
+  size: 219, 43
+  orig: 219, 43
+  offset: 0, 0
+  index: -1
+textLIVE
+  rotate: false
+  xy: 1433, 13
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+wave0
+  rotate: false
+  xy: 1433, 8
+  size: 5, 3
+  orig: 29, 16
+  offset: 0, 1
+  index: -1
+wave1
+  rotate: false
+  xy: 883, 33
+  size: 5, 4
+  orig: 29, 16
+  offset: 3, 1
+  index: -1
+wave2
+  rotate: true
+  xy: 1372, 81
+  size: 4, 7
+  orig: 29, 16
+  offset: 6, 0
+  index: -1
+wave3
+  rotate: false
+  xy: 1483, 22
+  size: 5, 8
+  orig: 29, 16
+  offset: 8, 0
+  index: -1
+wave4
+  rotate: false
+  xy: 2, 2
+  size: 5, 9
+  orig: 29, 16
+  offset: 10, 0
+  index: -1
+wave5
+  rotate: false
+  xy: 1532, 287
+  size: 6, 11
+  orig: 29, 16
+  offset: 13, 0
+  index: -1
+wave6
+  rotate: false
+  xy: 536, 19
+  size: 7, 12
+  orig: 29, 16
+  offset: 15, 1
+  index: -1
+wave7
+  rotate: false
+  xy: 1493, 65
+  size: 7, 13
+  orig: 29, 16
+  offset: 18, 1
+  index: -1
+wave8
+  rotate: false
+  xy: 1372, 87
+  size: 7, 15
+  orig: 29, 16
+  offset: 21, 1
+  index: -1
+xx
+  rotate: true
+  xy: 1381, 80
+  size: 218, 149
+  orig: 218, 149
+  offset: 0, 0
+  index: -1

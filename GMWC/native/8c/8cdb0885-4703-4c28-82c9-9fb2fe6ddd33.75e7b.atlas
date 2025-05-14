@@ -1,0 +1,419 @@
+
+UI_Jackpot.png
+size: 1555,1555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Board
+  rotate: false
+  xy: 2, 936
+  size: 572, 273
+  orig: 572, 273
+  offset: 0, 0
+  index: -1
+BG_Glow
+  rotate: false
+  xy: 2, 1211
+  size: 715, 342
+  orig: 715, 342
+  offset: 0, 0
+  index: -1
+Ball_BG
+  rotate: true
+  xy: 854, 273
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+Board
+  rotate: false
+  xy: 719, 1394
+  size: 628, 159
+  orig: 628, 159
+  offset: 0, 0
+  index: -1
+Fire/00
+  rotate: false
+  xy: 1349, 1433
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/01
+  rotate: true
+  xy: 996, 346
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/02
+  rotate: true
+  xy: 1350, 1231
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/03
+  rotate: false
+  xy: 477, 151
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/04
+  rotate: false
+  xy: 679, 151
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/05
+  rotate: true
+  xy: 1118, 332
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/06
+  rotate: false
+  xy: 137, 48
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/07
+  rotate: false
+  xy: 473, 29
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/08
+  rotate: false
+  xy: 675, 29
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/09
+  rotate: true
+  xy: 1156, 984
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/10
+  rotate: true
+  xy: 1278, 1016
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/11
+  rotate: true
+  xy: 1400, 1029
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/12
+  rotate: false
+  xy: 881, 151
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/13
+  rotate: false
+  xy: 877, 29
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/14
+  rotate: true
+  xy: 1083, 130
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/15
+  rotate: true
+  xy: 1205, 130
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/16
+  rotate: false
+  xy: 1079, 8
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/17
+  rotate: true
+  xy: 1197, 726
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/18
+  rotate: true
+  xy: 1240, 380
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/19
+  rotate: true
+  xy: 1319, 814
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/20
+  rotate: true
+  xy: 1322, 612
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/21
+  rotate: true
+  xy: 1362, 410
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/22
+  rotate: true
+  xy: 1327, 178
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Fire/23
+  rotate: false
+  xy: 1327, 56
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+Lets_go
+  rotate: true
+  xy: 1281, 12
+  size: 116, 44
+  orig: 116, 44
+  offset: 0, 0
+  index: -1
+Light_Board
+  rotate: true
+  xy: 2, 306
+  size: 628, 159
+  orig: 628, 159
+  offset: 0, 0
+  index: -1
+Line_3
+  rotate: false
+  xy: 1240, 344
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Line_3_Glow
+  rotate: true
+  xy: 939, 291
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+Line_Bot
+  rotate: false
+  xy: 512, 273
+  size: 340, 71
+  orig: 340, 71
+  offset: 0, 0
+  index: -1
+Line_Bot_Glow
+  rotate: true
+  xy: 1124, 534
+  size: 340, 71
+  orig: 340, 71
+  offset: 0, 0
+  index: -1
+Line_Top
+  rotate: false
+  xy: 137, 224
+  size: 338, 52
+  orig: 338, 52
+  offset: 0, 0
+  index: -1
+Line_Top_Glow
+  rotate: false
+  xy: 137, 170
+  size: 338, 52
+  orig: 338, 52
+  offset: 0, 0
+  index: -1
+Misaki_Body
+  rotate: false
+  xy: 163, 278
+  size: 347, 279
+  orig: 347, 279
+  offset: 0, 0
+  index: -1
+Misaki_EyeBrown
+  rotate: false
+  xy: 576, 1195
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+Misaki_Hair
+  rotate: false
+  xy: 2, 31
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+Misaki_HandLeft
+  rotate: false
+  xy: 1156, 928
+  size: 129, 54
+  orig: 129, 54
+  offset: 0, 0
+  index: -1
+Misaki_Head
+  rotate: false
+  xy: 497, 868
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+Misaki_LegLeft
+  rotate: false
+  xy: 339, 11
+  size: 132, 157
+  orig: 132, 157
+  offset: 0, 0
+  index: -1
+Misuki_Glow
+  rotate: false
+  xy: 497, 561
+  size: 338, 297
+  orig: 338, 297
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 1174, 1218
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Sparkle_1
+  rotate: true
+  xy: 837, 531
+  size: 327, 136
+  orig: 327, 136
+  offset: 0, 0
+  index: -1
+Sparkle_2
+  rotate: true
+  xy: 2, 111
+  size: 193, 133
+  orig: 193, 133
+  offset: 0, 0
+  index: -1
+Sparkle_3
+  rotate: true
+  xy: 975, 548
+  size: 326, 147
+  orig: 326, 147
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 719, 1290
+  size: 453, 102
+  orig: 453, 102
+  offset: 0, 0
+  index: -1
+Text_2
+  rotate: false
+  xy: 2, 2
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Text_Glow
+  rotate: false
+  xy: 719, 1186
+  size: 453, 102
+  orig: 453, 102
+  offset: 0, 0
+  index: -1
+Trophy
+  rotate: false
+  xy: 941, 876
+  size: 213, 308
+  orig: 213, 308
+  offset: 0, 0
+  index: -1
+Trophy_Glow
+  rotate: true
+  xy: 512, 346
+  size: 213, 308
+  orig: 213, 308
+  offset: 0, 0
+  index: -1
+Trophy_Light
+  rotate: false
+  xy: 822, 357
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Tsubasa_Body
+  rotate: false
+  xy: 163, 559
+  size: 332, 375
+  orig: 332, 375
+  offset: 0, 0
+  index: -1
+Tsubasa_Eyebrown
+  rotate: false
+  xy: 1174, 1189
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Tsubasa_Glow
+  rotate: true
+  xy: 576, 860
+  size: 324, 363
+  orig: 324, 363
+  offset: 0, 0
+  index: -1
+Tsubasa_Hair
+  rotate: true
+  xy: 1197, 582
+  size: 142, 123
+  orig: 142, 123
+  offset: 0, 0
+  index: -1
+Tsubasa_HandRight
+  rotate: true
+  xy: 1472, 1259
+  size: 172, 78
+  orig: 172, 78
+  offset: 0, 0
+  index: -1
+Tsubasa_Head
+  rotate: true
+  xy: 1441, 942
+  size: 85, 68
+  orig: 85, 68
+  offset: 0, 0
+  index: -1

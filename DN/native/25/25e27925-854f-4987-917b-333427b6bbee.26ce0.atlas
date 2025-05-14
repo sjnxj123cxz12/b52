@@ -1,0 +1,69 @@
+
+9863_Symbol_3.png
+size: 468,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+low3_vest_1front_new
+  rotate: false
+  xy: 308, 323
+  size: 118, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+low3_vest_2back_new
+  rotate: false
+  xy: 166, 77
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+low3_vest_bg_new
+  rotate: false
+  xy: 2, 2
+  size: 162, 158
+  orig: 162, 158
+  offset: 0, 0
+  index: -1
+low3_vest_dent_new
+  rotate: false
+  xy: 255, 137
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+low3_vest_spark01_new
+  rotate: false
+  xy: 428, 435
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+low3_vest_spark02_new
+  rotate: false
+  xy: 318, 254
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+low3_vest_spark03_new
+  rotate: false
+  xy: 166, 4
+  size: 76, 71
+  orig: 76, 71
+  offset: 0, 0
+  index: -1
+low3_vest_trace_new
+  rotate: true
+  xy: 308, 134
+  size: 187, 8
+  orig: 187, 8
+  offset: 0, 0
+  index: -1
+low4_flashbang_flash
+  rotate: false
+  xy: 2, 162
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1

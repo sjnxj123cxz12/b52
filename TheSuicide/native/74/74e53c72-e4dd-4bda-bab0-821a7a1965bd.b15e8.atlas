@@ -1,0 +1,69 @@
+
+Transition_BonusG.png
+size: 4030,1382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Airplane
+  rotate: false
+  xy: 1865, 481
+  size: 2163, 899
+  orig: 2163, 899
+  offset: 0, 0
+  index: -1
+Airplane Fan FBF/Fan_00
+  rotate: false
+  xy: 1183, 2
+  size: 1031, 338
+  orig: 1286, 724
+  offset: 89, 128
+  index: -1
+Airplane Fan FBF/Fan_01
+  rotate: true
+  xy: 1183, 342
+  size: 1038, 330
+  orig: 1286, 724
+  offset: 188, 128
+  index: -1
+Airplane Fan FBF/Fan_02
+  rotate: true
+  xy: 1515, 427
+  size: 953, 348
+  orig: 1286, 724
+  offset: 273, 146
+  index: -1
+Airplane Fan FBF/Fan_03
+  rotate: true
+  xy: 868, 319
+  size: 1061, 313
+  orig: 1286, 724
+  offset: 123, 189
+  index: -1
+Airplane Fan FBF/Fan_04
+  rotate: false
+  xy: 2979, 153
+  size: 946, 326
+  orig: 1286, 724
+  offset: 88, 173
+  index: -1
+Airplane_Light
+  rotate: true
+  xy: 868, 131
+  size: 186, 106
+  orig: 186, 106
+  offset: 0, 0
+  index: -1
+Cloud
+  rotate: true
+  xy: 2, 48
+  size: 1332, 864
+  orig: 1332, 864
+  offset: 0, 0
+  index: -1
+Cloud2
+  rotate: false
+  xy: 2216, 120
+  size: 761, 359
+  orig: 762, 360
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,349 @@
+
+annimation_chonnghiencuu.png
+size: 920,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chonnghiencuu0
+  rotate: false
+  xy: 2, 114
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+chonnghiencuu1
+  rotate: false
+  xy: 481, 456
+  size: 138, 210
+  orig: 138, 210
+  offset: 0, 0
+  index: -1
+chonnghiencuu10
+  rotate: true
+  xy: 782, 340
+  size: 111, 61
+  orig: 111, 61
+  offset: 0, 0
+  index: -1
+chonnghiencuu11
+  rotate: true
+  xy: 551, 36
+  size: 111, 61
+  orig: 111, 61
+  offset: 0, 0
+  index: -1
+chonnghiencuu12
+  rotate: true
+  xy: 122, 5
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+chonnghiencuu13
+  rotate: false
+  xy: 307, 794
+  size: 355, 124
+  orig: 355, 124
+  offset: 0, 0
+  index: -1
+chonnghiencuu14
+  rotate: true
+  xy: 621, 447
+  size: 219, 93
+  orig: 219, 93
+  offset: 0, 0
+  index: -1
+chonnghiencuu15
+  rotate: false
+  xy: 716, 453
+  size: 119, 51
+  orig: 119, 51
+  offset: 0, 0
+  index: -1
+chonnghiencuu16
+  rotate: false
+  xy: 2, 619
+  size: 303, 299
+  orig: 303, 299
+  offset: 0, 0
+  index: -1
+chonnghiencuu17
+  rotate: false
+  xy: 2, 318
+  size: 303, 299
+  orig: 303, 299
+  offset: 0, 0
+  index: -1
+chonnghiencuu18
+  rotate: true
+  xy: 866, 766
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+chonnghiencuu19
+  rotate: true
+  xy: 479, 55
+  size: 293, 70
+  orig: 293, 70
+  offset: 0, 0
+  index: -1
+chonnghiencuu2
+  rotate: true
+  xy: 307, 350
+  size: 95, 208
+  orig: 95, 208
+  offset: 0, 0
+  index: -1
+chonnghiencuu20
+  rotate: true
+  xy: 616, 152
+  size: 293, 70
+  orig: 293, 70
+  offset: 0, 0
+  index: -1
+chonnghiencuu21
+  rotate: true
+  xy: 551, 149
+  size: 305, 63
+  orig: 305, 63
+  offset: 0, 0
+  index: -1
+chonnghiencuu22
+  rotate: true
+  xy: 851, 470
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+chonnghiencuu23
+  rotate: false
+  xy: 307, 668
+  size: 355, 124
+  orig: 355, 124
+  offset: 0, 0
+  index: -1
+chonnghiencuu3
+  rotate: false
+  xy: 204, 110
+  size: 137, 206
+  orig: 137, 206
+  offset: 0, 0
+  index: -1
+chonnghiencuu4
+  rotate: false
+  xy: 664, 716
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+chonnghiencuu5
+  rotate: false
+  xy: 716, 506
+  size: 133, 208
+  orig: 133, 208
+  offset: 0, 0
+  index: -1
+chonnghiencuu6
+  rotate: false
+  xy: 688, 238
+  size: 92, 207
+  orig: 92, 207
+  offset: 0, 0
+  index: -1
+chonnghiencuu7
+  rotate: false
+  xy: 343, 138
+  size: 134, 210
+  orig: 134, 210
+  offset: 0, 0
+  index: -1
+chonnghiencuu8
+  rotate: false
+  xy: 307, 447
+  size: 172, 219
+  orig: 172, 219
+  offset: 0, 0
+  index: -1
+chonnghiencuu9
+  rotate: false
+  xy: 816, 52
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+cotnuoc0
+  rotate: true
+  xy: 199, 30
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+cotnuoc1
+  rotate: false
+  xy: 782, 260
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+cotnuoc2
+  rotate: false
+  xy: 664, 670
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+cotnuoc3
+  rotate: true
+  xy: 614, 46
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+cotnuoc4
+  rotate: false
+  xy: 444, 64
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+cotnuoc5
+  rotate: true
+  xy: 2, 2
+  size: 7, 78
+  orig: 7, 78
+  offset: 0, 0
+  index: -1
+cotnuoc6
+  rotate: true
+  xy: 688, 158
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+cotnuocempty
+  rotate: false
+  xy: 322, 30
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc0
+  rotate: true
+  xy: 866, 705
+  size: 59, 45
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc1
+  rotate: false
+  xy: 383, 41
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc10
+  rotate: false
+  xy: 614, 69
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc11
+  rotate: true
+  xy: 675, 36
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc12
+  rotate: false
+  xy: 755, 17
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc2
+  rotate: false
+  xy: 851, 625
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc3
+  rotate: false
+  xy: 851, 545
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc4
+  rotate: false
+  xy: 845, 390
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc5
+  rotate: false
+  xy: 845, 310
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc6
+  rotate: false
+  xy: 843, 230
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc7
+  rotate: true
+  xy: 811, 169
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc8
+  rotate: true
+  xy: 811, 108
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+effect_cotnuoc9
+  rotate: true
+  xy: 688, 97
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+glowhu
+  rotate: true
+  xy: 2, 11
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1
+matnuoc0
+  rotate: false
+  xy: 782, 243
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+matnuoc1
+  rotate: true
+  xy: 768, 97
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+phom8
+  rotate: true
+  xy: 343, 121
+  size: 15, 122
+  orig: 15, 122
+  offset: 0, 0
+  index: -1

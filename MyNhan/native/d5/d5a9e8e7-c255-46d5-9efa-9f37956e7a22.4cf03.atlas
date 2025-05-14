@@ -1,0 +1,62 @@
+
+Symbol_3.png
+size: 388,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_4_Small
+  rotate: false
+  xy: 204, 88
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 95
+  size: 200, 288
+  orig: 200, 288
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 346, 7
+  size: 40, 212
+  orig: 40, 212
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: true
+  xy: 109, 27
+  size: 11, 54
+  orig: 11, 54
+  offset: 0, 0
+  index: -1
+Hair_Shadow
+  rotate: true
+  xy: 109, 40
+  size: 46, 218
+  orig: 46, 218
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 2
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1
+Khung
+  rotate: false
+  xy: 204, 221
+  size: 173, 162
+  orig: 173, 162
+  offset: 0, 0
+  index: -1
+Snowflakes
+  rotate: true
+  xy: 109, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1

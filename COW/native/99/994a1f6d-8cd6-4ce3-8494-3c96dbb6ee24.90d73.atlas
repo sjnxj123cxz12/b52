@@ -1,0 +1,20 @@
+
+COW_UI_Jackpot_Board.png
+size: 409,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot Board Glow
+  rotate: false
+  xy: 2, 14
+  size: 405, 117
+  orig: 405, 117
+  offset: 0, 0
+  index: -1
+Radar Line
+  rotate: false
+  xy: 2, 2
+  size: 194, 10
+  orig: 194, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+Symbol_5_Mega.png
+size: 976,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HeadB
+  rotate: true
+  xy: 2, 3
+  size: 133, 184
+  orig: 133, 184
+  offset: 0, 0
+  index: -1
+aophai
+  rotate: false
+  xy: 2, 138
+  size: 203, 367
+  orig: 203, 367
+  offset: 0, 0
+  index: -1
+aotrai
+  rotate: false
+  xy: 758, 13
+  size: 38, 115
+  orig: 38, 115
+  offset: 0, 0
+  index: -1
+bantayphai
+  rotate: true
+  xy: 909, 253
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 615, 229
+  size: 276, 199
+  orig: 276, 199
+  offset: 0, 0
+  index: -1
+chan1
+  rotate: false
+  xy: 409, 188
+  size: 204, 317
+  orig: 204, 317
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 207, 175
+  size: 200, 330
+  orig: 200, 330
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 937, 66
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+coaosau
+  rotate: false
+  xy: 798, 19
+  size: 137, 109
+  orig: 137, 109
+  offset: 0, 0
+  index: -1
+mu
+  rotate: true
+  xy: 188, 19
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: false
+  xy: 640, 2
+  size: 116, 225
+  orig: 116, 225
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 909, 453
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+taytrai2
+  rotate: true
+  xy: 758, 130
+  size: 97, 207
+  orig: 97, 207
+  offset: 0, 0
+  index: -1
+thanB
+  rotate: true
+  xy: 362, 15
+  size: 158, 276
+  orig: 158, 276
+  offset: 0, 0
+  index: -1
+tocphai
+  rotate: true
+  xy: 207, 140
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+tocsau
+  rotate: false
+  xy: 816, 246
+  size: 91, 259
+  orig: 91, 259
+  offset: 0, 0
+  index: -1
+toctrai
+  rotate: false
+  xy: 909, 347
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+vayduoi
+  rotate: true
+  xy: 615, 176
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+vaytren
+  rotate: false
+  xy: 291, 9
+  size: 69, 164
+  orig: 69, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Btn_TrialMode.png
+size: 495,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box
+  rotate: true
+  xy: 464, 125
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Car
+  rotate: false
+  xy: 2, 23
+  size: 375, 145
+  orig: 375, 145
+  offset: 0, 0
+  index: -1
+ChoiThat
+  rotate: false
+  xy: 379, 84
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+ChoiThu
+  rotate: true
+  xy: 379, 2
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+Lid
+  rotate: false
+  xy: 59, 6
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+Lid_Black
+  rotate: false
+  xy: 23, 4
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+Lid_Open
+  rotate: true
+  xy: 459, 7
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Lid_Shadow
+  rotate: true
+  xy: 464, 85
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Soldier
+  rotate: true
+  xy: 459, 44
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 2, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

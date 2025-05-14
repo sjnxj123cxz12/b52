@@ -1,0 +1,167 @@
+
+9863_Btn_Spin.png
+size: 1251,1249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Blur
+  rotate: false
+  xy: 2, 807
+  size: 440, 440
+  orig: 440, 440
+  offset: 0, 0
+  index: -1
+Impact/Impact_01
+  rotate: false
+  xy: 2, 549
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_02
+  rotate: false
+  xy: 444, 991
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_03
+  rotate: false
+  xy: 2, 291
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_04
+  rotate: false
+  xy: 713, 991
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_05
+  rotate: false
+  xy: 2, 33
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_06
+  rotate: false
+  xy: 982, 991
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_07
+  rotate: false
+  xy: 444, 733
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_08
+  rotate: false
+  xy: 713, 733
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_09
+  rotate: false
+  xy: 982, 733
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_10
+  rotate: false
+  xy: 271, 475
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_11
+  rotate: false
+  xy: 271, 217
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_12
+  rotate: false
+  xy: 540, 475
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_13
+  rotate: false
+  xy: 540, 217
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Impact/Impact_14
+  rotate: false
+  xy: 809, 475
+  size: 267, 256
+  orig: 267, 256
+  offset: 0, 0
+  index: -1
+Light_Inner
+  rotate: false
+  xy: 1078, 579
+  size: 157, 152
+  orig: 157, 152
+  offset: 0, 0
+  index: -1
+Light_Inner_Outer
+  rotate: false
+  xy: 809, 287
+  size: 191, 186
+  orig: 191, 186
+  offset: 0, 0
+  index: -1
+Light_Outer
+  rotate: false
+  xy: 271, 29
+  size: 191, 186
+  orig: 191, 186
+  offset: 0, 0
+  index: -1
+Spin
+  rotate: false
+  xy: 464, 95
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1
+Stop
+  rotate: false
+  xy: 578, 95
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1
+Stop_Icon
+  rotate: false
+  xy: 1002, 399
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Target_Line
+  rotate: false
+  xy: 271, 743
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Target_Point
+  rotate: false
+  xy: 271, 733
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1

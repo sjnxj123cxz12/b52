@@ -1,0 +1,69 @@
+
+UI_Jackpot_Santa.png
+size: 632,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 39
+  size: 186, 287
+  orig: 186, 287
+  offset: 0, 0
+  index: -1
+HatL
+  rotate: true
+  xy: 534, 289
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+HatR
+  rotate: true
+  xy: 544, 237
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 534, 355
+  size: 96, 165
+  orig: 96, 165
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 277, 263
+  size: 257, 255
+  orig: 257, 255
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 291, 2
+  size: 259, 251
+  orig: 259, 251
+  offset: 0, 0
+  index: -1
+RauL
+  rotate: false
+  xy: 2, 9
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+RauR
+  rotate: true
+  xy: 43, 8
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+glow2_back
+  rotate: true
+  xy: 2, 227
+  size: 293, 273
+  orig: 293, 273
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+COW_Symbol_Machine_Gun.png
+size: 144,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Canh
+  rotate: true
+  xy: 2, 80
+  size: 154, 74
+  orig: 154, 74
+  offset: 0, 0
+  index: -1
+Frame1
+  rotate: false
+  xy: 2, 20
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Frame2
+  rotate: false
+  xy: 63, 26
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Sung
+  rotate: true
+  xy: 78, 76
+  size: 158, 64
+  orig: 158, 64
+  offset: 0, 0
+  index: -1
+VoDan
+  rotate: false
+  xy: 2, 2
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1

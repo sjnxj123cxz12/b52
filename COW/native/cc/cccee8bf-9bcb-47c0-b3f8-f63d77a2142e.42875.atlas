@@ -1,0 +1,307 @@
+
+NightOut_Icongame.png
+size: 1652,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+94d0033e52bb4448e79787550c38022838f98f376d2b-D2iEEy_fw1200
+  rotate: false
+  xy: 2, 5
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: -1
+BGIcon
+  rotate: true
+  xy: 813, 166
+  size: 228, 290
+  orig: 228, 290
+  offset: 0, 0
+  index: -1
+BoxJP
+  rotate: false
+  xy: 1105, 245
+  size: 255, 149
+  orig: 255, 149
+  offset: 0, 0
+  index: -1
+Girl3_01
+  rotate: true
+  xy: 1294, 158
+  size: 85, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+Girl3_02
+  rotate: true
+  xy: 1572, 24
+  size: 44, 62
+  orig: 48, 63
+  offset: 0, 1
+  index: -1
+Girl3_03
+  rotate: true
+  xy: 393, 5
+  size: 134, 211
+  orig: 134, 211
+  offset: 0, 0
+  index: -1
+Girl3_04
+  rotate: false
+  xy: 1307, 16
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Girl3_05
+  rotate: true
+  xy: 1339, 23
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Girl3_06
+  rotate: false
+  xy: 939, 5
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Girl3_07
+  rotate: false
+  xy: 770, 58
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+Girl3_08
+  rotate: false
+  xy: 1636, 387
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Girl3_09
+  rotate: false
+  xy: 1262, 63
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+Girl3_11
+  rotate: true
+  xy: 1481, 170
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+Girl3_12
+  rotate: true
+  xy: 1365, 37
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+Girl5_01
+  rotate: false
+  xy: 1586, 158
+  size: 60, 88
+  orig: 61, 88
+  offset: 1, 0
+  index: -1
+Girl5_02
+  rotate: true
+  xy: 1481, 95
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+Girl5_03
+  rotate: false
+  xy: 606, 16
+  size: 162, 123
+  orig: 162, 124
+  offset: 0, 1
+  index: -1
+Girl5_04
+  rotate: true
+  xy: 981, 46
+  size: 118, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+Girl5_05
+  rotate: true
+  xy: 770, 77
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Girl5_06
+  rotate: false
+  xy: 1578, 70
+  size: 65, 86
+  orig: 70, 86
+  offset: 5, 0
+  index: -1
+Girl5_07
+  rotate: true
+  xy: 1105, 6
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+Girl5_08
+  rotate: true
+  xy: 1220, 12
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Girl5_09
+  rotate: true
+  xy: 1645, 133
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Girl5_10
+  rotate: true
+  xy: 1572, 2
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Girl5_11
+  rotate: false
+  xy: 1480, 10
+  size: 90, 83
+  orig: 92, 83
+  offset: 2, 0
+  index: -1
+Girl5_12
+  rotate: true
+  xy: 1645, 141
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 1362, 251
+  size: 154, 143
+  orig: 154, 143
+  offset: 0, 0
+  index: -1
+icon callwar1
+  rotate: true
+  xy: 393, 141
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+longlight
+  rotate: false
+  xy: 1262, 55
+  size: 101, 6
+  orig: 101, 6
+  offset: 0, 0
+  index: -1
+miengsang
+  rotate: false
+  xy: 1105, 161
+  size: 187, 82
+  orig: 187, 82
+  offset: 0, 0
+  index: -1
+night
+  rotate: false
+  xy: 1105, 57
+  size: 155, 102
+  orig: 155, 102
+  offset: 0, 0
+  index: -1
+note
+  rotate: true
+  xy: 1614, 2
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+out
+  rotate: false
+  xy: 1365, 89
+  size: 113, 67
+  orig: 113, 67
+  offset: 0, 0
+  index: -1
+tachGirl1
+  rotate: true
+  xy: 1255, 8
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+tachGirl2
+  rotate: false
+  xy: 978, 28
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+tachGirl3
+  rotate: true
+  xy: 1578, 161
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+tachGirl4
+  rotate: true
+  xy: 1375, 158
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+tachGirl6
+  rotate: true
+  xy: 835, 5
+  size: 43, 102
+  orig: 43, 102
+  offset: 0, 0
+  index: -1
+tachGirl7
+  rotate: true
+  xy: 813, 50
+  size: 114, 166
+  orig: 114, 166
+  offset: 0, 0
+  index: -1
+tachGirl8
+  rotate: true
+  xy: 1518, 248
+  size: 146, 116
+  orig: 146, 116
+  offset: 0, 0
+  index: -1
+tachGirl9
+  rotate: true
+  xy: 770, 2
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+tien
+  rotate: true
+  xy: 1339, 2
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+tim
+  rotate: false
+  xy: 770, 104
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1

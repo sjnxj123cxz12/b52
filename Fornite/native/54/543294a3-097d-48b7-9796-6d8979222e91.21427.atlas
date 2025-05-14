@@ -1,0 +1,265 @@
+
+VFX_TotalWin_Frame.png
+size: 968,912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur
+  rotate: false
+  xy: 859, 75
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_00
+  rotate: false
+  xy: 2, 821
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_01
+  rotate: false
+  xy: 2, 730
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_02
+  rotate: false
+  xy: 293, 821
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_03
+  rotate: false
+  xy: 2, 639
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_04
+  rotate: false
+  xy: 293, 730
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_05
+  rotate: false
+  xy: 584, 821
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_06
+  rotate: false
+  xy: 2, 548
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_07
+  rotate: false
+  xy: 293, 639
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_08
+  rotate: false
+  xy: 584, 730
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_09
+  rotate: false
+  xy: 2, 457
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_10
+  rotate: false
+  xy: 293, 548
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_11
+  rotate: false
+  xy: 584, 639
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_12
+  rotate: false
+  xy: 2, 366
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_13
+  rotate: false
+  xy: 293, 457
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_14
+  rotate: false
+  xy: 584, 548
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_15
+  rotate: true
+  xy: 875, 621
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_16
+  rotate: false
+  xy: 2, 275
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_17
+  rotate: false
+  xy: 293, 366
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_18
+  rotate: false
+  xy: 584, 457
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_19
+  rotate: false
+  xy: 2, 184
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_20
+  rotate: false
+  xy: 293, 275
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_21
+  rotate: false
+  xy: 584, 366
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_22
+  rotate: false
+  xy: 2, 93
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_23
+  rotate: false
+  xy: 293, 184
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_24
+  rotate: false
+  xy: 584, 275
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_25
+  rotate: true
+  xy: 875, 330
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_26
+  rotate: false
+  xy: 2, 2
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_27
+  rotate: false
+  xy: 293, 93
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_28
+  rotate: false
+  xy: 584, 184
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+CD_Blue/CD_Blue_29
+  rotate: false
+  xy: 293, 2
+  size: 289, 89
+  orig: 289, 89
+  offset: 0, 0
+  index: -1
+Detail1
+  rotate: false
+  xy: 875, 258
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Detail2
+  rotate: false
+  xy: 584, 71
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Detail3
+  rotate: false
+  xy: 875, 294
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Detail4
+  rotate: false
+  xy: 910, 299
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 584, 58
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Light_Glow
+  rotate: false
+  xy: 584, 104
+  size: 273, 78
+  orig: 273, 78
+  offset: 0, 0
+  index: -1

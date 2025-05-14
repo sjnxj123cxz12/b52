@@ -1,0 +1,13 @@
+
+Symbol_J.png
+size: 70,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Metal
+  rotate: false
+  xy: 2, 2
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+9926_Ticket_Nearwin.png
+size: 325,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/eff_pa01
+  rotate: true
+  xy: 2, 149
+  size: 213, 191
+  orig: 213, 191
+  offset: 0, 0
+  index: -1
+fx/f5
+  rotate: false
+  xy: 195, 234
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fx_1
+  rotate: false
+  xy: 2, 2
+  size: 149, 145
+  orig: 150, 145
+  offset: 1, 0
+  index: -1
+fx/fxt
+  rotate: true
+  xy: 153, 23
+  size: 124, 166
+  orig: 167, 254
+  offset: 22, 47
+  index: -1

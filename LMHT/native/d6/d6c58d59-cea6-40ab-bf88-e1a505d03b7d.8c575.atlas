@@ -1,0 +1,349 @@
+
+IconBossTankTau.png
+size: 1320,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGbien
+  rotate: false
+  xy: 835, 555
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+DuoiTau
+  rotate: false
+  xy: 177, 2
+  size: 99, 68
+  orig: 99, 68
+  offset: 0, 0
+  index: -1
+MuiTau
+  rotate: false
+  xy: 257, 798
+  size: 318, 231
+  orig: 318, 231
+  offset: 0, 0
+  index: -1
+NapSung
+  rotate: false
+  xy: 1029, 62
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Nuoc
+  rotate: false
+  xy: 577, 943
+  size: 441, 86
+  orig: 441, 86
+  offset: 0, 0
+  index: -1
+Rada
+  rotate: false
+  xy: 1010, 560
+  size: 61, 31
+  orig: 61, 32
+  offset: 0, 1
+  index: -1
+SongSau
+  rotate: true
+  xy: 512, 264
+  size: 343, 46
+  orig: 343, 46
+  offset: 0, 0
+  index: -1
+SongTrai
+  rotate: true
+  xy: 1268, 619
+  size: 105, 50
+  orig: 105, 50
+  offset: 0, 0
+  index: -1
+SongTruoc
+  rotate: true
+  xy: 1262, 408
+  size: 103, 52
+  orig: 103, 52
+  offset: 0, 0
+  index: -1
+ThanSau
+  rotate: false
+  xy: 726, 14
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ThanTraiTau
+  rotate: true
+  xy: 1075, 40
+  size: 108, 170
+  orig: 108, 170
+  offset: 0, 0
+  index: -1
+ThapTau
+  rotate: false
+  xy: 2, 307
+  size: 250, 302
+  orig: 250, 316
+  offset: 0, 0
+  index: -1
+banAK
+  rotate: true
+  xy: 794, 165
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+chiendichsinhnhatmoi0
+  rotate: false
+  xy: 577, 799
+  size: 261, 142
+  orig: 261, 150
+  offset: 0, 8
+  index: -1
+den
+  rotate: true
+  xy: 1247, 42
+  size: 106, 43
+  orig: 106, 43
+  offset: 0, 0
+  index: -1
+ex200
+  rotate: false
+  xy: 254, 280
+  size: 256, 116
+  orig: 256, 256
+  offset: 0, 70
+  index: -1
+ex202
+  rotate: false
+  xy: 1020, 726
+  size: 256, 177
+  orig: 256, 256
+  offset: 0, 39
+  index: -1
+ex204
+  rotate: false
+  xy: 577, 615
+  size: 256, 182
+  orig: 256, 256
+  offset: 0, 36
+  index: -1
+ex206
+  rotate: false
+  xy: 238, 95
+  size: 256, 183
+  orig: 256, 256
+  offset: 0, 37
+  index: -1
+ex208
+  rotate: false
+  xy: 560, 431
+  size: 256, 182
+  orig: 256, 256
+  offset: 0, 37
+  index: -1
+ex210
+  rotate: false
+  xy: 257, 609
+  size: 256, 187
+  orig: 256, 256
+  offset: 0, 36
+  index: -1
+ex212
+  rotate: false
+  xy: 254, 398
+  size: 256, 209
+  orig: 256, 256
+  offset: 0, 25
+  index: -1
+ex214
+  rotate: false
+  xy: 560, 286
+  size: 256, 143
+  orig: 256, 256
+  offset: 0, 58
+  index: -1
+ex216
+  rotate: true
+  xy: 818, 297
+  size: 256, 129
+  orig: 256, 256
+  offset: 0, 61
+  index: -1
+ex218
+  rotate: false
+  xy: 1010, 593
+  size: 256, 131
+  orig: 256, 256
+  offset: 0, 61
+  index: -1
+fire0
+  rotate: true
+  xy: 1075, 276
+  size: 124, 215
+  orig: 124, 264
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 949, 86
+  size: 124, 226
+  orig: 124, 264
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 496, 34
+  size: 124, 228
+  orig: 124, 264
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 949, 314
+  size: 124, 239
+  orig: 124, 264
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: true
+  xy: 1020, 905
+  size: 124, 264
+  orig: 124, 264
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: true
+  xy: 560, 160
+  size: 124, 232
+  orig: 124, 264
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: true
+  xy: 1075, 150
+  size: 124, 207
+  orig: 124, 264
+  offset: 0, 0
+  index: -1
+khungiconmoi
+  rotate: false
+  xy: 2, 611
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+lightden
+  rotate: false
+  xy: 795, 35
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+songvo
+  rotate: true
+  xy: 840, 728
+  size: 213, 178
+  orig: 213, 178
+  offset: 0, 0
+  index: -1
+tanknew1
+  rotate: false
+  xy: 2, 72
+  size: 234, 233
+  orig: 234, 233
+  offset: 0, 0
+  index: -1
+tanknew11
+  rotate: false
+  xy: 1286, 905
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+tanknew12
+  rotate: true
+  xy: 515, 655
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+tanknew13
+  rotate: false
+  xy: 2, 3
+  size: 173, 67
+  orig: 173, 67
+  offset: 0, 0
+  index: -1
+tanknew14
+  rotate: false
+  xy: 924, 12
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+tanknew15
+  rotate: true
+  xy: 1284, 158
+  size: 116, 34
+  orig: 116, 34
+  offset: 0, 0
+  index: -1
+tanknew2
+  rotate: true
+  xy: 1307, 855
+  size: 48, 11
+  orig: 48, 11
+  offset: 0, 0
+  index: -1
+tanknew3
+  rotate: false
+  xy: 515, 619
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+tanknew4
+  rotate: false
+  xy: 1286, 933
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+tanknew5
+  rotate: true
+  xy: 1268, 513
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+tanknew6
+  rotate: true
+  xy: 818, 588
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+tanknew8
+  rotate: true
+  xy: 1278, 850
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+tanknew9
+  rotate: true
+  xy: 1286, 973
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+taycamAK
+  rotate: false
+  xy: 1075, 402
+  size: 185, 189
+  orig: 185, 189
+  offset: 0, 0
+  index: -1

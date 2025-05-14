@@ -1,0 +1,216 @@
+
+UI_TotalChat.png
+size: 638,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tc_1mc_BG
+  rotate: true
+  xy: 167, 126
+  size: 167, 146
+  orig: 167, 146
+  offset: 0, 0
+  index: -1
+tc_1mc_chara
+  rotate: false
+  xy: 458, 163
+  size: 139, 157
+  orig: 139, 157
+  offset: 0, 0
+  index: -1
+tc_1mc_chat_box
+  rotate: true
+  xy: 547, 333
+  size: 135, 71
+  orig: 135, 71
+  offset: 0, 0
+  index: -1
+tc_1mc_chat_new
+  rotate: false
+  xy: 167, 84
+  size: 149, 40
+  orig: 149, 40
+  offset: 0, 0
+  index: -1
+tc_1mc_focus_line_1
+  rotate: false
+  xy: 468, 90
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+tc_1mc_focus_line_2
+  rotate: true
+  xy: 432, 3
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+tc_letsgo_BG
+  rotate: true
+  xy: 232, 302
+  size: 167, 146
+  orig: 167, 146
+  offset: 0, 0
+  index: -1
+tc_letsgo_chara
+  rotate: false
+  xy: 244, 481
+  size: 232, 155
+  orig: 232, 155
+  offset: 0, 0
+  index: -1
+tc_letsgo_chat_box
+  rotate: false
+  xy: 2, 12
+  size: 146, 71
+  orig: 146, 71
+  offset: 0, 0
+  index: -1
+tc_letsgo_chat_new_1
+  rotate: false
+  xy: 298, 35
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+tc_letsgo_chat_new_2
+  rotate: false
+  xy: 318, 81
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+tc_letsgo_focus_line_1
+  rotate: false
+  xy: 416, 2
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+tc_letsgo_focus_line_2
+  rotate: false
+  xy: 382, 6
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+tc_letsgo_focus_line_3
+  rotate: true
+  xy: 298, 9
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+tc_near_win_chara_msk
+  rotate: false
+  xy: 2, 85
+  size: 163, 208
+  orig: 163, 208
+  offset: 0, 0
+  index: -1
+tc_near_win_chara_tbs
+  rotate: false
+  xy: 2, 471
+  size: 240, 165
+  orig: 240, 165
+  offset: 0, 0
+  index: -1
+tc_near_win_focus_line_msk_1
+  rotate: true
+  xy: 380, 303
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+tc_near_win_focus_line_msk_2
+  rotate: true
+  xy: 382, 35
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+tc_near_win_focus_line_tbs_1
+  rotate: false
+  xy: 583, 115
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+tc_near_win_focus_line_tbs_2
+  rotate: false
+  xy: 599, 262
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+tc_near_win_msk_BG
+  rotate: true
+  xy: 315, 134
+  size: 166, 141
+  orig: 166, 141
+  offset: 0, 0
+  index: -1
+tc_near_win_tbs_BG
+  rotate: true
+  xy: 478, 470
+  size: 166, 149
+  orig: 166, 149
+  offset: 0, 0
+  index: -1
+tc_ready_BG
+  rotate: false
+  xy: 380, 322
+  size: 165, 146
+  orig: 165, 146
+  offset: 0, 0
+  index: -1
+tc_ready_chara
+  rotate: false
+  xy: 2, 295
+  size: 228, 174
+  orig: 228, 174
+  offset: 0, 0
+  index: -1
+tc_ready_chat_box
+  rotate: false
+  xy: 150, 11
+  size: 146, 71
+  orig: 146, 71
+  offset: 0, 0
+  index: -1
+tc_ready_chat_new
+  rotate: false
+  xy: 458, 115
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+tc_ready_focus_line_1
+  rotate: true
+  xy: 341, 10
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+tc_ready_focus_line_2
+  rotate: false
+  xy: 441, 83
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+tc_ready_focus_line_3
+  rotate: true
+  xy: 599, 168
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+tc_ready_focus_line_4
+  rotate: true
+  xy: 599, 214
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1

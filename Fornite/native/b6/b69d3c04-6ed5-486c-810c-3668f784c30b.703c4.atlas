@@ -1,0 +1,146 @@
+
+Transition_BonusG.png
+size: 491,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_1
+  rotate: false
+  xy: 407, 4
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Light_2
+  rotate: false
+  xy: 328, 31
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+Piece_1M
+  rotate: false
+  xy: 455, 76
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Piece_2M
+  rotate: true
+  xy: 328, 8
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Piece_3M
+  rotate: true
+  xy: 2, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Piece_4M
+  rotate: false
+  xy: 407, 49
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+Ref/Ref_05
+  rotate: false
+  xy: 2, 388
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_06
+  rotate: false
+  xy: 2, 295
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_07
+  rotate: false
+  xy: 165, 388
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_08
+  rotate: false
+  xy: 2, 202
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_09
+  rotate: false
+  xy: 165, 295
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_10
+  rotate: false
+  xy: 328, 388
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_11
+  rotate: false
+  xy: 2, 109
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_12
+  rotate: false
+  xy: 165, 202
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_13
+  rotate: false
+  xy: 328, 295
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_14
+  rotate: false
+  xy: 2, 16
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_15
+  rotate: false
+  xy: 165, 109
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_16
+  rotate: false
+  xy: 328, 202
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_17
+  rotate: false
+  xy: 165, 16
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+Ref/Ref_18
+  rotate: false
+  xy: 328, 109
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1

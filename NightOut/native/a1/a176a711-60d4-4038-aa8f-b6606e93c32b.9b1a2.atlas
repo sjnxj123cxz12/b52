@@ -1,0 +1,165 @@
+
+9926_UI_BigWin.png
+size: 2033,819
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin
+  rotate: false
+  xy: 1439, 504
+  size: 419, 146
+  orig: 419, 146
+  offset: 0, 0
+  index: -1
+cl_p
+  rotate: false
+  xy: 770, 504
+  size: 667, 313
+  orig: 667, 313
+  offset: 0, 0
+  index: -1
+cl_star1
+  rotate: false
+  xy: 1860, 530
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+cl_star2
+  rotate: true
+  xy: 1869, 18
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+pop_bigwin
+  rotate: false
+  xy: 729, 2
+  size: 640, 308
+  orig: 640, 308
+  offset: 0, 0
+  index: -1
+pop_sieulon1
+  rotate: false
+  xy: 2, 386
+  size: 766, 431
+  orig: 766, 431
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 1371, 14
+  size: 247, 220
+  orig: 247, 220
+  offset: 0, 0
+  index: -1
+s1_2
+  rotate: false
+  xy: 1620, 14
+  size: 247, 220
+  orig: 247, 220
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1869, 112
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+startag
+  rotate: false
+  xy: 2, 33
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+thangcuclon
+  rotate: false
+  xy: 1439, 652
+  size: 592, 165
+  orig: 592, 165
+  offset: 0, 0
+  index: -1
+thangsieulon
+  rotate: false
+  xy: 770, 312
+  size: 704, 190
+  orig: 704, 190
+  offset: 0, 0
+  index: -1
+thangsieulon7
+  rotate: false
+  xy: 1476, 370
+  size: 450, 132
+  orig: 450, 132
+  offset: 0, 0
+  index: -1
+thangsieulon7_add
+  rotate: false
+  xy: 1476, 236
+  size: 450, 132
+  orig: 450, 132
+  offset: 0, 0
+  index: -1
+thangsieulon9
+  rotate: false
+  xy: 2, 69
+  size: 725, 315
+  orig: 725, 315
+  offset: 0, 0
+  index: -1
+
+9926_UI_BigWin2.png
+size: 1564,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/1
+  rotate: true
+  xy: 604, 70
+  size: 412, 405
+  orig: 412, 405
+  offset: 0, 0
+  index: -1
+fx/3
+  rotate: true
+  xy: 1011, 2
+  size: 480, 267
+  orig: 480, 267
+  offset: 0, 0
+  index: -1
+fx/Glow1
+  rotate: false
+  xy: 1280, 33
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+fx/fx_stl
+  rotate: false
+  xy: 1280, 200
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+fx/paritcal_h
+  rotate: false
+  xy: 2, 33
+  size: 600, 449
+  orig: 600, 449
+  offset: 0, 0
+  index: -1
+
+9926_UI_BigWin3.png
+size: 504,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx2/4
+  rotate: false
+  xy: 2, 2
+  size: 500, 161
+  orig: 500, 161
+  offset: 0, 0
+  index: -1

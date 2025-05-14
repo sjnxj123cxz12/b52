@@ -1,0 +1,55 @@
+
+Symbol_3_Mega.png
+size: 625,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 15
+  size: 215, 310
+  orig: 215, 310
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 314, 6
+  size: 42, 228
+  orig: 42, 228
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: true
+  xy: 2, 2
+  size: 11, 58
+  orig: 11, 58
+  offset: 0, 0
+  index: -1
+Hair_Shadow
+  rotate: true
+  xy: 314, 181
+  size: 49, 235
+  orig: 49, 235
+  offset: 0, 0
+  index: -1
+Hand_Left
+  rotate: true
+  xy: 314, 50
+  size: 56, 209
+  orig: 56, 209
+  offset: 0, 0
+  index: -1
+Hand_Right
+  rotate: true
+  xy: 314, 108
+  size: 71, 209
+  orig: 71, 209
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 525, 66
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1

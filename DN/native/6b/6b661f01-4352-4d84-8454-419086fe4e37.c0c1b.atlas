@@ -1,0 +1,279 @@
+
+9863_Symbol_K1_Text.png
+size: 678,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wild_lightsweep_01
+  rotate: false
+  xy: 2, 614
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_02
+  rotate: false
+  xy: 214, 614
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_03
+  rotate: false
+  xy: 426, 614
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_04
+  rotate: true
+  xy: 2, 402
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_05
+  rotate: true
+  xy: 2, 190
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_06
+  rotate: false
+  xy: 2, 128
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_07
+  rotate: false
+  xy: 2, 66
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_08
+  rotate: false
+  xy: 2, 4
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_09
+  rotate: true
+  xy: 64, 402
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_10
+  rotate: true
+  xy: 64, 190
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_11
+  rotate: true
+  xy: 126, 402
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_12
+  rotate: true
+  xy: 126, 190
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_13
+  rotate: true
+  xy: 188, 402
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_14
+  rotate: true
+  xy: 188, 190
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_15
+  rotate: false
+  xy: 214, 128
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_16
+  rotate: false
+  xy: 214, 66
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_17
+  rotate: false
+  xy: 214, 4
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_18
+  rotate: false
+  xy: 426, 552
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_19
+  rotate: true
+  xy: 250, 402
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_20
+  rotate: true
+  xy: 312, 402
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_21
+  rotate: true
+  xy: 250, 190
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_22
+  rotate: true
+  xy: 312, 190
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_23
+  rotate: false
+  xy: 374, 442
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_24
+  rotate: true
+  xy: 586, 278
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_25
+  rotate: false
+  xy: 374, 216
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_26
+  rotate: true
+  xy: 586, 66
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_27
+  rotate: false
+  xy: 426, 4
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_28
+  rotate: false
+  xy: 374, 380
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_lightsweep_29
+  rotate: false
+  xy: 374, 318
+  size: 210, 60
+  orig: 210, 60
+  offset: 0, 0
+  index: -1
+wild_text_D
+  rotate: true
+  xy: 426, 67
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+wild_text_D_glow
+  rotate: false
+  xy: 488, 92
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+wild_text_I
+  rotate: false
+  xy: 638, 553
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+wild_text_I_glow
+  rotate: false
+  xy: 638, 504
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+wild_text_L
+  rotate: false
+  xy: 374, 552
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+wild_text_L_glow
+  rotate: false
+  xy: 586, 490
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+wild_text_W
+  rotate: true
+  xy: 426, 126
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+wild_text_W_glow
+  rotate: false
+  xy: 488, 154
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+wild_text_badge
+  rotate: false
+  xy: 638, 639
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+wild_text_badge_glow
+  rotate: false
+  xy: 638, 602
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,419 @@
+
+IconVolta_Saba.png
+size: 1860,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 1589, 205
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ball 10
+  rotate: false
+  xy: 1626, 24
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 13
+  rotate: false
+  xy: 1626, 69
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 16
+  rotate: false
+  xy: 1664, 24
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 19
+  rotate: false
+  xy: 1589, 167
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ball 22
+  rotate: false
+  xy: 1664, 69
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 25
+  rotate: false
+  xy: 1702, 24
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 28
+  rotate: false
+  xy: 1702, 69
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 3
+  rotate: false
+  xy: 1811, 100
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 4
+  rotate: false
+  xy: 1772, 79
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ball 7
+  rotate: false
+  xy: 1810, 62
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1169, 162
+  size: 272, 304
+  orig: 272, 305
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 163, 5
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+icon TX new5
+  rotate: false
+  xy: 2, 48
+  size: 255, 418
+  orig: 255, 418
+  offset: 0, 0
+  index: -1
+lefthand
+  rotate: true
+  xy: 567, 3
+  size: 51, 87
+  orig: 51, 87
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 1389, 9
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 1646, 252
+  size: 214, 194
+  orig: 214, 194
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 530, 2
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+md5
+  rotate: false
+  xy: 1628, 107
+  size: 142, 36
+  orig: 142, 36
+  offset: 0, 0
+  index: -1
+miengden
+  rotate: false
+  xy: 1056, 4
+  size: 13, 80
+  orig: 13, 80
+  offset: 0, 0
+  index: -1
+saba3
+  rotate: false
+  xy: 259, 56
+  size: 229, 410
+  orig: 229, 410
+  offset: 0, 0
+  index: -1
+saba4
+  rotate: false
+  xy: 265, 2
+  size: 156, 52
+  orig: 156, 52
+  offset: 0, 0
+  index: -1
+saba6
+  rotate: false
+  xy: 1443, 177
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+sport1
+  rotate: false
+  xy: 2, 4
+  size: 159, 42
+  orig: 159, 42
+  offset: 0, 0
+  index: -1
+sport2
+  rotate: false
+  xy: 234, 8
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+sport3
+  rotate: false
+  xy: 1325, 86
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+sport4
+  rotate: true
+  xy: 1001, 27
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+sport5
+  rotate: true
+  xy: 1772, 42
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+sport6
+  rotate: false
+  xy: 1353, 86
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+sport7
+  rotate: true
+  xy: 952, 57
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+tthao0
+  rotate: false
+  xy: 952, 86
+  size: 215, 380
+  orig: 215, 380
+  offset: 0, 0
+  index: -1
+tthao1
+  rotate: false
+  xy: 490, 56
+  size: 229, 410
+  orig: 229, 410
+  offset: 0, 0
+  index: -1
+tthao2
+  rotate: false
+  xy: 1071, 6
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+tthao3
+  rotate: true
+  xy: 1443, 243
+  size: 223, 201
+  orig: 223, 201
+  offset: 0, 0
+  index: -1
+tthao4
+  rotate: false
+  xy: 1129, 11
+  size: 258, 73
+  orig: 258, 73
+  offset: 0, 0
+  index: -1
+tthaotext0
+  rotate: true
+  xy: 950, 4
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+tthaotext1
+  rotate: true
+  xy: 1001, 2
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+tthaotext2
+  rotate: false
+  xy: 1508, 205
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+tthaotext3
+  rotate: false
+  xy: 858, 3
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+tthaotext4
+  rotate: false
+  xy: 1766, 4
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+tthaotext5
+  rotate: false
+  xy: 1740, 4
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+tthaotext6
+  rotate: false
+  xy: 1740, 69
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+tthaotext7
+  rotate: true
+  xy: 1772, 117
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+tyle0
+  rotate: true
+  xy: 200, 5
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+tyle1
+  rotate: false
+  xy: 1589, 129
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+tyle2
+  rotate: false
+  xy: 1325, 126
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+tyle3
+  rotate: false
+  xy: 992, 58
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+voltaicon10
+  rotate: false
+  xy: 728, 3
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+voltaicon11
+  rotate: false
+  xy: 656, 3
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+voltaicon12
+  rotate: true
+  xy: 477, 2
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+voltaicon13
+  rotate: false
+  xy: 794, 3
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+voltaicon14
+  rotate: false
+  xy: 884, 4
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+voltaicon15
+  rotate: true
+  xy: 1532, 18
+  size: 223, 55
+  orig: 223, 55
+  offset: 0, 0
+  index: -1
+voltaicon3
+  rotate: true
+  xy: 1646, 145
+  size: 105, 163
+  orig: 105, 163
+  offset: 0, 0
+  index: -1
+voltaicon4
+  rotate: true
+  xy: 1169, 87
+  size: 73, 154
+  orig: 73, 154
+  offset: 0, 0
+  index: -1
+voltaicon5
+  rotate: false
+  xy: 1589, 16
+  size: 35, 111
+  orig: 35, 111
+  offset: 0, 0
+  index: -1
+voltaicon6
+  rotate: false
+  xy: 423, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+voltaicon8
+  rotate: false
+  xy: 1811, 138
+  size: 45, 112
+  orig: 45, 112
+  offset: 0, 0
+  index: -1
+voltaicon9
+  rotate: false
+  xy: 721, 56
+  size: 229, 410
+  orig: 229, 410
+  offset: 0, 0
+  index: -1

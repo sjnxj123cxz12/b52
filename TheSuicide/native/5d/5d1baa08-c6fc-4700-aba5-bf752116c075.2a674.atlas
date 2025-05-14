@@ -1,0 +1,153 @@
+
+Symbol_3.png
+size: 961,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 717, 40
+  size: 115, 125
+  orig: 115, 125
+  offset: 0, 0
+  index: -1
+Border
+  rotate: false
+  xy: 717, 167
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_20
+  rotate: false
+  xy: 2, 155
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_22
+  rotate: false
+  xy: 2, 12
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_24
+  rotate: false
+  xy: 145, 155
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_26
+  rotate: false
+  xy: 145, 12
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_28
+  rotate: false
+  xy: 288, 155
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_30
+  rotate: false
+  xy: 288, 12
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_32
+  rotate: false
+  xy: 431, 155
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_34
+  rotate: false
+  xy: 431, 12
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_36
+  rotate: false
+  xy: 574, 155
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_38
+  rotate: false
+  xy: 574, 12
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 902, 88
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 834, 83
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 848, 197
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+Meat
+  rotate: true
+  xy: 822, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 717, 15
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+R_Hand_1
+  rotate: false
+  xy: 848, 139
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+R_Hand_2
+  rotate: false
+  xy: 902, 105
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+R_Hand_3
+  rotate: false
+  xy: 777, 21
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+R_UpArm
+  rotate: true
+  xy: 834, 29
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+Symbol_K_Mega.png
+size: 949,928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg
+  rotate: false
+  xy: 2, 425
+  size: 945, 501
+  orig: 945, 501
+  offset: 0, 0
+  index: -1
+Box
+  rotate: false
+  xy: 2, 127
+  size: 472, 296
+  orig: 472, 296
+  offset: 0, 0
+  index: -1
+BoxLight
+  rotate: false
+  xy: 476, 160
+  size: 237, 148
+  orig: 237, 148
+  offset: 0, 0
+  index: -1
+Bulet
+  rotate: true
+  xy: 755, 190
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 882, 325
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+DenCam
+  rotate: true
+  xy: 577, 132
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+DenDo
+  rotate: true
+  xy: 664, 132
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+DenMid
+  rotate: false
+  xy: 715, 168
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+DenTim
+  rotate: true
+  xy: 606, 132
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+DenVang
+  rotate: false
+  xy: 693, 131
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+DenXanh
+  rotate: true
+  xy: 635, 132
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+DenXanhDuong
+  rotate: false
+  xy: 721, 139
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+ForeGround
+  rotate: false
+  xy: 2, 2
+  size: 570, 123
+  orig: 570, 123
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 476, 133
+  size: 25, 99
+  orig: 25, 99
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 715, 208
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+Text_WILD
+  rotate: false
+  xy: 476, 310
+  size: 297, 113
+  orig: 297, 113
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 775, 323
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1

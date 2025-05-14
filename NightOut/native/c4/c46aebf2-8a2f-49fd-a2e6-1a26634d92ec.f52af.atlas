@@ -1,0 +1,13 @@
+
+9926_Highlight_Frame.png
+size: 135,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_gl
+  rotate: false
+  xy: 2, 2
+  size: 131, 39
+  orig: 131, 39
+  offset: 0, 0
+  index: -1

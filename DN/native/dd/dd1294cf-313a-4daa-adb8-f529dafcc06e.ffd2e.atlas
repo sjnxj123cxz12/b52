@@ -1,0 +1,83 @@
+
+9863_VFX_Impact_Multiplier.png
+size: 1146,1146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_00
+  rotate: false
+  xy: 2, 574
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_01
+  rotate: false
+  xy: 2, 2
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_02
+  rotate: false
+  xy: 148, 574
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_03
+  rotate: false
+  xy: 148, 2
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_04
+  rotate: false
+  xy: 294, 574
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_05
+  rotate: false
+  xy: 294, 2
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_06
+  rotate: false
+  xy: 440, 574
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_07
+  rotate: false
+  xy: 440, 2
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_08
+  rotate: false
+  xy: 586, 574
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_09
+  rotate: false
+  xy: 586, 2
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1
+F_10
+  rotate: false
+  xy: 732, 574
+  size: 144, 570
+  orig: 144, 570
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+9863_UI_X2_X5_X7_X12.png
+size: 355,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_a
+  rotate: false
+  xy: 2, 117
+  size: 233, 125
+  orig: 233, 125
+  offset: 0, 0
+  index: -1
+Fx_b
+  rotate: true
+  xy: 275, 218
+  size: 133, 78
+  orig: 133, 78
+  offset: 0, 0
+  index: -1
+Fx_c
+  rotate: true
+  xy: 237, 78
+  size: 138, 44
+  orig: 138, 44
+  offset: 0, 0
+  index: -1
+Fx_glow
+  rotate: false
+  xy: 2, 244
+  size: 271, 107
+  orig: 271, 107
+  offset: 0, 0
+  index: -1
+Star_ef_a
+  rotate: false
+  xy: 2, 16
+  size: 160, 28
+  orig: 160, 28
+  offset: 0, 0
+  index: -1
+Star_ef_b
+  rotate: false
+  xy: 2, 46
+  size: 204, 69
+  orig: 204, 69
+  offset: 0, 0
+  index: -1

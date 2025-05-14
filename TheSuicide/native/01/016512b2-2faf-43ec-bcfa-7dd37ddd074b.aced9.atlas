@@ -1,0 +1,265 @@
+
+Symbol_4.png
+size: 1015,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 872, 351
+  size: 127, 90
+  orig: 127, 90
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 717, 72
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_20
+  rotate: false
+  xy: 2, 2
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_22
+  rotate: false
+  xy: 872, 872
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_24
+  rotate: false
+  xy: 698, 176
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_26
+  rotate: false
+  xy: 145, 2
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_28
+  rotate: false
+  xy: 872, 729
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_30
+  rotate: false
+  xy: 288, 2
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_32
+  rotate: false
+  xy: 872, 586
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_34
+  rotate: false
+  xy: 431, 2
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_36
+  rotate: false
+  xy: 872, 443
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_38
+  rotate: false
+  xy: 574, 2
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 717, 10
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Ip/Ip_01
+  rotate: false
+  xy: 2, 841
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_02
+  rotate: false
+  xy: 2, 667
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_03
+  rotate: false
+  xy: 176, 841
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_04
+  rotate: false
+  xy: 2, 493
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_05
+  rotate: false
+  xy: 176, 667
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_06
+  rotate: false
+  xy: 350, 841
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_07
+  rotate: false
+  xy: 2, 319
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_08
+  rotate: false
+  xy: 176, 493
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_09
+  rotate: false
+  xy: 350, 667
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_10
+  rotate: false
+  xy: 524, 841
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_11
+  rotate: false
+  xy: 2, 145
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_12
+  rotate: false
+  xy: 176, 319
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_13
+  rotate: false
+  xy: 350, 493
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_14
+  rotate: false
+  xy: 524, 667
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_15
+  rotate: false
+  xy: 698, 841
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_16
+  rotate: false
+  xy: 176, 145
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_17
+  rotate: false
+  xy: 350, 319
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_18
+  rotate: false
+  xy: 524, 493
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_19
+  rotate: false
+  xy: 698, 667
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_20
+  rotate: false
+  xy: 350, 145
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_21
+  rotate: false
+  xy: 524, 319
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_22
+  rotate: false
+  xy: 698, 493
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_23
+  rotate: false
+  xy: 524, 145
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Ip/Ip_24
+  rotate: false
+  xy: 698, 319
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1

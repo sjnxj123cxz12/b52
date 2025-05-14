@@ -1,0 +1,83 @@
+
+Btn_Spin.png
+size: 476,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Button_Spin
+  rotate: false
+  xy: 2, 180
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+Circle_Green
+  rotate: false
+  xy: 163, 123
+  size: 13, 55
+  orig: 13, 55
+  offset: 0, 0
+  index: -1
+Dot_Glow
+  rotate: false
+  xy: 2, 10
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+EffGlow
+  rotate: false
+  xy: 2, 22
+  size: 159, 156
+  orig: 159, 156
+  offset: 0, 0
+  index: -1
+Gray
+  rotate: false
+  xy: 186, 220
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+Green
+  rotate: false
+  xy: 331, 220
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+Green_Glow
+  rotate: false
+  xy: 186, 76
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+Pause
+  rotate: false
+  xy: 369, 18
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 331, 76
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+Search
+  rotate: true
+  xy: 273, 2
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+Spin
+  rotate: true
+  xy: 163, 22
+  size: 52, 108
+  orig: 52, 108
+  offset: 0, 0
+  index: -1

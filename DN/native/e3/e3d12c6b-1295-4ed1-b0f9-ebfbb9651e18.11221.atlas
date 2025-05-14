@@ -1,0 +1,258 @@
+
+9863_UI_TotalWin.png
+size: 840,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 150, 2
+  size: 105, 80
+  orig: 105, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 506, 185
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 751, 462
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 646, 326
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 257, 2
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 411, 187
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 411, 107
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+BG3
+  rotate: false
+  xy: 2, 250
+  size: 151, 295
+  orig: 151, 295
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 751, 446
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Chien
+  rotate: false
+  xy: 155, 356
+  size: 314, 82
+  orig: 314, 82
+  offset: 0, 0
+  index: -1
+Chien_Glow
+  rotate: false
+  xy: 155, 440
+  size: 337, 105
+  orig: 337, 105
+  offset: 0, 0
+  index: -1
+Cross_Glow
+  rotate: true
+  xy: 823, 441
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Dich
+  rotate: true
+  xy: 2, 17
+  size: 231, 76
+  orig: 231, 76
+  offset: 0, 0
+  index: -1
+Dich_Glow
+  rotate: false
+  xy: 494, 446
+  size: 255, 99
+  orig: 255, 99
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 823, 377
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+Ket
+  rotate: true
+  xy: 307, 77
+  size: 149, 68
+  orig: 149, 68
+  offset: 0, 0
+  index: -1
+Ket_Glow
+  rotate: false
+  xy: 471, 327
+  size: 173, 91
+  orig: 173, 91
+  offset: 0, 0
+  index: -1
+Line
+  rotate: false
+  xy: 155, 228
+  size: 219, 33
+  orig: 219, 33
+  offset: 0, 0
+  index: -1
+Line1
+  rotate: false
+  xy: 716, 316
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+Line2
+  rotate: false
+  xy: 150, 84
+  size: 155, 142
+  orig: 155, 142
+  offset: 0, 0
+  index: -1
+Line_Glow
+  rotate: false
+  xy: 506, 121
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+Line_Glow2
+  rotate: false
+  xy: 471, 420
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 823, 404
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+R
+  rotate: true
+  xy: 769, 446
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 786, 446
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Text_1
+  rotate: false
+  xy: 494, 420
+  size: 192, 24
+  orig: 192, 24
+  offset: 0, 0
+  index: -1
+Text_2
+  rotate: true
+  xy: 377, 74
+  size: 187, 32
+  orig: 187, 32
+  offset: 0, 0
+  index: -1
+Text_3
+  rotate: false
+  xy: 409, 293
+  size: 152, 32
+  orig: 152, 32
+  offset: 0, 0
+  index: -1
+Text_4
+  rotate: false
+  xy: 409, 270
+  size: 149, 21
+  orig: 149, 21
+  offset: 0, 0
+  index: -1
+Text_5
+  rotate: false
+  xy: 411, 94
+  size: 89, 11
+  orig: 89, 11
+  offset: 0, 0
+  index: -1
+Text_6
+  rotate: false
+  xy: 2, 4
+  size: 59, 11
+  orig: 59, 11
+  offset: 0, 0
+  index: -1
+Texture
+  rotate: false
+  xy: 2, 547
+  size: 835, 291
+  orig: 835, 291
+  offset: 0, 0
+  index: -1
+Thuc
+  rotate: true
+  xy: 80, 18
+  size: 230, 68
+  orig: 230, 68
+  offset: 0, 0
+  index: -1
+Thuc_Glow
+  rotate: false
+  xy: 155, 263
+  size: 252, 91
+  orig: 252, 91
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 823, 422
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Y
+  rotate: true
+  xy: 823, 386
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

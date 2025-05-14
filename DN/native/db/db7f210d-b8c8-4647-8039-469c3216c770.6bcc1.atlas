@@ -1,0 +1,13 @@
+
+9863_VFX_ProcessBar.png
+size: 502,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flare1
+  rotate: false
+  xy: 2, 348
+  size: 498, 150
+  orig: 498, 150
+  offset: 0, 0
+  index: -1

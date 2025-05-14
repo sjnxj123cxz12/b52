@@ -1,0 +1,146 @@
+
+COW_Jackpot.png
+size: 497,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 109, 11
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 165, 11
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 183, 90
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 221, 30
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 239, 90
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 277, 30
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 333, 38
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 389, 38
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+A
+  rotate: true
+  xy: 255, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 221, 2
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+J
+  rotate: true
+  xy: 183, 71
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+JPgold
+  rotate: false
+  xy: 295, 98
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 288, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Light_bird
+  rotate: false
+  xy: 445, 59
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+O
+  rotate: true
+  xy: 321, 3
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 355, 5
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 380, 5
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 2, 11
+  size: 105, 137
+  orig: 105, 137
+  offset: 0, 0
+  index: -1
+sparkcle
+  rotate: false
+  xy: 445, 15
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 109, 71
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1

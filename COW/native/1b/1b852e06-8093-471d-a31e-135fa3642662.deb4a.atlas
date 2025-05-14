@@ -1,0 +1,41 @@
+
+Fire_InSky.png
+size: 414,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explosion/Explosion 01
+  rotate: true
+  xy: 2, 2
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 02
+  rotate: true
+  xy: 84, 2
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 03
+  rotate: true
+  xy: 166, 2
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 04
+  rotate: true
+  xy: 248, 2
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 06
+  rotate: false
+  xy: 330, 4
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1

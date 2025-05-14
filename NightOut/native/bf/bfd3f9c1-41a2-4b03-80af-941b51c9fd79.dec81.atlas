@@ -1,0 +1,69 @@
+
+9926_UI_TitleJackPot.png
+size: 488,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GrandText
+  rotate: false
+  xy: 2, 26
+  size: 133, 58
+  orig: 133, 58
+  offset: 0, 0
+  index: -1
+Grandactive
+  rotate: true
+  xy: 2, 225
+  size: 318, 112
+  orig: 318, 112
+  offset: 0, 0
+  index: -1
+Granddisable
+  rotate: false
+  xy: 142, 2
+  size: 317, 112
+  orig: 318, 112
+  offset: 0, 0
+  index: -1
+MajorActive
+  rotate: false
+  xy: 116, 329
+  size: 318, 105
+  orig: 318, 105
+  offset: 0, 0
+  index: -1
+MajorDisable
+  rotate: false
+  xy: 142, 222
+  size: 318, 105
+  orig: 318, 105
+  offset: 0, 0
+  index: -1
+MajorText
+  rotate: true
+  xy: 436, 430
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+flare2
+  rotate: false
+  xy: 2, 86
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: -1
+fx_Grandactive
+  rotate: false
+  xy: 116, 436
+  size: 318, 107
+  orig: 318, 112
+  offset: 0, 5
+  index: -1
+fx_MajorActive
+  rotate: false
+  xy: 142, 116
+  size: 318, 104
+  orig: 318, 105
+  offset: 0, 1
+  index: -1

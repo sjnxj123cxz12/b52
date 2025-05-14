@@ -1,0 +1,48 @@
+
+UI_Lock_FreeGames.png
+size: 231,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1
+  rotate: false
+  xy: 2, 117
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: true
+  xy: 153, 32
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+BG2_2
+  rotate: false
+  xy: 2, 195
+  size: 174, 76
+  orig: 174, 76
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: true
+  xy: 2, 2
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+Text
+  rotate: true
+  xy: 178, 183
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+Text_add
+  rotate: true
+  xy: 82, 27
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1

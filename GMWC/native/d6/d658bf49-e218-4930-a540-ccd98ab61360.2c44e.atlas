@@ -1,0 +1,265 @@
+
+Btn_TrialMode.png
+size: 536,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChoiThat
+  rotate: false
+  xy: 228, 190
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_0
+  rotate: false
+  xy: 228, 190
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+ChoiThu
+  rotate: true
+  xy: 195, 63
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+Dot_A
+  rotate: true
+  xy: 527, 527
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Dot_B
+  rotate: false
+  xy: 527, 520
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Horn_ChoiThat
+  rotate: false
+  xy: 229, 462
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+Horn_ChoiThu
+  rotate: false
+  xy: 342, 462
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 135, 442
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_10
+  rotate: false
+  xy: 2, 170
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_12
+  rotate: false
+  xy: 2, 114
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_14
+  rotate: false
+  xy: 2, 58
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_16
+  rotate: false
+  xy: 139, 2
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_18
+  rotate: false
+  xy: 276, 2
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_2
+  rotate: true
+  xy: 365, 109
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_4
+  rotate: true
+  xy: 450, 58
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_6
+  rotate: false
+  xy: 2, 2
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+Text_Light/ChoiThat_Ligt_8
+  rotate: true
+  xy: 139, 89
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+WaveHorn
+  rotate: false
+  xy: 2, 442
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+Wire_A_ChoiThat
+  rotate: false
+  xy: 421, 192
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Wire_A_ChoiThu
+  rotate: false
+  xy: 421, 219
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Wire_B_ChoiThat
+  rotate: false
+  xy: 421, 173
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Wire_B_ChoiThu
+  rotate: false
+  xy: 421, 154
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+effect/Light_0
+  rotate: true
+  xy: 455, 421
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_1
+  rotate: false
+  xy: 229, 390
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_10
+  rotate: false
+  xy: 228, 246
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_11
+  rotate: false
+  xy: 341, 246
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_12
+  rotate: true
+  xy: 454, 195
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_13
+  rotate: false
+  xy: 2, 226
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_14
+  rotate: false
+  xy: 115, 226
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_2
+  rotate: false
+  xy: 342, 390
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_3
+  rotate: true
+  xy: 455, 308
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_4
+  rotate: false
+  xy: 2, 370
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_5
+  rotate: false
+  xy: 115, 370
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_6
+  rotate: false
+  xy: 228, 318
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_7
+  rotate: false
+  xy: 341, 318
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_8
+  rotate: false
+  xy: 2, 298
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+effect/Light_9
+  rotate: false
+  xy: 115, 298
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1

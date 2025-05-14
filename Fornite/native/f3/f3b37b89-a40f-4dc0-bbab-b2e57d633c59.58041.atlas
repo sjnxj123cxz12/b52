@@ -1,0 +1,160 @@
+
+BG_Character.png
+size: 465,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 426, 245
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+B_Hair
+  rotate: false
+  xy: 360, 2
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+B_Hair_Top
+  rotate: false
+  xy: 426, 155
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 362, 38
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Ball_Glow
+  rotate: false
+  xy: 362, 91
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 20
+  size: 169, 304
+  orig: 169, 304
+  offset: 0, 0
+  index: -1
+Fadeout
+  rotate: false
+  xy: 54, 5
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Head_Mid
+  rotate: false
+  xy: 423, 94
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 389, 3
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Item_1
+  rotate: false
+  xy: 415, 49
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+Item_2
+  rotate: false
+  xy: 426, 199
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Item_Hair
+  rotate: false
+  xy: 424, 3
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 424, 16
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+L_Arm_Idle
+  rotate: true
+  xy: 423, 115
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 426, 293
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+L_UpArm
+  rotate: false
+  xy: 173, 2
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+Light_Ball
+  rotate: false
+  xy: 252, 152
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Light_Ray
+  rotate: false
+  xy: 252, 8
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: false
+  xy: 252, 86
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 2, 2
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+R_UpArm
+  rotate: true
+  xy: 331, 20
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 173, 31
+  size: 293, 77
+  orig: 293, 77
+  offset: 0, 0
+  index: -1

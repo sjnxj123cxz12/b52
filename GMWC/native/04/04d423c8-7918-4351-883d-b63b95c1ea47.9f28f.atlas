@@ -1,0 +1,279 @@
+
+VFX_WinLine.png
+size: 705,705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball_Stroke
+  rotate: false
+  xy: 512, 162
+  size: 91, 89
+  orig: 101, 101
+  offset: 5, 6
+  index: -1
+Detail
+  rotate: false
+  xy: 2, 523
+  size: 187, 180
+  orig: 188, 181
+  offset: 0, 1
+  index: -1
+Electric/Electric_01
+  rotate: true
+  xy: 482, 100
+  size: 60, 75
+  orig: 161, 143
+  offset: 0, 25
+  index: -1
+Electric/Electric_02
+  rotate: true
+  xy: 421, 178
+  size: 55, 89
+  orig: 161, 143
+  offset: 2, 22
+  index: -1
+Electric/Electric_03
+  rotate: false
+  xy: 301, 226
+  size: 118, 107
+  orig: 161, 143
+  offset: 12, 30
+  index: -1
+Electric/Electric_04
+  rotate: false
+  xy: 172, 350
+  size: 149, 87
+  orig: 161, 143
+  offset: 12, 50
+  index: -1
+Electric/Electric_05
+  rotate: false
+  xy: 421, 235
+  size: 89, 98
+  orig: 161, 143
+  offset: 72, 39
+  index: -1
+Electric/Electric_06
+  rotate: true
+  xy: 467, 350
+  size: 84, 114
+  orig: 161, 143
+  offset: 67, 6
+  index: -1
+Electric/Electric_07
+  rotate: true
+  xy: 641, 436
+  size: 60, 42
+  orig: 161, 143
+  offset: 33, 6
+  index: -1
+Fire/00
+  rotate: false
+  xy: 2, 2
+  size: 93, 83
+  orig: 161, 143
+  offset: 34, 32
+  index: -1
+Fire/01
+  rotate: false
+  xy: 97, 8
+  size: 88, 77
+  orig: 161, 143
+  offset: 36, 35
+  index: -1
+Fire/02
+  rotate: false
+  xy: 605, 168
+  size: 86, 74
+  orig: 161, 143
+  offset: 38, 35
+  index: -1
+Fire/03
+  rotate: false
+  xy: 493, 436
+  size: 146, 134
+  orig: 161, 143
+  offset: 15, 0
+  index: -1
+Fire/04
+  rotate: false
+  xy: 157, 112
+  size: 142, 105
+  orig: 161, 143
+  offset: 10, 0
+  index: -1
+Fire/05
+  rotate: false
+  xy: 559, 97
+  size: 74, 63
+  orig: 161, 143
+  offset: 44, 40
+  index: -1
+Fire/06
+  rotate: true
+  xy: 635, 97
+  size: 69, 61
+  orig: 161, 143
+  offset: 46, 42
+  index: -1
+Fire/07
+  rotate: false
+  xy: 323, 335
+  size: 142, 102
+  orig: 161, 143
+  offset: 10, 0
+  index: -1
+Fire/08
+  rotate: false
+  xy: 420, 37
+  size: 70, 61
+  orig: 161, 143
+  offset: 46, 42
+  index: -1
+Fire/09
+  rotate: true
+  xy: 492, 29
+  size: 69, 61
+  orig: 161, 143
+  offset: 46, 42
+  index: -1
+Fire/10
+  rotate: false
+  xy: 555, 34
+  size: 69, 61
+  orig: 161, 143
+  offset: 46, 41
+  index: -1
+Fire/11
+  rotate: true
+  xy: 284, 38
+  size: 72, 61
+  orig: 161, 143
+  offset: 45, 42
+  index: -1
+Fire/12
+  rotate: false
+  xy: 347, 46
+  size: 71, 63
+  orig: 161, 143
+  offset: 46, 40
+  index: -1
+Fire/13
+  rotate: true
+  xy: 641, 498
+  size: 72, 62
+  orig: 161, 143
+  offset: 45, 42
+  index: -1
+Fire/14
+  rotate: false
+  xy: 404, 111
+  size: 76, 65
+  orig: 161, 143
+  offset: 42, 40
+  index: -1
+Goal
+  rotate: false
+  xy: 515, 572
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+Goal_Black
+  rotate: false
+  xy: 191, 439
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 668, 576
+  size: 127, 3
+  orig: 127, 3
+  offset: 0, 0
+  index: -1
+Slash/Slash_00
+  rotate: true
+  xy: 512, 253
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+Slash/Slash_01
+  rotate: false
+  xy: 608, 340
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+Slash/Slash_02
+  rotate: false
+  xy: 608, 244
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+Slash/Slash_03
+  rotate: false
+  xy: 187, 16
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+Spark/Spark_02
+  rotate: false
+  xy: 301, 120
+  size: 101, 104
+  orig: 161, 143
+  offset: 29, 21
+  index: -1
+Spark/Spark_03
+  rotate: false
+  xy: 2, 87
+  size: 153, 131
+  orig: 161, 143
+  offset: 3, 6
+  index: -1
+Spark/Spark_04
+  rotate: false
+  xy: 354, 572
+  size: 159, 131
+  orig: 161, 143
+  offset: 0, 6
+  index: -1
+Spark/Spark_05
+  rotate: false
+  xy: 191, 572
+  size: 161, 131
+  orig: 161, 143
+  offset: 0, 6
+  index: -1
+Spark/Spark_06
+  rotate: false
+  xy: 2, 220
+  size: 161, 131
+  orig: 161, 143
+  offset: 0, 6
+  index: -1
+Spark/Spark_07
+  rotate: false
+  xy: 344, 439
+  size: 147, 131
+  orig: 161, 143
+  offset: 6, 6
+  index: -1
+Spark/Spark_08
+  rotate: false
+  xy: 165, 219
+  size: 134, 129
+  orig: 161, 143
+  offset: 12, 8
+  index: -1
+Spin_Light
+  rotate: false
+  xy: 2, 353
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1

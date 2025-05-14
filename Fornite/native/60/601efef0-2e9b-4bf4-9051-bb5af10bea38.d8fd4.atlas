@@ -1,0 +1,195 @@
+
+Symbol_5.png
+size: 241,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 10
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+Body_Light
+  rotate: false
+  xy: 2, 2
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Crossbar_Left
+  rotate: false
+  xy: 109, 5
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+Crossbar_Right
+  rotate: true
+  xy: 105, 27
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 42
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+Glow_Bright
+  rotate: true
+  xy: 121, 138
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+Handle_Left
+  rotate: false
+  xy: 167, 28
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Handle_Left_Light
+  rotate: false
+  xy: 227, 18
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Handle_Right
+  rotate: false
+  xy: 227, 148
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Handle_Right_Light
+  rotate: false
+  xy: 177, 15
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Light_Body
+  rotate: true
+  xy: 227, 206
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+Light_Top
+  rotate: true
+  xy: 227, 171
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+Pillar_Bottom
+  rotate: true
+  xy: 21, 3
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+Pillar_Bottom_Light
+  rotate: true
+  xy: 105, 138
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Pillar_Left
+  rotate: false
+  xy: 166, 10
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Pillar_Left_Light
+  rotate: true
+  xy: 177, 6
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Pillar_Right
+  rotate: false
+  xy: 227, 27
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+Pillar_Right_Light
+  rotate: true
+  xy: 44, 3
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 148
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+Sparkle_Umbrella_1
+  rotate: false
+  xy: 105, 96
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+Sparkle_Umbrella_2
+  rotate: false
+  xy: 105, 54
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+Sparkle_Wing_Right
+  rotate: true
+  xy: 70, 11
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Umbrella
+  rotate: true
+  xy: 195, 48
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+Wing_Left
+  rotate: false
+  xy: 70, 2
+  size: 37, 7
+  orig: 37, 7
+  offset: 0, 0
+  index: -1
+Wing_Left_Light
+  rotate: true
+  xy: 227, 138
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Wing_Right
+  rotate: true
+  xy: 192, 17
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Wing_Right_Light
+  rotate: false
+  xy: 227, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

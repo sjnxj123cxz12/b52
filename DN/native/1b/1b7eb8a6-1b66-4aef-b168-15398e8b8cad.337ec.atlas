@@ -1,0 +1,48 @@
+
+9863_VFX_Particle_BigWin.png
+size: 442,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TCL_Cell_Large
+  rotate: false
+  xy: 2, 24
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+TCL_Cell_Medium
+  rotate: false
+  xy: 164, 242
+  size: 186, 196
+  orig: 186, 196
+  offset: 0, 0
+  index: -1
+TCL_Cell_Small
+  rotate: false
+  xy: 328, 128
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+TSL_Cell_Large
+  rotate: false
+  xy: 2, 214
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+TSL_Cell_Medium
+  rotate: false
+  xy: 188, 86
+  size: 138, 154
+  orig: 138, 154
+  offset: 0, 0
+  index: -1
+TSL_Cell_Small
+  rotate: true
+  xy: 328, 18
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1

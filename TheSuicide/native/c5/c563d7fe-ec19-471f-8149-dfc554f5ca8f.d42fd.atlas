@@ -1,0 +1,335 @@
+
+VFX_HarleyQuinn_Multiply.png
+size: 3983,1095
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/DustWave
+  rotate: true
+  xy: 919, 379
+  size: 168, 80
+  orig: 168, 80
+  offset: 0, 0
+  index: -1
+FX/GunHeat
+  rotate: true
+  xy: 558, 256
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+FX/Light
+  rotate: false
+  xy: 350, 3
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+FX/MoBlurA
+  rotate: false
+  xy: 1067, 388
+  size: 129, 159
+  orig: 129, 159
+  offset: 0, 0
+  index: -1
+FX/MoBlurB
+  rotate: false
+  xy: 3501, 99
+  size: 127, 184
+  orig: 127, 184
+  offset: 0, 0
+  index: -1
+FX/MuzzleFlash
+  rotate: true
+  xy: 3695, 287
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+FX/Rock1
+  rotate: false
+  xy: 477, 325
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+FX/Rock2
+  rotate: false
+  xy: 546, 325
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX/Rock3
+  rotate: false
+  xy: 1144, 225
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX/Shell
+  rotate: true
+  xy: 2, 7
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+FX/Smoke
+  rotate: true
+  xy: 3717, 363
+  size: 268, 251
+  orig: 268, 251
+  offset: 0, 0
+  index: -1
+FX/TransFrameEnd2
+  rotate: false
+  xy: 2, 36
+  size: 346, 287
+  orig: 346, 287
+  offset: 0, 0
+  index: -1
+FX/TransFrameStart
+  rotate: false
+  xy: 749, 379
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+Pose_Down/Arm_L
+  rotate: false
+  xy: 1001, 386
+  size: 64, 161
+  orig: 64, 161
+  offset: 0, 0
+  index: -1
+Pose_Down/Arm_R
+  rotate: false
+  xy: 3704, 2
+  size: 55, 123
+  orig: 55, 123
+  offset: 0, 0
+  index: -1
+Pose_Down/Body
+  rotate: true
+  xy: 3501, 3
+  size: 94, 137
+  orig: 94, 137
+  offset: 0, 0
+  index: -1
+Pose_Down/ForeArm_L
+  rotate: true
+  xy: 3424, 469
+  size: 78, 248
+  orig: 78, 248
+  offset: 0, 0
+  index: -1
+Pose_Down/ForeArm_R
+  rotate: true
+  xy: 518, 4
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Pose_Down/Hair_L
+  rotate: true
+  xy: 395, 4
+  size: 42, 121
+  orig: 42, 121
+  offset: 0, 0
+  index: -1
+Pose_Down/Hair_R
+  rotate: false
+  xy: 1144, 277
+  size: 52, 109
+  orig: 52, 109
+  offset: 0, 0
+  index: -1
+Pose_Down/Hand_R
+  rotate: false
+  xy: 3640, 2
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+Pose_Down/Head
+  rotate: false
+  xy: 3761, 12
+  size: 83, 113
+  orig: 83, 113
+  offset: 0, 0
+  index: -1
+Pose_Down/Leg_L
+  rotate: false
+  xy: 3630, 127
+  size: 139, 156
+  orig: 139, 156
+  offset: 0, 0
+  index: -1
+Pose_Down/Leg_R
+  rotate: true
+  xy: 3717, 633
+  size: 123, 256
+  orig: 123, 256
+  offset: 0, 0
+  index: -1
+Pose_Down/Skirt_B
+  rotate: false
+  xy: 3501, 285
+  size: 192, 182
+  orig: 192, 182
+  offset: 0, 0
+  index: -1
+Pose_Down/Skirt_F
+  rotate: true
+  xy: 3846, 215
+  size: 70, 135
+  orig: 70, 135
+  offset: 0, 0
+  index: -1
+Pose_Down/Skirt_M
+  rotate: true
+  xy: 350, 48
+  size: 275, 206
+  orig: 275, 206
+  offset: 0, 0
+  index: -1
+Pose_Stand/Body_S
+  rotate: true
+  xy: 477, 377
+  size: 716, 270
+  orig: 716, 270
+  offset: 0, 0
+  index: -1
+Pose_Stand/Head_S
+  rotate: true
+  xy: 3771, 131
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+Pose_Stand/Leg_S
+  rotate: false
+  xy: 3424, 50
+  size: 75, 417
+  orig: 75, 417
+  offset: 0, 0
+  index: -1
+Pose_Stand/Skirt_S
+  rotate: false
+  xy: 3717, 758
+  size: 263, 335
+  orig: 263, 335
+  offset: 0, 0
+  index: -1
+Pose_Trans
+  rotate: true
+  xy: 2, 325
+  size: 768, 473
+  orig: 768, 473
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_00
+  rotate: false
+  xy: 598, 6
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_01
+  rotate: true
+  xy: 749, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_02
+  rotate: true
+  xy: 1120, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_03
+  rotate: true
+  xy: 1198, 3
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_04
+  rotate: true
+  xy: 1491, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_05
+  rotate: true
+  xy: 1569, 3
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_06
+  rotate: true
+  xy: 1862, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_07
+  rotate: true
+  xy: 1940, 3
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_08
+  rotate: true
+  xy: 2233, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_09
+  rotate: true
+  xy: 2311, 3
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_10
+  rotate: true
+  xy: 2604, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_11
+  rotate: true
+  xy: 2682, 3
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_12
+  rotate: true
+  xy: 2975, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_13
+  rotate: true
+  xy: 3053, 3
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1
+Pose_Transition/Harley_FBF_14
+  rotate: true
+  xy: 3346, 549
+  size: 544, 369
+  orig: 544, 369
+  offset: 0, 0
+  index: -1

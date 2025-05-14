@@ -1,0 +1,13 @@
+
+COW_Logo.png
+size: 413,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LogoCOW
+  rotate: false
+  xy: 2, 2
+  size: 409, 65
+  orig: 409, 65
+  offset: 0, 0
+  index: -1

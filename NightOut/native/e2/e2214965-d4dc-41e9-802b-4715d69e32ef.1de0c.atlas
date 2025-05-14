@@ -1,0 +1,366 @@
+
+9926_Transition_Bonus.png
+size: 1068,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border_in
+  rotate: false
+  xy: 438, 61
+  size: 417, 42
+  orig: 417, 42
+  offset: 0, 0
+  index: -1
+border_out
+  rotate: false
+  xy: 438, 105
+  size: 430, 54
+  orig: 430, 54
+  offset: 0, 0
+  index: -1
+come
+  rotate: false
+  xy: 855, 4
+  size: 209, 54
+  orig: 209, 54
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 438, 20
+  size: 415, 39
+  orig: 415, 39
+  offset: 0, 0
+  index: -1
+neonheart
+  rotate: false
+  xy: 870, 60
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+neonlight
+  rotate: false
+  xy: 870, 118
+  size: 196, 41
+  orig: 196, 41
+  offset: 0, 0
+  index: -1
+stage
+  rotate: false
+  xy: 438, 215
+  size: 564, 170
+  orig: 564, 170
+  offset: 0, 0
+  index: -1
+stage_heart
+  rotate: false
+  xy: 2, 2
+  size: 434, 383
+  orig: 434, 383
+  offset: 0, 0
+  index: -1
+text1
+  rotate: true
+  xy: 1004, 287
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 438, 161
+  size: 589, 52
+  orig: 589, 52
+  offset: 0, 0
+  index: -1
+ticket
+  rotate: false
+  xy: 1004, 215
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+
+9926_Transition_Bonus2.png
+size: 645,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+layer1/heart_gl
+  rotate: true
+  xy: 2, 39
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+layer1/particle_1
+  rotate: false
+  xy: 230, 10
+  size: 47, 47
+  orig: 112, 109
+  offset: 28, 27
+  index: -1
+layer1/particle_10
+  rotate: true
+  xy: 435, 2
+  size: 79, 82
+  orig: 112, 109
+  offset: 13, 11
+  index: -1
+layer1/particle_11
+  rotate: false
+  xy: 417, 83
+  size: 83, 86
+  orig: 112, 109
+  offset: 11, 9
+  index: -1
+layer1/particle_12
+  rotate: false
+  xy: 328, 80
+  size: 87, 89
+  orig: 112, 109
+  offset: 9, 8
+  index: -1
+layer1/particle_13
+  rotate: false
+  xy: 236, 76
+  size: 90, 93
+  orig: 112, 109
+  offset: 7, 6
+  index: -1
+layer1/particle_2
+  rotate: false
+  xy: 179, 7
+  size: 49, 50
+  orig: 112, 109
+  offset: 27, 26
+  index: -1
+layer1/particle_3
+  rotate: false
+  xy: 124, 3
+  size: 53, 54
+  orig: 112, 109
+  offset: 25, 24
+  index: -1
+layer1/particle_4
+  rotate: true
+  xy: 585, 48
+  size: 57, 58
+  orig: 112, 109
+  offset: 23, 22
+  index: -1
+layer1/particle_5
+  rotate: false
+  xy: 572, 107
+  size: 61, 62
+  orig: 112, 109
+  offset: 21, 20
+  index: -1
+layer1/particle_6
+  rotate: false
+  xy: 519, 33
+  size: 64, 65
+  orig: 112, 109
+  offset: 20, 19
+  index: -1
+layer1/particle_7
+  rotate: false
+  xy: 502, 100
+  size: 68, 69
+  orig: 112, 109
+  offset: 18, 17
+  index: -1
+layer1/particle_8
+  rotate: true
+  xy: 279, 2
+  size: 72, 74
+  orig: 112, 109
+  offset: 16, 15
+  index: -1
+layer1/particle_9
+  rotate: true
+  xy: 355, 2
+  size: 76, 78
+  orig: 112, 109
+  offset: 14, 13
+  index: -1
+layer1/particle_dim
+  rotate: false
+  xy: 124, 59
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+
+9926_Transition_Bonus3.png
+size: 585,617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+layer2/girl1
+  rotate: true
+  xy: 2, 2
+  size: 85, 147
+  orig: 86, 147
+  offset: 0, 0
+  index: -1
+layer2/girl1_clean
+  rotate: true
+  xy: 287, 444
+  size: 171, 294
+  orig: 171, 294
+  offset: 0, 0
+  index: -1
+layer2/girl1_clean_00
+  rotate: true
+  xy: 131, 149
+  size: 108, 172
+  orig: 125, 175
+  offset: 8, 2
+  index: -1
+layer2/girl2
+  rotate: false
+  xy: 499, 125
+  size: 84, 147
+  orig: 84, 147
+  offset: 0, 0
+  index: -1
+layer2/girl2_clean
+  rotate: true
+  xy: 287, 274
+  size: 168, 293
+  orig: 168, 293
+  offset: 0, 0
+  index: -1
+layer2/girl2_clean_00
+  rotate: true
+  xy: 151, 39
+  size: 108, 169
+  orig: 125, 175
+  offset: 9, 3
+  index: -1
+layer2/girl3_cheated
+  rotate: true
+  xy: 322, 21
+  size: 64, 168
+  orig: 64, 168
+  offset: 0, 0
+  index: -1
+layer2/girl3_clean
+  rotate: false
+  xy: 2, 89
+  size: 127, 335
+  orig: 127, 335
+  offset: 0, 0
+  index: -1
+layer2/girl3_clean_00
+  rotate: true
+  xy: 305, 184
+  size: 88, 192
+  orig: 100, 200
+  offset: 6, 4
+  index: -1
+layer2/girl4
+  rotate: true
+  xy: 322, 87
+  size: 95, 142
+  orig: 95, 142
+  offset: 0, 0
+  index: -1
+layer2/girl4_clean
+  rotate: true
+  xy: 2, 426
+  size: 189, 283
+  orig: 189, 283
+  offset: 0, 0
+  index: -1
+layer2/girl4_clean_00
+  rotate: false
+  xy: 131, 259
+  size: 119, 165
+  orig: 125, 175
+  offset: 3, 5
+  index: -1
+
+9926_Transition_Bonus4.png
+size: 1601,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+layer3/border_in_gl
+  rotate: false
+  xy: 484, 18
+  size: 466, 86
+  orig: 500, 90
+  offset: 17, 2
+  index: -1
+layer3/border_out_gl
+  rotate: false
+  xy: 2, 4
+  size: 480, 100
+  orig: 500, 100
+  offset: 10, 0
+  index: -1
+layer3/come_gl
+  rotate: false
+  xy: 1258, 9
+  size: 249, 95
+  orig: 250, 96
+  offset: 0, 1
+  index: -1
+layer3/neonheart_gl
+  rotate: false
+  xy: 1509, 22
+  size: 90, 82
+  orig: 92, 82
+  offset: 1, 0
+  index: -1
+layer3/neonlight_gl
+  rotate: false
+  xy: 952, 7
+  size: 212, 60
+  orig: 218, 60
+  offset: 3, 0
+  index: -1
+layer3/particle_blue
+  rotate: false
+  xy: 1166, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+layer3/text1_gl
+  rotate: false
+  xy: 1166, 37
+  size: 59, 30
+  orig: 60, 32
+  offset: 1, 1
+  index: -1
+layer3/text2_gl
+  rotate: false
+  xy: 952, 69
+  size: 304, 35
+  orig: 306, 37
+  offset: 1, 1
+  index: -1
+
+9926_Transition_Bonus5.png
+size: 1046,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+layer4/glow_behind
+  rotate: false
+  xy: 2, 2
+  size: 654, 297
+  orig: 656, 297
+  offset: 1, 0
+  index: -1
+layer4/spotlightbase
+  rotate: true
+  xy: 658, 17
+  size: 282, 386
+  orig: 282, 386
+  offset: 0, 0
+  index: -1

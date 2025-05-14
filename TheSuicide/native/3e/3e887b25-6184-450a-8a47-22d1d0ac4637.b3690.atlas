@@ -1,0 +1,209 @@
+
+Symbol_2.png
+size: 1009,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 431, 65
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+B_Hair
+  rotate: false
+  xy: 568, 10
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 892, 77
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+Border_Bot
+  rotate: false
+  xy: 568, 74
+  size: 145, 126
+  orig: 145, 126
+  offset: 0, 0
+  index: -1
+Border_Bot_Glow
+  rotate: false
+  xy: 715, 74
+  size: 145, 126
+  orig: 145, 126
+  offset: 0, 0
+  index: -1
+Border_Top
+  rotate: false
+  xy: 728, 15
+  size: 145, 19
+  orig: 145, 19
+  offset: 0, 0
+  index: -1
+Border_Top_Glow
+  rotate: false
+  xy: 167, 38
+  size: 145, 19
+  orig: 145, 19
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_20
+  rotate: false
+  xy: 2, 202
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_22
+  rotate: false
+  xy: 145, 202
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_24
+  rotate: false
+  xy: 288, 202
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_26
+  rotate: false
+  xy: 431, 202
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_28
+  rotate: false
+  xy: 574, 202
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_30
+  rotate: false
+  xy: 717, 202
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_32
+  rotate: false
+  xy: 860, 202
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_34
+  rotate: false
+  xy: 2, 59
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_36
+  rotate: false
+  xy: 145, 59
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+FX_F/FX_F_38
+  rotate: false
+  xy: 288, 59
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+Gun_Light
+  rotate: true
+  xy: 990, 169
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 431, 2
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 2, 21
+  size: 36, 163
+  orig: 36, 163
+  offset: 0, 0
+  index: -1
+L_Bang
+  rotate: true
+  xy: 728, 46
+  size: 26, 67
+  orig: 26, 67
+  offset: 0, 0
+  index: -1
+L_Bang_Shadow
+  rotate: false
+  xy: 511, 18
+  size: 14, 45
+  orig: 14, 45
+  offset: 0, 0
+  index: -1
+L_Gun_Light
+  rotate: false
+  xy: 527, 27
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+L_UpArm
+  rotate: true
+  xy: 649, 27
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 862, 36
+  size: 28, 164
+  orig: 28, 164
+  offset: 0, 0
+  index: -1
+R_Bang
+  rotate: false
+  xy: 979, 2
+  size: 23, 73
+  orig: 23, 73
+  offset: 0, 0
+  index: -1
+R_Bang_Shadow
+  rotate: false
+  xy: 990, 89
+  size: 14, 51
+  orig: 14, 51
+  offset: 0, 0
+  index: -1
+R_Gun_Light
+  rotate: false
+  xy: 990, 142
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+R_UpArm
+  rotate: true
+  xy: 892, 7
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1

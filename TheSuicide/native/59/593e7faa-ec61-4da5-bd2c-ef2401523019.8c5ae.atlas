@@ -1,0 +1,104 @@
+
+Symbol_5.png
+size: 482,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baseball
+  rotate: true
+  xy: 2, 88
+  size: 118, 20
+  orig: 118, 20
+  offset: 0, 0
+  index: -1
+FX/01
+  rotate: false
+  xy: 24, 105
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/02
+  rotate: false
+  xy: 24, 2
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/03
+  rotate: false
+  xy: 70, 268
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/04
+  rotate: false
+  xy: 127, 165
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/05
+  rotate: false
+  xy: 173, 268
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/06
+  rotate: false
+  xy: 127, 62
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/07
+  rotate: false
+  xy: 276, 268
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/08
+  rotate: false
+  xy: 379, 268
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/09
+  rotate: false
+  xy: 230, 165
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/10
+  rotate: false
+  xy: 333, 165
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+FX/11
+  rotate: false
+  xy: 230, 62
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: true
+  xy: 2, 208
+  size: 161, 66
+  orig: 161, 66
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 333, 65
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1

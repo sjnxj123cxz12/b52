@@ -1,0 +1,209 @@
+
+icon_deltaforce.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assault rifle clip deltaforce
+  rotate: true
+  xy: 951, 382
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+assault rifle clip shadow deltaforce
+  rotate: true
+  xy: 265, 12
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+assault rifle clip slot deltaforce
+  rotate: false
+  xy: 529, 61
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+assault rifle deltaforce
+  rotate: false
+  xy: 708, 258
+  size: 229, 126
+  orig: 229, 126
+  offset: 0, 0
+  index: -1
+assault rifle front handle deltaforce
+  rotate: true
+  xy: 939, 267
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+assault rifle front handle shadow deltaforce
+  rotate: false
+  xy: 708, 204
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+bg back deltaforce
+  rotate: false
+  xy: 261, 102
+  size: 229, 408
+  orig: 229, 408
+  offset: 0, 0
+  index: -1
+bg front deltaforce
+  rotate: false
+  xy: 734, 30
+  size: 142, 129
+  orig: 142, 129
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 492, 194
+  size: 214, 316
+  orig: 214, 316
+  offset: 0, 0
+  index: -1
+bullet casing deltaforce
+  rotate: true
+  xy: 1007, 488
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+coverjackpot deltaforce
+  rotate: false
+  xy: 708, 386
+  size: 241, 124
+  orig: 241, 124
+  offset: 0, 0
+  index: -1
+deltaforce particle
+  rotate: false
+  xy: 410, 48
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+deltaforce/deltaforce bullets
+  rotate: true
+  xy: 403, 2
+  size: 43, 5
+  orig: 43, 5
+  offset: 0, 0
+  index: -1
+deltaforce_fire
+  rotate: false
+  xy: 878, 32
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+deltaforce_muzzle flash
+  rotate: false
+  xy: 939, 288
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+font back weapon deltaforce
+  rotate: false
+  xy: 734, 161
+  size: 213, 95
+  orig: 213, 95
+  offset: 0, 0
+  index: -1
+font light 1 deltaforce
+  rotate: false
+  xy: 156, 48
+  size: 104, 40
+  orig: 104, 40
+  offset: 0, 0
+  index: -1
+font main deltaforce
+  rotate: false
+  xy: 492, 90
+  size: 240, 102
+  orig: 240, 102
+  offset: 0, 0
+  index: -1
+frame deltaforce
+  rotate: false
+  xy: 2, 90
+  size: 257, 420
+  orig: 257, 420
+  offset: 0, 0
+  index: -1
+head deltaforce
+  rotate: false
+  xy: 80, 13
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+head optic deltaforce
+  rotate: false
+  xy: 334, 3
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: false
+  xy: 951, 417
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+left forearm
+  rotate: true
+  xy: 340, 47
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+money preview deltaforce
+  rotate: true
+  xy: 156, 25
+  size: 21, 107
+  orig: 21, 107
+  offset: 0, 0
+  index: -1
+rifle bullet chamber deltaforce
+  rotate: false
+  xy: 410, 30
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+right arm deltaforce
+  rotate: false
+  xy: 2, 4
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+right forearm deltaforce
+  rotate: true
+  xy: 262, 54
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+right hand 1 deltaforce
+  rotate: false
+  xy: 939, 338
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+right hand 2 deltaforce
+  rotate: true
+  xy: 472, 50
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1

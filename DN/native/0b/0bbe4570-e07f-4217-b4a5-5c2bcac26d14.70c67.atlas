@@ -1,0 +1,41 @@
+
+9863_Symbol_5.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+low5_bullets_01_new
+  rotate: true
+  xy: 2, 2
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+low5_bullets_02_new
+  rotate: true
+  xy: 129, 77
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+low5_bullets_03_new
+  rotate: false
+  xy: 166, 241
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+low5_bullets_04_new
+  rotate: false
+  xy: 166, 198
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+low5_bullets_bg_new
+  rotate: false
+  xy: 2, 120
+  size: 162, 158
+  orig: 162, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+9863_Symbol_4.png
+size: 375,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+low4_flashbang_bg_new
+  rotate: false
+  xy: 2, 2
+  size: 130, 126
+  orig: 130, 126
+  offset: 0, 0
+  index: -1
+low4_flashbang_body_explosion_new
+  rotate: false
+  xy: 134, 33
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+low4_flashbang_body_new
+  rotate: false
+  xy: 247, 271
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+low4_flashbang_buckle01_new
+  rotate: false
+  xy: 332, 292
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+low4_flashbang_buckle02_new
+  rotate: false
+  xy: 218, 92
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+low4_flashbang_flash
+  rotate: false
+  xy: 2, 130
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+low4_flashbang_flash_ray_new
+  rotate: true
+  xy: 134, 2
+  size: 29, 138
+  orig: 29, 138
+  offset: 0, 0
+  index: -1
+low4_flashbang_ring_new
+  rotate: false
+  xy: 247, 229
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1

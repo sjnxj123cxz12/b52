@@ -1,0 +1,41 @@
+
+UI_BonusG_Chest.png
+size: 341,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChestClose
+  rotate: false
+  xy: 2, 2
+  size: 147, 118
+  orig: 147, 118
+  offset: 0, 0
+  index: -1
+ChestOpen_Glow
+  rotate: false
+  xy: 2, 122
+  size: 168, 152
+  orig: 168, 152
+  offset: 0, 0
+  index: -1
+Chest_Close_Glow
+  rotate: false
+  xy: 172, 137
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 172, 14
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+Star_A
+  rotate: false
+  xy: 295, 95
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

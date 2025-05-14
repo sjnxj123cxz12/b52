@@ -1,0 +1,320 @@
+
+9926_Transition_Freespin.png
+size: 2021,1602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backdrop
+  rotate: false
+  xy: 2, 1160
+  size: 583, 440
+  orig: 583, 440
+  offset: 0, 0
+  index: -1
+circle2
+  rotate: false
+  xy: 1033, 21
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+couch
+  rotate: true
+  xy: 1938, 887
+  size: 275, 81
+  orig: 275, 81
+  offset: 0, 0
+  index: -1
+disco_ball_00
+  rotate: false
+  xy: 906, 500
+  size: 288, 292
+  orig: 292, 292
+  offset: 4, 0
+  index: -1
+disco_ball_01
+  rotate: false
+  xy: 885, 794
+  size: 291, 292
+  orig: 292, 292
+  offset: 1, 0
+  index: -1
+disco_ball_02
+  rotate: false
+  xy: 1178, 794
+  size: 291, 292
+  orig: 292, 292
+  offset: 1, 0
+  index: -1
+disco_ball_03
+  rotate: false
+  xy: 1196, 500
+  size: 291, 292
+  orig: 292, 292
+  offset: 1, 0
+  index: -1
+disco_ball_04
+  rotate: false
+  xy: 1648, 870
+  size: 288, 292
+  orig: 292, 292
+  offset: 4, 0
+  index: -1
+disco_ball_05
+  rotate: false
+  xy: 1676, 576
+  size: 283, 292
+  orig: 292, 292
+  offset: 9, 0
+  index: -1
+disco_ball_06
+  rotate: false
+  xy: 1089, 87
+  size: 284, 292
+  orig: 292, 292
+  offset: 8, 0
+  index: -1
+disco_ball_07
+  rotate: false
+  xy: 799, 87
+  size: 288, 292
+  orig: 292, 292
+  offset: 4, 0
+  index: -1
+disco_ball_08
+  rotate: false
+  xy: 1375, 206
+  size: 287, 292
+  orig: 292, 292
+  offset: 5, 0
+  index: -1
+disco_ball_09
+  rotate: true
+  xy: 1664, 76
+  size: 287, 292
+  orig: 292, 292
+  offset: 5, 0
+  index: -1
+flare
+  rotate: false
+  xy: 1298, 423
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+frame_center
+  rotate: false
+  xy: 906, 381
+  size: 415, 39
+  orig: 415, 39
+  offset: 0, 0
+  index: -1
+frame_in
+  rotate: true
+  xy: 1961, 468
+  size: 417, 42
+  orig: 417, 42
+  offset: 0, 0
+  index: -1
+frame_in_00
+  rotate: true
+  xy: 562, 261
+  size: 466, 86
+  orig: 500, 90
+  offset: 17, 2
+  index: -1
+frame_out
+  rotate: false
+  xy: 2, 19
+  size: 430, 54
+  orig: 430, 54
+  offset: 0, 0
+  index: -1
+frame_out_00
+  rotate: true
+  xy: 650, 284
+  size: 480, 100
+  orig: 500, 100
+  offset: 10, 0
+  index: -1
+girl1
+  rotate: false
+  xy: 1471, 858
+  size: 175, 346
+  orig: 175, 346
+  offset: 0, 0
+  index: -1
+girl2
+  rotate: false
+  xy: 1489, 531
+  size: 185, 325
+  orig: 185, 325
+  offset: 0, 0
+  index: -1
+girl3
+  rotate: false
+  xy: 752, 404
+  size: 152, 360
+  orig: 152, 360
+  offset: 0, 0
+  index: -1
+girlback1
+  rotate: true
+  xy: 1309, 1088
+  size: 56, 148
+  orig: 56, 148
+  offset: 0, 0
+  index: -1
+girlback2
+  rotate: false
+  xy: 1549, 58
+  size: 87, 146
+  orig: 87, 146
+  offset: 0, 0
+  index: -1
+girlback3
+  rotate: true
+  xy: 1309, 1146
+  size: 58, 160
+  orig: 58, 160
+  offset: 0, 0
+  index: -1
+girlback4
+  rotate: true
+  xy: 799, 9
+  size: 76, 122
+  orig: 76, 122
+  offset: 0, 0
+  index: -1
+glow_circle_00
+  rotate: false
+  xy: 564, 766
+  size: 319, 320
+  orig: 321, 322
+  offset: 1, 1
+  index: -1
+lightback
+  rotate: false
+  xy: 2, 75
+  size: 505, 223
+  orig: 505, 223
+  offset: 0, 0
+  index: -1
+lolo_08
+  rotate: false
+  xy: 923, 2
+  size: 108, 83
+  orig: 280, 280
+  offset: 86, 86
+  index: -1
+lolo_11
+  rotate: false
+  xy: 509, 28
+  size: 288, 231
+  orig: 560, 560
+  offset: 136, 135
+  index: -1
+lolo_16
+  rotate: true
+  xy: 1654, 1164
+  size: 436, 343
+  orig: 560, 560
+  offset: 62, 61
+  index: -1
+lolo_19
+  rotate: false
+  xy: 1149, 1206
+  size: 503, 394
+  orig: 560, 560
+  offset: 28, 26
+  index: -1
+lolo_22
+  rotate: false
+  xy: 2, 300
+  size: 558, 427
+  orig: 560, 560
+  offset: 1, 0
+  index: -1
+lolo_26
+  rotate: false
+  xy: 2, 729
+  size: 560, 429
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+lolo_27
+  rotate: false
+  xy: 587, 1171
+  size: 560, 429
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+lolo_31
+  rotate: false
+  xy: 1676, 365
+  size: 280, 209
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+podium
+  rotate: true
+  xy: 752, 295
+  size: 107, 38
+  orig: 107, 38
+  offset: 0, 0
+  index: -1
+speakers
+  rotate: false
+  xy: 1375, 73
+  size: 172, 131
+  orig: 172, 131
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 587, 1088
+  size: 720, 81
+  orig: 720, 81
+  offset: 0, 0
+  index: -1
+text_00
+  rotate: false
+  xy: 906, 422
+  size: 390, 76
+  orig: 390, 80
+  offset: 0, 4
+  index: -1
+wild_symbol
+  rotate: false
+  xy: 434, 24
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+
+9926_Transition_Freespin2.png
+size: 382,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deargod/disco_ball_flare_static_gl
+  rotate: false
+  xy: 247, 113
+  size: 133, 133
+  orig: 165, 165
+  offset: 16, 16
+  index: -1
+deargod/flare_deep
+  rotate: false
+  xy: 2, 248
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+deargod/glow_05
+  rotate: false
+  xy: 2, 2
+  size: 243, 244
+  orig: 243, 244
+  offset: 0, 0
+  index: -1

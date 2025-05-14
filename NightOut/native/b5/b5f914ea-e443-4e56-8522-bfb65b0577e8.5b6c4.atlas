@@ -1,0 +1,20 @@
+
+9926_UI_Select_Symbol.png
+size: 96,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow2
+  rotate: false
+  xy: 72, 44
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+square
+  rotate: true
+  xy: 2, 2
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1

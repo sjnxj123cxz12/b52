@@ -1,0 +1,111 @@
+
+COW_Symbol_Airplane.png
+size: 497,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirplaneFan
+  rotate: true
+  xy: 443, 88
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 377, 69
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+Bom
+  rotate: false
+  xy: 264, 11
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ChupCanhQuat
+  rotate: false
+  xy: 281, 6
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+EffNo/a
+  rotate: false
+  xy: 329, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+EffNo/b
+  rotate: false
+  xy: 385, 13
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+EffNo/c
+  rotate: false
+  xy: 210, 28
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+Effectbullet
+  rotate: false
+  xy: 281, 17
+  size: 46, 9
+  orig: 46, 9
+  offset: 0, 0
+  index: -1
+Frame Highlight
+  rotate: false
+  xy: 38, 4
+  size: 6, 133
+  orig: 6, 133
+  offset: 0, 0
+  index: -1
+Frame Horizontal
+  rotate: false
+  xy: 46, 7
+  size: 107, 9
+  orig: 107, 9
+  offset: 0, 0
+  index: -1
+Frame Horizontal Bright
+  rotate: false
+  xy: 155, 7
+  size: 107, 9
+  orig: 107, 9
+  offset: 0, 0
+  index: -1
+Frame Vertical
+  rotate: false
+  xy: 2, 4
+  size: 16, 133
+  orig: 16, 133
+  offset: 0, 0
+  index: -1
+Frame Vertical Bright
+  rotate: false
+  xy: 20, 4
+  size: 16, 133
+  orig: 16, 133
+  offset: 0, 0
+  index: -1
+MayBay
+  rotate: false
+  xy: 46, 18
+  size: 162, 119
+  orig: 162, 119
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: true
+  xy: 321, 58
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1

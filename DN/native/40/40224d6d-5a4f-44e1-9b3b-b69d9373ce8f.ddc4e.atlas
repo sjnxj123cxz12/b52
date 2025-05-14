@@ -1,0 +1,377 @@
+
+9863_Transition_Jackpot.png
+size: 1509,1509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9863_Frame_Spin-Stop
+  rotate: false
+  xy: 2, 821
+  size: 787, 686
+  orig: 787, 686
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_001
+  rotate: false
+  xy: 1243, 843
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_002
+  rotate: false
+  xy: 960, 339
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_003
+  rotate: false
+  xy: 960, 238
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_004
+  rotate: false
+  xy: 1061, 339
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_005
+  rotate: false
+  xy: 1061, 238
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_006
+  rotate: false
+  xy: 1162, 339
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_007
+  rotate: false
+  xy: 1162, 238
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_008
+  rotate: false
+  xy: 1263, 339
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_009
+  rotate: false
+  xy: 1263, 238
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_010
+  rotate: false
+  xy: 1342, 1053
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_011
+  rotate: false
+  xy: 1342, 952
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_012
+  rotate: false
+  xy: 1344, 851
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_013
+  rotate: false
+  xy: 842, 125
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_014
+  rotate: false
+  xy: 842, 24
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_015
+  rotate: false
+  xy: 943, 131
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_016
+  rotate: false
+  xy: 943, 30
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_017
+  rotate: false
+  xy: 1044, 137
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_018
+  rotate: false
+  xy: 1044, 36
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_019
+  rotate: false
+  xy: 1145, 137
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_020
+  rotate: false
+  xy: 1145, 36
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_021
+  rotate: false
+  xy: 1246, 137
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_022
+  rotate: false
+  xy: 1246, 36
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_023
+  rotate: false
+  xy: 1347, 137
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_024
+  rotate: false
+  xy: 1347, 36
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_025
+  rotate: false
+  xy: 1344, 750
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_026
+  rotate: false
+  xy: 1331, 649
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_027
+  rotate: false
+  xy: 1331, 548
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_028
+  rotate: false
+  xy: 1331, 447
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_029
+  rotate: false
+  xy: 1364, 346
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Bullet_2/Bullet_030
+  rotate: false
+  xy: 1364, 245
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Can
+  rotate: true
+  xy: 763, 226
+  size: 201, 102
+  orig: 201, 102
+  offset: 0, 0
+  index: -1
+Can_Blur
+  rotate: true
+  xy: 1341, 1301
+  size: 206, 112
+  orig: 206, 112
+  offset: 0, 0
+  index: -1
+Container
+  rotate: false
+  xy: 791, 1149
+  size: 548, 358
+  orig: 548, 358
+  offset: 0, 0
+  index: -1
+Container_Blur
+  rotate: false
+  xy: 2, 454
+  size: 557, 365
+  orig: 557, 365
+  offset: 0, 0
+  index: -1
+impact
+  rotate: false
+  xy: 1414, 1209
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+low3_vest_spark01_new
+  rotate: false
+  xy: 1455, 1373
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+low3_vest_spark02_new
+  rotate: true
+  xy: 282, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+low3_vest_spark03_new
+  rotate: true
+  xy: 1432, 680
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+smoke/smoke_20
+  rotate: false
+  xy: 791, 832
+  size: 450, 315
+  orig: 450, 315
+  offset: 0, 0
+  index: -1
+spark/spark_11
+  rotate: false
+  xy: 2, 62
+  size: 383, 390
+  orig: 383, 390
+  offset: 0, 0
+  index: -1
+spark/spark_14
+  rotate: false
+  xy: 561, 429
+  size: 383, 390
+  orig: 383, 390
+  offset: 0, 0
+  index: -1
+spark/spark_17
+  rotate: false
+  xy: 946, 440
+  size: 383, 390
+  orig: 383, 390
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 1414, 1162
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+trans_enemy_1
+  rotate: false
+  xy: 1341, 1154
+  size: 71, 145
+  orig: 71, 145
+  offset: 0, 0
+  index: -1
+trans_enemy_1_blur
+  rotate: false
+  xy: 763, 71
+  size: 77, 153
+  orig: 77, 153
+  offset: 0, 0
+  index: -1
+trans_enemy_2
+  rotate: true
+  xy: 203, 10
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+trans_enemy_2_blur
+  rotate: true
+  xy: 116, 3
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+trans_enemy_3
+  rotate: false
+  xy: 867, 232
+  size: 91, 195
+  orig: 91, 195
+  offset: 0, 0
+  index: -1
+trans_enemy_3_blur
+  rotate: false
+  xy: 1243, 944
+  size: 97, 203
+  orig: 97, 203
+  offset: 0, 0
+  index: -1
+trans_enemy_4
+  rotate: false
+  xy: 1455, 1403
+  size: 47, 104
+  orig: 47, 104
+  offset: 0, 0
+  index: -1
+trans_enemy_4_blur
+  rotate: true
+  xy: 2, 4
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+vortex_a
+  rotate: false
+  xy: 387, 74
+  size: 374, 353
+  orig: 374, 353
+  offset: 0, 0
+  index: -1

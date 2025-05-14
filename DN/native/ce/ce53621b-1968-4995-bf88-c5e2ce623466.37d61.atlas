@@ -1,0 +1,111 @@
+
+9863_Symbol_2.png
+size: 505,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 216, 343
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+BG_Dark
+  rotate: false
+  xy: 2, 108
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BG_Green_Light
+  rotate: false
+  xy: 2, 290
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+Binoculars_Left
+  rotate: false
+  xy: 2, 2
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Binoculars_Right
+  rotate: false
+  xy: 54, 3
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+Binoculars_Support
+  rotate: true
+  xy: 218, 9
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Green_Light
+  rotate: false
+  xy: 432, 289
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+Helmet_Behind
+  rotate: false
+  xy: 218, 68
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+Helmet_Front
+  rotate: false
+  xy: 378, 374
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: -1
+Helmet_Origin
+  rotate: false
+  xy: 184, 147
+  size: 143, 134
+  orig: 143, 134
+  offset: 0, 0
+  index: -1
+Mic
+  rotate: true
+  xy: 112, 6
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Scan_VFX/Scan_VFX_01
+  rotate: true
+  xy: 2, 48
+  size: 58, 214
+  orig: 58, 214
+  offset: 0, 0
+  index: -1
+Scan_VFX/Scan_VFX_02
+  rotate: true
+  xy: 216, 283
+  size: 58, 214
+  orig: 58, 214
+  offset: 0, 0
+  index: -1
+Scan_VFX/Scan_VFX_03
+  rotate: false
+  xy: 329, 67
+  size: 58, 214
+  orig: 58, 214
+  offset: 0, 0
+  index: -1
+Scan_VFX/Scan_VFX_04
+  rotate: false
+  xy: 389, 67
+  size: 58, 214
+  orig: 58, 214
+  offset: 0, 0
+  index: -1

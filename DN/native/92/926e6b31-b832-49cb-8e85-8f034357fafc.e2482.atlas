@@ -1,0 +1,13 @@
+
+9863_VFX_LockIn.png
+size: 97,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_lock_in
+  rotate: false
+  xy: 2, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1

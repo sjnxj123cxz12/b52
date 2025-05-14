@@ -1,0 +1,202 @@
+
+9863_VFX_Explosion_Jackpot.png
+size: 1854,1852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_001
+  rotate: false
+  xy: 2, 1591
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_005
+  rotate: false
+  xy: 2, 1330
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_009
+  rotate: false
+  xy: 465, 1591
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_013
+  rotate: false
+  xy: 2, 1069
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_017
+  rotate: false
+  xy: 465, 1330
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_021
+  rotate: false
+  xy: 928, 1591
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_025
+  rotate: false
+  xy: 2, 808
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_029
+  rotate: false
+  xy: 465, 1069
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_033
+  rotate: false
+  xy: 928, 1330
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_037
+  rotate: false
+  xy: 1391, 1591
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_041
+  rotate: false
+  xy: 2, 547
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_045
+  rotate: false
+  xy: 465, 808
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_049
+  rotate: false
+  xy: 928, 1069
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_053
+  rotate: false
+  xy: 1391, 1330
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_057
+  rotate: false
+  xy: 2, 286
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_061
+  rotate: false
+  xy: 465, 547
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_065
+  rotate: false
+  xy: 928, 808
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_069
+  rotate: false
+  xy: 1391, 1069
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_073
+  rotate: false
+  xy: 2, 25
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_077
+  rotate: false
+  xy: 465, 286
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_081
+  rotate: false
+  xy: 928, 547
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_085
+  rotate: false
+  xy: 1391, 808
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_089
+  rotate: false
+  xy: 465, 25
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_093
+  rotate: false
+  xy: 928, 286
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_097
+  rotate: false
+  xy: 1391, 547
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_101
+  rotate: false
+  xy: 928, 25
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_105
+  rotate: false
+  xy: 1391, 286
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+frame_109
+  rotate: false
+  xy: 1391, 25
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1

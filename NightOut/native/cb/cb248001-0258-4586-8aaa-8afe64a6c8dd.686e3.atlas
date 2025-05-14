@@ -1,0 +1,104 @@
+
+9926_Btn_Spin.png
+size: 972,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dung
+  rotate: false
+  xy: 570, 116
+  size: 170, 170
+  orig: 170, 173
+  offset: 0, 3
+  index: -1
+Quay
+  rotate: false
+  xy: 742, 116
+  size: 170, 170
+  orig: 170, 173
+  offset: 0, 3
+  index: -1
+blurglow
+  rotate: false
+  xy: 570, 2
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+de
+  rotate: false
+  xy: 914, 212
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+giu
+  rotate: false
+  xy: 937, 263
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+glowbutton
+  rotate: false
+  xy: 2, 4
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+quay1
+  rotate: false
+  xy: 740, 13
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+sieutoc
+  rotate: true
+  xy: 805, 33
+  size: 81, 82
+  orig: 81, 85
+  offset: 0, 2
+  index: -1
+sieutoc1
+  rotate: false
+  xy: 889, 32
+  size: 81, 82
+  orig: 81, 85
+  offset: 0, 2
+  index: -1
+textdung
+  rotate: false
+  xy: 684, 36
+  size: 119, 78
+  orig: 119, 78
+  offset: 0, 0
+  index: -1
+texttuquay
+  rotate: false
+  xy: 684, 9
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+thangsieulon5
+  rotate: false
+  xy: 286, 4
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+tiachop
+  rotate: false
+  xy: 914, 241
+  size: 21, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 937, 235
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

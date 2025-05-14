@@ -1,0 +1,139 @@
+
+9863_Transition_FreeG_Back.png
+size: 1716,1714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_lock_in
+  rotate: true
+  xy: 1611, 1612
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+flashbang_light
+  rotate: false
+  xy: 1217, 1408
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+sphere
+  rotate: false
+  xy: 2, 8
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+trans_BG
+  rotate: false
+  xy: 2, 510
+  size: 1213, 1202
+  orig: 1213, 1202
+  offset: 0, 0
+  index: -1
+trans_ally_flashbang
+  rotate: true
+  xy: 1611, 1548
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+trans_ally_flashbang_blur
+  rotate: false
+  xy: 1320, 1294
+  size: 72, 112
+  orig: 72, 112
+  offset: 0, 0
+  index: -1
+trans_ally_flashbang_trigger
+  rotate: true
+  xy: 585, 251
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+trans_enemy_1
+  rotate: false
+  xy: 504, 119
+  size: 79, 161
+  orig: 79, 161
+  offset: 0, 0
+  index: -1
+trans_enemy_1_blur
+  rotate: false
+  xy: 1523, 1542
+  size: 86, 170
+  orig: 86, 170
+  offset: 0, 0
+  index: -1
+trans_enemy_2
+  rotate: false
+  xy: 614, 323
+  size: 55, 85
+  orig: 55, 85
+  offset: 0, 0
+  index: -1
+trans_enemy_2_blur
+  rotate: false
+  xy: 504, 23
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+trans_enemy_3
+  rotate: false
+  xy: 1217, 1189
+  size: 101, 217
+  orig: 101, 217
+  offset: 0, 0
+  index: -1
+trans_enemy_3_blur
+  rotate: false
+  xy: 504, 282
+  size: 108, 226
+  orig: 108, 226
+  offset: 0, 0
+  index: -1
+trans_enemy_4
+  rotate: false
+  xy: 1523, 1424
+  size: 52, 116
+  orig: 52, 116
+  offset: 0, 0
+  index: -1
+trans_enemy_4_blur
+  rotate: false
+  xy: 1217, 1063
+  size: 62, 124
+  orig: 62, 124
+  offset: 0, 0
+  index: -1
+trans_gunflare_1
+  rotate: false
+  xy: 614, 410
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+trans_gunflare_2
+  rotate: false
+  xy: 1320, 1243
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+trans_gunflare_3
+  rotate: false
+  xy: 1217, 1003
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+trans_gunflare_4
+  rotate: false
+  xy: 713, 445
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1

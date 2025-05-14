@@ -1,0 +1,69 @@
+
+UI_Lock_Jackpot.png
+size: 388,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 60
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 159, 158
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 159, 80
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 310, 85
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+BG_add
+  rotate: false
+  xy: 153, 2
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+Layer 837
+  rotate: false
+  xy: 2, 138
+  size: 155, 96
+  orig: 155, 96
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 304, 4
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 2, 32
+  size: 126, 26
+  orig: 126, 26
+  offset: 0, 0
+  index: -1
+Text_add
+  rotate: false
+  xy: 2, 4
+  size: 126, 26
+  orig: 126, 26
+  offset: 0, 0
+  index: -1

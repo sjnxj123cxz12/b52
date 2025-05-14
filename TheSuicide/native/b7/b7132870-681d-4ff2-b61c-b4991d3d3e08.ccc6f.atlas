@@ -1,0 +1,489 @@
+
+UI_BonusG_Jackpot_Frame_Expand.png
+size: 1922,912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Border_Grand_Bot
+  rotate: true
+  xy: 770, 35
+  size: 183, 66
+  orig: 183, 66
+  offset: 0, 0
+  index: -1
+Border_Grand_Bot_GlowH
+  rotate: false
+  xy: 747, 220
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+Border_Grand_Top
+  rotate: false
+  xy: 237, 56
+  size: 204, 103
+  orig: 204, 103
+  offset: 0, 0
+  index: -1
+Border_Grand_TopShine
+  rotate: false
+  xy: 2, 709
+  size: 302, 201
+  orig: 302, 201
+  offset: 0, 0
+  index: -1
+Border_Grand_Top_Glow
+  rotate: false
+  xy: 541, 175
+  size: 204, 103
+  orig: 204, 103
+  offset: 0, 0
+  index: -1
+Border_Major_Bot
+  rotate: true
+  xy: 702, 8
+  size: 165, 66
+  orig: 165, 66
+  offset: 0, 0
+  index: -1
+Border_Major_Bot_GlowH
+  rotate: false
+  xy: 1206, 82
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+Border_Major_Top
+  rotate: false
+  xy: 838, 75
+  size: 182, 76
+  orig: 182, 76
+  offset: 0, 0
+  index: -1
+Border_Major_TopShine
+  rotate: false
+  xy: 2, 546
+  size: 302, 161
+  orig: 302, 201
+  offset: 0, 21
+  index: -1
+Border_Major_Top_Glow
+  rotate: false
+  xy: 1022, 72
+  size: 182, 76
+  orig: 182, 76
+  offset: 0, 0
+  index: -1
+Border_Mini_Bot
+  rotate: false
+  xy: 1766, 3
+  size: 142, 66
+  orig: 142, 66
+  offset: 0, 0
+  index: -1
+Border_Mini_Bot_GlowH
+  rotate: false
+  xy: 1087, 4
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+Border_Mini_Top
+  rotate: true
+  xy: 1781, 599
+  size: 159, 74
+  orig: 159, 74
+  offset: 0, 0
+  index: -1
+Border_Mini_TopShine
+  rotate: false
+  xy: 2, 396
+  size: 301, 148
+  orig: 302, 201
+  offset: 1, 27
+  index: -1
+Border_Mini_Top_Glow
+  rotate: true
+  xy: 1780, 438
+  size: 159, 74
+  orig: 159, 74
+  offset: 0, 0
+  index: -1
+Border_Minor_Bot
+  rotate: false
+  xy: 838, 7
+  size: 160, 66
+  orig: 160, 66
+  offset: 0, 0
+  index: -1
+Border_Minor_Bot_GlowH
+  rotate: false
+  xy: 1000, 4
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Border_Minor_Top
+  rotate: false
+  xy: 2, 9
+  size: 181, 79
+  orig: 181, 79
+  offset: 0, 0
+  index: -1
+Border_Minor_TopShine
+  rotate: false
+  xy: 306, 750
+  size: 302, 160
+  orig: 302, 201
+  offset: 0, 19
+  index: -1
+Border_Minor_Top_Glow
+  rotate: true
+  xy: 443, 27
+  size: 181, 79
+  orig: 181, 79
+  offset: 0, 0
+  index: -1
+FX_LightningVer/L1
+  rotate: false
+  xy: 1821, 327
+  size: 48, 109
+  orig: 86, 110
+  offset: 17, 1
+  index: -1
+FX_LightningVer/L2
+  rotate: false
+  xy: 1857, 665
+  size: 46, 109
+  orig: 86, 110
+  offset: 20, 1
+  index: -1
+FX_LightningVer/L3
+  rotate: true
+  xy: 524, 5
+  size: 44, 109
+  orig: 86, 110
+  offset: 19, 1
+  index: -1
+FX_SaberIdle/SIdle_00
+  rotate: false
+  xy: 1081, 760
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_01
+  rotate: false
+  xy: 1316, 760
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_02
+  rotate: false
+  xy: 1551, 760
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_03
+  rotate: true
+  xy: 237, 161
+  size: 233, 149
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_04
+  rotate: false
+  xy: 306, 445
+  size: 233, 149
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_05
+  rotate: true
+  xy: 541, 515
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_06
+  rotate: true
+  xy: 541, 280
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_07
+  rotate: false
+  xy: 1080, 455
+  size: 231, 150
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberIdle/SIdle_08
+  rotate: false
+  xy: 1080, 607
+  size: 231, 151
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberIdle/SIdle_09
+  rotate: false
+  xy: 306, 596
+  size: 233, 152
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_10
+  rotate: false
+  xy: 610, 758
+  size: 233, 152
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_11
+  rotate: false
+  xy: 2, 243
+  size: 233, 151
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_12
+  rotate: true
+  xy: 693, 523
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberIdle/SIdle_13
+  rotate: false
+  xy: 845, 760
+  size: 234, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberTopAppear/SAppear_01
+  rotate: false
+  xy: 524, 51
+  size: 176, 122
+  orig: 255, 168
+  offset: 56, 32
+  index: -1
+FX_SaberTopAppear/SAppear_02
+  rotate: false
+  xy: 1545, 16
+  size: 219, 138
+  orig: 255, 168
+  offset: 19, 17
+  index: -1
+FX_SaberTopAppear/SAppear_03
+  rotate: false
+  xy: 1312, 10
+  size: 225, 142
+  orig: 255, 168
+  offset: 16, 15
+  index: -1
+FX_SaberTopAppear/SAppear_04
+  rotate: true
+  xy: 1777, 71
+  size: 229, 143
+  orig: 255, 168
+  offset: 14, 14
+  index: -1
+FX_SaberTopAppear/SAppear_05
+  rotate: false
+  xy: 1545, 156
+  size: 230, 144
+  orig: 255, 168
+  offset: 13, 13
+  index: -1
+FX_SaberTopAppear/SAppear_06
+  rotate: false
+  xy: 1312, 154
+  size: 231, 147
+  orig: 255, 168
+  offset: 13, 11
+  index: -1
+FX_SaberTopAppear/SAppear_07
+  rotate: false
+  xy: 845, 153
+  size: 232, 148
+  orig: 255, 168
+  offset: 12, 10
+  index: -1
+FX_SaberTopAppear/SAppear_08
+  rotate: false
+  xy: 845, 303
+  size: 232, 150
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_09
+  rotate: false
+  xy: 1313, 608
+  size: 232, 150
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_10
+  rotate: false
+  xy: 1547, 608
+  size: 232, 150
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_11
+  rotate: false
+  xy: 1079, 303
+  size: 232, 150
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_12
+  rotate: false
+  xy: 1313, 456
+  size: 232, 150
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_13
+  rotate: false
+  xy: 1313, 303
+  size: 231, 151
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_14
+  rotate: false
+  xy: 1547, 455
+  size: 231, 151
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_15
+  rotate: false
+  xy: 1546, 302
+  size: 231, 151
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_16
+  rotate: false
+  xy: 1079, 150
+  size: 231, 151
+  orig: 255, 168
+  offset: 12, 9
+  index: -1
+FX_SaberTopAppear/SAppear_17
+  rotate: false
+  xy: 2, 90
+  size: 233, 151
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberTopAppear/SAppear_18
+  rotate: true
+  xy: 388, 210
+  size: 233, 151
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberTopAppear/SAppear_19
+  rotate: false
+  xy: 845, 607
+  size: 233, 151
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberTopAppear/SAppear_20
+  rotate: true
+  xy: 693, 288
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+FX_SaberTopAppear/SAppear_21
+  rotate: false
+  xy: 845, 455
+  size: 233, 150
+  orig: 255, 168
+  offset: 11, 9
+  index: -1
+Gradient_Circle
+  rotate: false
+  xy: 770, 2
+  size: 31, 31
+  orig: 43, 43
+  offset: 6, 6
+  index: -1
+TechCircle
+  rotate: false
+  xy: 1786, 776
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+TechGradient
+  rotate: true
+  xy: 185, 2
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+Text_Grand
+  rotate: false
+  xy: 230, 13
+  size: 122, 41
+  orig: 122, 41
+  offset: 0, 0
+  index: -1
+Text_Grand_Glow
+  rotate: true
+  xy: 1779, 314
+  size: 122, 40
+  orig: 122, 41
+  offset: 0, 0
+  index: -1
+Text_Major
+  rotate: true
+  xy: 1856, 490
+  size: 107, 33
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+Text_Major_Glow
+  rotate: false
+  xy: 1173, 13
+  size: 107, 32
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+Text_Mini
+  rotate: false
+  xy: 354, 21
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+Text_Mini_Glow
+  rotate: false
+  xy: 305, 411
+  size: 74, 32
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+Text_Minor
+  rotate: false
+  xy: 1206, 47
+  size: 88, 33
+  orig: 88, 33
+  offset: 0, 0
+  index: -1
+Text_Minor_Glow
+  rotate: true
+  xy: 1871, 400
+  size: 88, 32
+  orig: 88, 33
+  offset: 0, 0
+  index: -1

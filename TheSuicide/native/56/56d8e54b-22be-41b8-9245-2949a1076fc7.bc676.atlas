@@ -1,0 +1,90 @@
+
+Btn_BloodSport_BonusG.png
+size: 865,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chr3_Arm
+  rotate: true
+  xy: 443, 9
+  size: 44, 152
+  orig: 44, 153
+  offset: 0, 1
+  index: -1
+Chr3_Body
+  rotate: true
+  xy: 2, 94
+  size: 171, 429
+  orig: 172, 429
+  offset: 0, 0
+  index: -1
+Chr3_Gun
+  rotate: false
+  xy: 597, 23
+  size: 22, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Chr3_Gun2
+  rotate: false
+  xy: 228, 2
+  size: 54, 12
+  orig: 54, 12
+  offset: 0, 0
+  index: -1
+Chr3_Head
+  rotate: false
+  xy: 808, 19
+  size: 55, 67
+  orig: 56, 67
+  offset: 1, 0
+  index: -1
+Fx_Gun2/00
+  rotate: false
+  xy: 443, 55
+  size: 181, 89
+  orig: 335, 335
+  offset: 46, 123
+  index: -1
+Fx_Gun2/01
+  rotate: false
+  xy: 626, 8
+  size: 180, 78
+  orig: 335, 335
+  offset: 58, 130
+  index: -1
+Fx_Gun2/02
+  rotate: false
+  xy: 639, 88
+  size: 188, 82
+  orig: 335, 335
+  offset: 63, 128
+  index: -1
+Fx_Gun2/03
+  rotate: false
+  xy: 433, 146
+  size: 204, 119
+  orig: 335, 335
+  offset: 48, 109
+  index: -1
+Fx_Gun2/04
+  rotate: false
+  xy: 639, 172
+  size: 217, 93
+  orig: 335, 335
+  offset: 46, 122
+  index: -1
+Fx_Gun2/05
+  rotate: false
+  xy: 2, 9
+  size: 224, 83
+  orig: 335, 335
+  offset: 50, 127
+  index: -1
+Fx_Gun2/06
+  rotate: false
+  xy: 228, 16
+  size: 213, 76
+  orig: 335, 335
+  offset: 62, 131
+  index: -1

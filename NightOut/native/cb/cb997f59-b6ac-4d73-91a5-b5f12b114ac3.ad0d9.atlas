@@ -1,0 +1,258 @@
+
+9926_Symbol_A.png
+size: 1547,1111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lycocktail2
+  rotate: false
+  xy: 1279, 148
+  size: 83, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1
+Lycocktail3
+  rotate: true
+  xy: 703, 2
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+Lycocktail4
+  rotate: false
+  xy: 1279, 126
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Lycocktail5
+  rotate: false
+  xy: 821, 36
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Lycocktail6
+  rotate: true
+  xy: 235, 17
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Mic2
+  rotate: false
+  xy: 928, 97
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+Mic3
+  rotate: false
+  xy: 1026, 109
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+Mic4
+  rotate: true
+  xy: 182, 2
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Mic5
+  rotate: false
+  xy: 703, 90
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+Mic6
+  rotate: false
+  xy: 1202, 116
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+disco_ball_00
+  rotate: false
+  xy: 2, 802
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_04
+  rotate: false
+  xy: 2, 493
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_08
+  rotate: false
+  xy: 311, 802
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_12
+  rotate: false
+  xy: 2, 184
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_16
+  rotate: false
+  xy: 311, 493
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_20
+  rotate: false
+  xy: 620, 802
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_24
+  rotate: false
+  xy: 311, 184
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_29
+  rotate: false
+  xy: 620, 493
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_33
+  rotate: false
+  xy: 929, 802
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_37
+  rotate: false
+  xy: 620, 184
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_41
+  rotate: false
+  xy: 929, 493
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_45
+  rotate: false
+  xy: 1238, 802
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_49
+  rotate: false
+  xy: 929, 184
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_53
+  rotate: false
+  xy: 1238, 493
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_57
+  rotate: false
+  xy: 1238, 184
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+disco_ball_gl
+  rotate: false
+  xy: 1120, 102
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+disco_ball_gl2
+  rotate: false
+  xy: 822, 78
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+disco_ball_sd
+  rotate: false
+  xy: 313, 54
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+flare_00
+  rotate: false
+  xy: 443, 54
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+flare_01
+  rotate: false
+  xy: 573, 54
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_hong
+  rotate: false
+  xy: 2, 4
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+idle_08
+  rotate: false
+  xy: 182, 53
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+lycocktail7
+  rotate: false
+  xy: 928, 89
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+startag
+  rotate: false
+  xy: 1364, 148
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+whitestar
+  rotate: false
+  xy: 869, 43
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+whitestar_grad
+  rotate: false
+  xy: 1401, 149
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1

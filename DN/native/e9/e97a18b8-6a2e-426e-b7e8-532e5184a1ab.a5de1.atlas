@@ -1,0 +1,223 @@
+
+9863_Transition_FreeG_Front.png
+size: 1796,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+square
+  rotate: false
+  xy: 1486, 341
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+trans_ally_L_forearm
+  rotate: true
+  xy: 1690, 1023
+  size: 207, 89
+  orig: 207, 89
+  offset: 0, 0
+  index: -1
+trans_ally_R_fingers
+  rotate: false
+  xy: 204, 21
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+trans_ally_R_forearm
+  rotate: true
+  xy: 1143, 50
+  size: 116, 252
+  orig: 116, 252
+  offset: 0, 0
+  index: -1
+trans_ally_R_upper_arm
+  rotate: true
+  xy: 1397, 48
+  size: 118, 167
+  orig: 118, 167
+  offset: 0, 0
+  index: -1
+trans_ally_flashbang
+  rotate: true
+  xy: 2, 2
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+trans_ally_flashbang_trigger
+  rotate: false
+  xy: 1143, 28
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+trans_ally_head
+  rotate: true
+  xy: 969, 8
+  size: 155, 172
+  orig: 155, 172
+  offset: 0, 0
+  index: -1
+trans_ally_lower_half
+  rotate: false
+  xy: 1121, 303
+  size: 363, 394
+  orig: 363, 394
+  offset: 0, 0
+  index: -1
+trans_ally_nightvision
+  rotate: true
+  xy: 1685, 169
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+trans_ally_shadow
+  rotate: true
+  xy: 2, 66
+  size: 524, 801
+  orig: 524, 801
+  offset: 0, 0
+  index: -1
+trans_ally_strap
+  rotate: false
+  xy: 1566, 101
+  size: 110, 119
+  orig: 110, 119
+  offset: 0, 0
+  index: -1
+trans_ally_upper_half_new
+  rotate: false
+  xy: 950, 758
+  size: 346, 440
+  orig: 346, 440
+  offset: 0, 0
+  index: -1
+trans_ally_weapon
+  rotate: true
+  xy: 1298, 699
+  size: 499, 255
+  orig: 499, 255
+  offset: 0, 0
+  index: -1
+trans_deformed_panel
+  rotate: true
+  xy: 1562, 1232
+  size: 562, 200
+  orig: 562, 200
+  offset: 0, 0
+  index: -1
+trans_grass
+  rotate: false
+  xy: 950, 1200
+  size: 610, 594
+  orig: 610, 594
+  offset: 0, 0
+  index: -1
+trans_gunshot_1
+  rotate: true
+  xy: 1566, 32
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+trans_gunshot_2
+  rotate: true
+  xy: 1121, 717
+  size: 39, 159
+  orig: 39, 159
+  offset: 0, 0
+  index: -1
+trans_gunshot_3
+  rotate: true
+  xy: 1486, 393
+  size: 304, 107
+  orig: 304, 107
+  offset: 0, 0
+  index: -1
+trans_gunshot_4
+  rotate: false
+  xy: 1553, 222
+  size: 130, 108
+  orig: 130, 108
+  offset: 0, 0
+  index: -1
+trans_gunshot_5_1
+  rotate: false
+  xy: 102, 4
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+trans_gunshot_5_2
+  rotate: false
+  xy: 1595, 550
+  size: 195, 216
+  orig: 195, 216
+  offset: 0, 0
+  index: -1
+trans_gunshot_6_1
+  rotate: true
+  xy: 1690, 905
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+trans_gunshot_6_2
+  rotate: false
+  xy: 1595, 332
+  size: 195, 216
+  orig: 195, 216
+  offset: 0, 0
+  index: -1
+trans_panel
+  rotate: true
+  xy: 969, 165
+  size: 591, 150
+  orig: 591, 150
+  offset: 0, 0
+  index: -1
+trans_panel_shadow
+  rotate: true
+  xy: 805, 8
+  size: 582, 162
+  orig: 582, 162
+  offset: 0, 0
+  index: -1
+trans_text_7
+  rotate: false
+  xy: 1690, 794
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+trans_text_7_green
+  rotate: true
+  xy: 1685, 244
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+trans_text_huntdown
+  rotate: false
+  xy: 1121, 168
+  size: 430, 133
+  orig: 430, 133
+  offset: 0, 0
+  index: -1
+trans_text_huntdown_green
+  rotate: true
+  xy: 1555, 768
+  size: 430, 133
+  orig: 430, 133
+  offset: 0, 0
+  index: -1
+trans_wall
+  rotate: false
+  xy: 2, 592
+  size: 946, 1202
+  orig: 946, 1202
+  offset: 0, 0
+  index: -1

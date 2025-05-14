@@ -1,0 +1,223 @@
+
+Symbol_K.png
+size: 496,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lighting_Fx/Lighting_Fx_00
+  rotate: false
+  xy: 352, 304
+  size: 141, 51
+  orig: 155, 67
+  offset: 6, 8
+  index: -1
+Lighting_Fx/Lighting_Fx_01
+  rotate: false
+  xy: 352, 199
+  size: 142, 50
+  orig: 155, 67
+  offset: 5, 8
+  index: -1
+Lighting_Fx/Lighting_Fx_02
+  rotate: false
+  xy: 352, 251
+  size: 141, 51
+  orig: 155, 67
+  offset: 6, 8
+  index: -1
+Lighting_Fx/Lighting_Fx_03
+  rotate: false
+  xy: 285, 147
+  size: 142, 50
+  orig: 155, 67
+  offset: 5, 9
+  index: -1
+OrbFX/OrbFX_0
+  rotate: false
+  xy: 218, 15
+  size: 84, 32
+  orig: 86, 86
+  offset: 2, 27
+  index: -1
+OrbFX/OrbFX_1
+  rotate: false
+  xy: 323, 43
+  size: 84, 28
+  orig: 86, 86
+  offset: 2, 26
+  index: -1
+OrbFX/OrbFX_2
+  rotate: true
+  xy: 445, 113
+  size: 84, 30
+  orig: 86, 86
+  offset: 2, 27
+  index: -1
+OrbFX/OrbFX_3
+  rotate: true
+  xy: 445, 27
+  size: 84, 30
+  orig: 86, 86
+  offset: 2, 27
+  index: -1
+OrbFX/OrbFX_4
+  rotate: false
+  xy: 304, 11
+  size: 84, 30
+  orig: 86, 86
+  offset: 2, 25
+  index: -1
+OrbFX/OrbFX_5
+  rotate: false
+  xy: 132, 14
+  size: 84, 33
+  orig: 86, 86
+  offset: 2, 25
+  index: -1
+Screw_1
+  rotate: false
+  xy: 166, 216
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+Screw_1_Glow
+  rotate: false
+  xy: 409, 45
+  size: 27, 26
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Screw_2
+  rotate: false
+  xy: 477, 148
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+Screw_2_Glow
+  rotate: false
+  xy: 390, 14
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Screw_3
+  rotate: true
+  xy: 477, 127
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Screw_3_Glow
+  rotate: false
+  xy: 166, 239
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Screw_4
+  rotate: true
+  xy: 429, 176
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+Screw_4__Glow
+  rotate: true
+  xy: 477, 170
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Screw_5
+  rotate: true
+  xy: 132, 2
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+Screw_5_Glow
+  rotate: true
+  xy: 292, 50
+  size: 23, 29
+  orig: 24, 29
+  offset: 1, 0
+  index: -1
+Spark_Glow_1
+  rotate: false
+  xy: 370, 73
+  size: 73, 72
+  orig: 74, 72
+  offset: 1, 0
+  index: -1
+Spark_Light_1
+  rotate: false
+  xy: 125, 216
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Spark_Lighting_1
+  rotate: false
+  xy: 125, 203
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Sphere
+  rotate: false
+  xy: 2, 126
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+Sphere_Glow
+  rotate: true
+  xy: 2, 3
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+Sphere_Light
+  rotate: false
+  xy: 292, 75
+  size: 76, 70
+  orig: 121, 128
+  offset: 18, 37
+  index: -1
+Text
+  rotate: false
+  xy: 192, 280
+  size: 158, 75
+  orig: 158, 75
+  offset: 0, 0
+  index: -1
+Text_Black_1
+  rotate: false
+  xy: 192, 203
+  size: 158, 75
+  orig: 158, 75
+  offset: 0, 0
+  index: -1
+Text_Black_2
+  rotate: false
+  xy: 125, 126
+  size: 158, 75
+  orig: 158, 75
+  offset: 0, 0
+  index: -1
+Text_Glow
+  rotate: false
+  xy: 132, 49
+  size: 158, 75
+  orig: 158, 75
+  offset: 0, 0
+  index: -1
+Text_Glow_Ray
+  rotate: false
+  xy: 2, 256
+  size: 188, 99
+  orig: 188, 99
+  offset: 0, 0
+  index: -1

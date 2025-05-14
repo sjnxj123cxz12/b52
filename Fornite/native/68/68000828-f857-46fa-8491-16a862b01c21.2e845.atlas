@@ -1,0 +1,468 @@
+
+VFX_WinLine.png
+size: 2000,1714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame
+  rotate: true
+  xy: 1704, 60
+  size: 164, 126
+  orig: 164, 126
+  offset: 0, 0
+  index: -1
+Frame_Inner
+  rotate: true
+  xy: 1832, 77
+  size: 150, 112
+  orig: 150, 112
+  offset: 0, 0
+  index: -1
+Saber/Saber_00
+  rotate: false
+  xy: 1736, 229
+  size: 224, 136
+  orig: 250, 212
+  offset: 26, 76
+  index: -1
+Saber/Saber_01
+  rotate: false
+  xy: 1484, 85
+  size: 218, 139
+  orig: 250, 212
+  offset: 32, 73
+  index: -1
+Saber/Saber_02
+  rotate: false
+  xy: 1754, 1057
+  size: 235, 157
+  orig: 250, 212
+  offset: 15, 55
+  index: -1
+Saber/Saber_03
+  rotate: false
+  xy: 1742, 520
+  size: 246, 177
+  orig: 250, 212
+  offset: 4, 35
+  index: -1
+Saber/Saber_04
+  rotate: true
+  xy: 1760, 1216
+  size: 250, 195
+  orig: 250, 212
+  offset: 0, 17
+  index: -1
+Saber/Saber_05
+  rotate: false
+  xy: 2, 1500
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_06
+  rotate: false
+  xy: 2, 1286
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_07
+  rotate: false
+  xy: 254, 1500
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_08
+  rotate: false
+  xy: 2, 1072
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_09
+  rotate: false
+  xy: 254, 1286
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_10
+  rotate: false
+  xy: 1484, 226
+  size: 250, 202
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_11
+  rotate: false
+  xy: 1748, 870
+  size: 250, 185
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_12
+  rotate: false
+  xy: 1748, 699
+  size: 250, 169
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Saber/Saber_13
+  rotate: false
+  xy: 1736, 367
+  size: 244, 151
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_00
+  rotate: false
+  xy: 506, 1500
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_01
+  rotate: false
+  xy: 2, 858
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_02
+  rotate: false
+  xy: 254, 1072
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_03
+  rotate: false
+  xy: 506, 1286
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_04
+  rotate: false
+  xy: 758, 1500
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_05
+  rotate: false
+  xy: 2, 644
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_06
+  rotate: false
+  xy: 254, 858
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_07
+  rotate: false
+  xy: 506, 1072
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_08
+  rotate: false
+  xy: 758, 1286
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_09
+  rotate: false
+  xy: 1010, 1500
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_10
+  rotate: false
+  xy: 2, 430
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_11
+  rotate: false
+  xy: 254, 644
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_12
+  rotate: false
+  xy: 506, 858
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_13
+  rotate: false
+  xy: 758, 1072
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_14
+  rotate: false
+  xy: 1010, 1286
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_15
+  rotate: false
+  xy: 1262, 1500
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_16
+  rotate: false
+  xy: 2, 216
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_17
+  rotate: false
+  xy: 254, 430
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_18
+  rotate: false
+  xy: 506, 644
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_19
+  rotate: false
+  xy: 758, 858
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_20
+  rotate: false
+  xy: 1010, 1072
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Appear/Sparkle_Appear_21
+  rotate: false
+  xy: 1262, 1286
+  size: 250, 212
+  orig: 250, 212
+  offset: 0, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_00
+  rotate: false
+  xy: 1514, 1500
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_01
+  rotate: false
+  xy: 2, 2
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_02
+  rotate: false
+  xy: 254, 216
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_03
+  rotate: false
+  xy: 506, 430
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_04
+  rotate: false
+  xy: 758, 644
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_05
+  rotate: false
+  xy: 1010, 858
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_06
+  rotate: false
+  xy: 1262, 1072
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_07
+  rotate: false
+  xy: 1514, 1286
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_08
+  rotate: true
+  xy: 1760, 1468
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_09
+  rotate: false
+  xy: 248, 2
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_10
+  rotate: false
+  xy: 500, 216
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_11
+  rotate: false
+  xy: 752, 430
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_12
+  rotate: false
+  xy: 1004, 644
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_13
+  rotate: false
+  xy: 1256, 858
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_14
+  rotate: false
+  xy: 1508, 1072
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_15
+  rotate: false
+  xy: 494, 2
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_16
+  rotate: false
+  xy: 746, 216
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_17
+  rotate: false
+  xy: 998, 430
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_18
+  rotate: false
+  xy: 1250, 644
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_19
+  rotate: false
+  xy: 1502, 858
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_20
+  rotate: false
+  xy: 740, 2
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_21
+  rotate: false
+  xy: 992, 216
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_22
+  rotate: false
+  xy: 1244, 430
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_23
+  rotate: false
+  xy: 1496, 644
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_24
+  rotate: false
+  xy: 986, 2
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_25
+  rotate: false
+  xy: 1238, 216
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_26
+  rotate: false
+  xy: 1490, 430
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1
+Sparkle_Idle/Sparkle_Idle_27
+  rotate: false
+  xy: 1232, 2
+  size: 244, 212
+  orig: 250, 212
+  offset: 6, 0
+  index: -1

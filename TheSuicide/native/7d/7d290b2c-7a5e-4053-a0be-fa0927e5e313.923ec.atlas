@@ -1,0 +1,27 @@
+
+UI_Lock_Value3.png
+size: 195,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 117, 46
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+Detail1
+  rotate: false
+  xy: 2, 82
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: false
+  xy: 2, 2
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1

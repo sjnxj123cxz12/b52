@@ -1,0 +1,83 @@
+
+COW_UI_Airplane_Free_Game.png
+size: 647,390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Airplane Fan copy
+  rotate: false
+  xy: 350, 91
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+AirplaneTrail
+  rotate: true
+  xy: 2, 23
+  size: 4, 94
+  orig: 4, 94
+  offset: 0, 0
+  index: -1
+BanhLai
+  rotate: true
+  xy: 2, 29
+  size: 31, 293
+  orig: 31, 293
+  offset: 0, 0
+  index: -1
+CanhPhai
+  rotate: true
+  xy: 2, 198
+  size: 86, 402
+  orig: 86, 402
+  offset: 0, 0
+  index: -1
+CanhTrai
+  rotate: true
+  xy: 2, 286
+  size: 102, 458
+  orig: 102, 458
+  offset: 0, 0
+  index: -1
+DuoiPhai
+  rotate: false
+  xy: 557, 12
+  size: 88, 295
+  orig: 88, 295
+  offset: 0, 0
+  index: -1
+DuoiTrai
+  rotate: false
+  xy: 462, 34
+  size: 93, 273
+  orig: 93, 273
+  offset: 0, 0
+  index: -1
+Frame1
+  rotate: false
+  xy: 297, 2
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Frame2
+  rotate: false
+  xy: 406, 236
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+ThanMB
+  rotate: true
+  xy: 2, 62
+  size: 134, 346
+  orig: 134, 346
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 462, 309
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1

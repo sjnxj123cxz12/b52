@@ -1,0 +1,125 @@
+
+9926_UI_NearWin_Reel.png
+size: 1986,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle
+  rotate: false
+  xy: 1588, 2
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+flare5
+  rotate: true
+  xy: 1384, 95
+  size: 424, 202
+  orig: 424, 203
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1352, 93
+  size: 30, 426
+  orig: 30, 450
+  offset: 0, 12
+  index: -1
+glow_base
+  rotate: true
+  xy: 1588, 345
+  size: 174, 396
+  orig: 174, 396
+  offset: 0, 0
+  index: -1
+heart_n_00
+  rotate: false
+  xy: 1352, 6
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+nearwin_00
+  rotate: false
+  xy: 2, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_01
+  rotate: false
+  xy: 137, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_02
+  rotate: false
+  xy: 272, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_03
+  rotate: false
+  xy: 407, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_04
+  rotate: false
+  xy: 542, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_05
+  rotate: false
+  xy: 677, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_06
+  rotate: false
+  xy: 812, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_07
+  rotate: false
+  xy: 947, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_08
+  rotate: false
+  xy: 1082, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+nearwin_09
+  rotate: false
+  xy: 1217, 21
+  size: 133, 498
+  orig: 133, 498
+  offset: 0, 0
+  index: -1
+starGlow
+  rotate: true
+  xy: 1452, 53
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+stroke
+  rotate: true
+  xy: 1588, 169
+  size: 174, 396
+  orig: 174, 396
+  offset: 0, 0
+  index: -1

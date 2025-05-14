@@ -1,0 +1,27 @@
+
+VFX_Buy_Golden_Reel.png
+size: 707,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame
+  rotate: false
+  xy: 2, 2
+  size: 233, 277
+  orig: 233, 277
+  offset: 0, 0
+  index: -1
+Frame_Halo
+  rotate: false
+  xy: 237, 2
+  size: 233, 277
+  orig: 233, 277
+  offset: 0, 0
+  index: -1
+Frame_Inner
+  rotate: false
+  xy: 472, 2
+  size: 233, 277
+  orig: 233, 277
+  offset: 0, 0
+  index: -1

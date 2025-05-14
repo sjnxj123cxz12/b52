@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1188,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-khungicon
+  rotate: true
+  xy: 1, 1
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 421, 25
+  size: 229, 364
+  orig: 229, 364
+  offset: 0, 0
+  index: -1
+bau
+  rotate: false
+  xy: 787, 26
+  size: 142, 80
+  orig: 142, 80
+  offset: 0, 0
+  index: -1
+caidia
+  rotate: false
+  xy: 1025, 14
+  size: 162, 66
+  orig: 162, 66
+  offset: 0, 0
+  index: -1
+cua
+  rotate: true
+  xy: 1071, 82
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+showtien
+  rotate: false
+  xy: 942, 214
+  size: 232, 40
+  orig: 232, 40
+  offset: 0, 0
+  index: -1
+xngau 3
+  rotate: false
+  xy: 931, 3
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+xngau1
+  rotate: false
+  xy: 787, 108
+  size: 153, 146
+  orig: 153, 146
+  offset: 0, 0
+  index: -1
+xngau2
+  rotate: false
+  xy: 942, 95
+  size: 127, 117
+  orig: 127, 117
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+CallOfWarIcon.png
+size: 1000,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1spark
+  rotate: true
+  xy: 2, 2
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+BGcow
+  rotate: true
+  xy: 422, 41
+  size: 229, 287
+  orig: 229, 287
+  offset: 0, 0
+  index: -1
+highlight
+  rotate: true
+  xy: 952, 207
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+icon callwar2
+  rotate: false
+  xy: 711, 143
+  size: 239, 127
+  orig: 239, 127
+  offset: 0, 0
+  index: -1
+icon callwar5
+  rotate: false
+  xy: 711, 31
+  size: 216, 110
+  orig: 216, 110
+  offset: 0, 0
+  index: -1
+khungiconmoi
+  rotate: true
+  xy: 2, 17
+  size: 253, 418
+  orig: 253, 418
+  offset: 0, 0
+  index: -1
+tiasang
+  rotate: true
+  xy: 929, 59
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+topcowtext
+  rotate: false
+  xy: 422, 7
+  size: 213, 32
+  orig: 215, 32
+  offset: 0, 0
+  index: -1

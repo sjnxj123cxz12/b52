@@ -1,0 +1,391 @@
+
+9863_UI_ProcessBar.png
+size: 732,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_Dissible
+  rotate: false
+  xy: 558, 415
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+1_Line
+  rotate: false
+  xy: 346, 2
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+1_board
+  rotate: false
+  xy: 454, 61
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+1_board_Idle
+  rotate: false
+  xy: 640, 123
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+1_board_win
+  rotate: false
+  xy: 216, 83
+  size: 117, 108
+  orig: 117, 108
+  offset: 0, 0
+  index: -1
+2_Board
+  rotate: true
+  xy: 575, 128
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+2_Board_Dis
+  rotate: true
+  xy: 330, 213
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+2_Board_Idle
+  rotate: false
+  xy: 560, 63
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+2_Line
+  rotate: false
+  xy: 551, 267
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+2_Line_Dissible
+  rotate: false
+  xy: 551, 203
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+2_Tick
+  rotate: true
+  xy: 166, 4
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+2_Tick_2
+  rotate: false
+  xy: 705, 602
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+2_board_win
+  rotate: true
+  xy: 216, 193
+  size: 132, 112
+  orig: 132, 112
+  offset: 0, 0
+  index: -1
+3_Dissible_2
+  rotate: false
+  xy: 210, 3
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+3_Line
+  rotate: false
+  xy: 378, 125
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+3_board
+  rotate: true
+  xy: 646, 405
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+3_board_Idle
+  rotate: true
+  xy: 556, 331
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+3_board_win
+  rotate: false
+  xy: 234, 584
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+4_2/Circle_03
+  rotate: false
+  xy: 54, 378
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+4_2/Circle_04
+  rotate: false
+  xy: 381, 600
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+4_2/Circle_05
+  rotate: false
+  xy: 54, 246
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+4_2/Circle_06
+  rotate: false
+  xy: 543, 600
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+4_2/Circle_07
+  rotate: false
+  xy: 54, 114
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+4_2/Circle_08
+  rotate: false
+  xy: 234, 452
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+4_Line
+  rotate: false
+  xy: 395, 205
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Bar
+  rotate: false
+  xy: 2, 109
+  size: 50, 399
+  orig: 50, 399
+  offset: 0, 0
+  index: -1
+C1
+  rotate: true
+  xy: 312, 3
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+C1_2
+  rotate: true
+  xy: 470, 125
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+C2
+  rotate: true
+  xy: 335, 86
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+C2_2
+  rotate: false
+  xy: 705, 633
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 110, 2
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1
+C3_2
+  rotate: true
+  xy: 705, 676
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1
+C_side
+  rotate: true
+  xy: 216, 476
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+C_side_2
+  rotate: false
+  xy: 410, 5
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 504, 131
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+Circle_2
+  rotate: false
+  xy: 396, 468
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+Circle_Glow
+  rotate: false
+  xy: 635, 259
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+Eff
+  rotate: false
+  xy: 410, 22
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Free
+  rotate: true
+  xy: 522, 62
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+Game
+  rotate: false
+  xy: 492, 218
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 216, 327
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+JP
+  rotate: true
+  xy: 341, 309
+  size: 141, 57
+  orig: 141, 57
+  offset: 0, 0
+  index: -1
+JP_Glow
+  rotate: false
+  xy: 400, 395
+  size: 154, 71
+  orig: 154, 71
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 510
+  size: 230, 220
+  orig: 230, 220
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 216, 452
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+Line_2
+  rotate: true
+  xy: 197, 2
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+Polygon
+  rotate: false
+  xy: 558, 489
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+Polygon_Glow
+  rotate: false
+  xy: 110, 26
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1
+Round
+  rotate: true
+  xy: 508, 293
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+Round_2
+  rotate: true
+  xy: 335, 111
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 400, 291
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+Star_1
+  rotate: false
+  xy: 642, 332
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+Star_1_Dis
+  rotate: true
+  xy: 640, 187
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+Star_Glow
+  rotate: false
+  xy: 2, 5
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+Super
+  rotate: true
+  xy: 378, 63
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1

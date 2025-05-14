@@ -1,0 +1,69 @@
+
+Free_Spin_Almira.png
+size: 487,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChanPhai
+  rotate: true
+  xy: 167, 3
+  size: 42, 138
+  orig: 42, 138
+  offset: 0, 0
+  index: -1
+ChanTRai
+  rotate: true
+  xy: 307, 3
+  size: 31, 147
+  orig: 31, 147
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 163, 147
+  size: 241, 123
+  orig: 241, 123
+  offset: 0, 0
+  index: -1
+Tay
+  rotate: false
+  xy: 456, 11
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+TayPhai
+  rotate: true
+  xy: 2, 2
+  size: 42, 163
+  orig: 42, 163
+  offset: 0, 0
+  index: -1
+TayTrai
+  rotate: false
+  xy: 406, 167
+  size: 42, 103
+  orig: 42, 103
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 163, 47
+  size: 98, 165
+  orig: 98, 165
+  offset: 0, 0
+  index: -1
+Vay
+  rotate: false
+  xy: 2, 46
+  size: 159, 224
+  orig: 159, 224
+  offset: 0, 0
+  index: -1
+VaySau
+  rotate: false
+  xy: 330, 36
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
