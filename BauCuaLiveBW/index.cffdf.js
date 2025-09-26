@@ -2113,7 +2113,7 @@ this.lbSessionID.string = ": #" + e;
 },
 updateTimer: function(e) {
 var t = this, i = 1e3 * this.maxtime;
-if (this.nodeProgressTimer) if (this.nodeBarTimer && 1 == this.nodeBarTimer.active && !this.isLockTimerProgress && this.currentState == cc.XXState.BETTING) {
+if (this.nodeProgressTimer) if (this.nodeBarTimer && 1 == this.nodeBarTimer.active && !this.isLockTimerProgress && this.currentState == cc.BauCuaLiveBWPharse.BETTING) {
 null != this.timerInterval && clearInterval(this.timerInterval);
 this.isLockTimerProgress = !0;
 this.timer = 1e3 * e;
