@@ -3115,11 +3115,11 @@ cc.BauCuaLiveBWWinnerCommand = e;
 }).call(void 0);
 cc._RF.pop();
 }, {} ],
-ItemDice: [ function(e, t) {
+ItemDiceBauCuaLiveBigWin: [ function(e, t) {
 "use strict";
-cc._RF.push(t, "f812fmKbexNDquJlxEeDemN", "ItemDice");
+cc._RF.push(t, "f812fmKbexNDquJlxEeDemN", "ItemDiceBauCuaLiveBigWin");
 (function() {
-cc.ItemDice = cc.Class({
+cc.ItemDiceBauCuaLiveBigWin = cc.Class({
 extends: cc.Component,
 properties: {}
 });
@@ -3195,4 +3195,4 @@ start: function() {}
 });
 cc._RF.pop();
 }, {} ]
-}, {}, [ "BauCuaLiveBW.Chat.NetworkClient", "BauCuaLiveBWChat", "JackpotBauCuaLiveBW", "AudioPoolBauCuaLiveBW", "BauCuaLiveBWGroupUserCommand", "BauCuaLiveBW_HistoryCommand", "BauCuaLiveBW_SoiCauCommand", "BauCuaLiveBW_WinnerCommand", "BauCuaLiveBWAnim", "BauCuaLiveBWBetSide", "BauCuaLiveBWMap", "BauCuaLiveBWPharse", "BauCuaLiveBWController", "BauCuaLiveBWPopupController", "BauCuaLiveBWGraphItem", "BauCuaLiveBWGraphView", "ItemDice", "BauCuaLiveBWGroupItem", "BauCuaLiveBWGroupUserListView", "BauCuaLiveBWGroupUserView", "BauCuaLiveBWHelpView", "BauCuaLiveBWHistoryItem", "BauCuaLiveBWHistoryListView", "BauCuaLiveBWHistoryView", "BauCuaLiveBWPlayer", "BauCuaLiveBWTopItem", "BauCuaLiveBWTopListView", "BauCuaLiveBWTopView", "BauCuaLiveBWAssetsView", "BauCuaLiveBWBetView", "BauCuaLiveBWButtonBet", "BauCuaLiveBWChipView", "BauCuaLiveBWInfoView", "BauCuaLiveBWMenuView", "BauCuaLiveBWPopupView", "BauCuaLiveBWResultView", "BauCuaLiveBWSettingView", "BauCuaLiveBWSoiCauView", "BauCuaLiveBWView", "NewScript" ]);
+}, {}, [ "BauCuaLiveBW.Chat.NetworkClient", "BauCuaLiveBWChat", "JackpotBauCuaLiveBW", "AudioPoolBauCuaLiveBW", "BauCuaLiveBWGroupUserCommand", "BauCuaLiveBW_HistoryCommand", "BauCuaLiveBW_SoiCauCommand", "BauCuaLiveBW_WinnerCommand", "BauCuaLiveBWAnim", "BauCuaLiveBWBetSide", "BauCuaLiveBWMap", "BauCuaLiveBWPharse", "BauCuaLiveBWController", "BauCuaLiveBWPopupController", "BauCuaLiveBWGraphItem", "BauCuaLiveBWGraphView", "ItemDiceBauCuaLiveBigWin", "BauCuaLiveBWGroupItem", "BauCuaLiveBWGroupUserListView", "BauCuaLiveBWGroupUserView", "BauCuaLiveBWHelpView", "BauCuaLiveBWHistoryItem", "BauCuaLiveBWHistoryListView", "BauCuaLiveBWHistoryView", "BauCuaLiveBWPlayer", "BauCuaLiveBWTopItem", "BauCuaLiveBWTopListView", "BauCuaLiveBWTopView", "BauCuaLiveBWAssetsView", "BauCuaLiveBWBetView", "BauCuaLiveBWButtonBet", "BauCuaLiveBWChipView", "BauCuaLiveBWInfoView", "BauCuaLiveBWMenuView", "BauCuaLiveBWPopupView", "BauCuaLiveBWResultView", "BauCuaLiveBWSettingView", "BauCuaLiveBWSoiCauView", "BauCuaLiveBWView", "NewScript" ]);
